@@ -1,0 +1,17 @@
+bin
+gen
+out
+proguard
+proguard_logs
+.DS_Store
+R.java
+.metadata/
+*.pyc
+.classpath
+.project
+.settings
+tests
+*.apk
+*/.idea
+android/client/.idea/workspace.xml
+android/clientbeta/.idea/workspace.xml
