@@ -1,0 +1,4 @@
+FullClassPath,AntiPattern
+com.keepassdroid.database.SearchParameters,ManyFieldAttributesButNotComplex
+com.keepassdroid.database.SearchParameters,ManyFieldAttributesButNotComplex
+com.keepassdroid.database.SearchParameters,ManyFieldAttributesButNotComplex

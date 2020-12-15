@@ -1,0 +1,10 @@
+FullClassPath,AntiPattern
+com.keepassdroid.settings.MainSettingsFragement,AntiSingleton
+com.keepassdroid.compat.StorageAF,AntiSingleton
+com.keepassdroid.utils.Types,AntiSingleton
+com.keepassdroid.database.SearchParametersV4,AntiSingleton
+com.keepassdroid.crypto.keyDerivation.KdfFactory,AntiSingleton
+com.keepassdroid.settings.DBSettingsFragement,AntiSingleton
+com.keepassdroid.compat.ContentResolverCompat,AntiSingleton
+com.keepassdroid.database.PwIconStandard,AntiSingleton
+com.keepassdroid.settings.AppSettingsFragement,AntiSingleton

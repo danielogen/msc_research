@@ -1,0 +1,5 @@
+FullClassPath,AntiPattern
+com.keepassdroid.dialog.ReadOnlyDialog,LazyClass
+com.keepassdroid.dialog.ReadOnlyDialog,LazyClass
+com.keepassdroid.database.PwGroupId,LazyClass
+com.keepassdroid.database.PwGroupId,LazyClass

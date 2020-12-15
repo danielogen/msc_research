@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+        android:key="preferences_screen"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+            android:title="@string/settings_menu_routing_options"
+            android:key="routing_options">
+        <CheckBoxPreference
+                android:key="wheelchair_accessible"
+                android:defaultValue="false"
+                android:summary="@string/settings_menu_wheelchair_accessibility_description"
+                android:title="@string/settings_menu_wheelchair_accessible"></CheckBoxPreference>
+        <EditTextPreference
+                android:key="max_walking_distance"
+                android:defaultValue="@integer/max_walking_distance"
+                android:title="@string/settings_menu_maximum_walk"
+                android:numeric="integer"></EditTextPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+            android:title="@string/settings_menu_location_preference_category_title"
+            android:key="location_options">
+        <CheckBoxPreference
+                android:title="@string/settings_menu_auto_detect_server"
+                android:key="auto_detect_server"
+                android:summary="@string/settings_menu_auto_detect_server_description"
+                android:defaultValue="true"
+                android:checked="true"></CheckBoxPreference>
+        <Preference
+                android:title="@string/settings_menu_refresh_server_list"
+                android:key="refresh_server_list"/>
+        <CheckBoxPreference
+                android:title="@string/settings_menu_use_device_timezone"
+                android:key="use_device_timezone"
+                android:defaultValue="false"
+                android:summary="@string/settings_menu_use_device_timezone_description"></CheckBoxPreference>
+        <PreferenceScreen
+                android:title="@string/settings_menu_advanced"
+                android:summary="@string/settings_menu_location_advanced_preference_category_summary"
+                android:key="location_advanced_preference_category">
+            <EditTextPreference
+                    android:key="custom_server_url"
+                    android:title="@string/settings_menu_custom_server_url"
+                    android:inputType="text|textNoSuggestions"
+                    android:hint="@string/custom_server_url_hint"></EditTextPreference>
+            <CheckBoxPreference
+                    android:title="@string/settings_menu_custom_server_select_title"
+                    android:key="selected_custom_server"
+                    android:defaultValue="false"
+                    android:summary="@string/settings_menu_custom_server_select_description"></CheckBoxPreference>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory
+            android:title="@string/settings_menu_map_options"
+            android:key="map_options">
+        <ListPreference
+                android:title="@string/settings_menu_map_tile_provider"
+                android:key="map_tile_source"></ListPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+            android:title="@string/settings_menu_geocoder_preference_category_title"
+            android:key="geocoder_preference_category">
+        <ListPreference
+                android:title="@string/settings_menu_geocoder_preference_provider_title"
+                android:key="geocoder_provider"></ListPreference>
+        <PreferenceScreen
+                android:title="@string/settings_menu_advanced"
+            android:summary="@string/settings_menu_geocoder_advanced_preference_category_summary"
+            android:key="geocoder_advanced_preference_category">
+        <CheckBoxPreference
+                    android:title="@string/settings_menu_use_android_geocoder_title"
+                    android:key="use_android_geocoder"
+                    android:checked="true"
+                    android:defaultValue="true"
+                    android:summary="@string/settings_menu_use_android_geocoder_description"></CheckBoxPreference>
+            <CheckBoxPreference
+                    android:title="@string/settings_menu_use_intelligent_markers_title"
+                    android:key="use_intelligent_markers"
+                    android:checked="true"
+                    android:defaultValue="true"
+                    android:summary="@string/settings_menu_use_intelligent_markers_description"></CheckBoxPreference>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/settings_menu_live_updates_category_title"
+        android:key="live_updates_category">
+        <CheckBoxPreference
+            android:key="live_updates"
+            android:defaultValue="true"
+            android:summary="@string/settings_menu_live_updates_description"
+            android:title="@string/settings_menu_live_updates"></CheckBoxPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/settings_menu_about_category"
+        android:key="about_category">
+        <Preference
+                android:title="@string/settings_menu_about"
+                android:summary="@string/settings_menu_about_description"
+                android:key="about"/>
+        <Preference
+                android:title="@string/settings_menu_feedback"
+                android:summary="@string/feedback_email_android_developer"
+                android:key="otp_provider_feedback"/>
+    </PreferenceCategory>
+</PreferenceScreen> 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

@@ -1,0 +1,14 @@
+FullClassPath,AntiPattern
+org.thoughtcrime.securesms.database.loaders.RecentPhotosLoader,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.lock.v2.KbsPin,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.jobs.MultiDeviceProfileKeyUpdateJob,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.notifications.DeleteNotificationReceiver,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.giph.util.InfiniteScrollListener,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.util.livedata.LiveDataUtilTest,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.profiles.AvatarHelper,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.database.JobDatabase,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.giph.net.GiphyLoader,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.jobs.RotateProfileKeyJob,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.imageeditor.Bounds,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.jobs.StorageAccountRestoreJob,ClassDataShouldBePrivate
+org.thoughtcrime.securesms.contacts.NameAndNumber,ClassDataShouldBePrivate

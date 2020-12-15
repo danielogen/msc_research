@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+org.thoughtcrime.securesms.mms.OutgoingMediaMessage,Blob
+org.thoughtcrime.securesms.mms.QuoteModel,Blob
+org.thoughtcrime.securesms.mms.IncomingMediaMessage,Blob
+org.thoughtcrime.securesms.mms.QuoteModel,Blob
+org.thoughtcrime.securesms.groups.GroupManagerV2,Blob
+org.thoughtcrime.securesms.groups.GroupsV2Authorization,Blob

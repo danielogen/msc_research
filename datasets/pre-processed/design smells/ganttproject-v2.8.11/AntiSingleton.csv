@@ -1,0 +1,13 @@
+FullClassPath,AntiPattern
+biz.ganttproject.core.chart.render.ShapeConstants,AntiSingleton
+net.sourceforge.ganttproject.gui.GanttDialogInfo,AntiSingleton
+net.sourceforge.ganttproject.gui.GanttLookAndFeels,AntiSingleton
+net.sourceforge.ganttproject.language.GanttLanguage,AntiSingleton
+net.sourceforge.ganttproject.export.ExporterBase,AntiSingleton
+biz.ganttproject.core.time.GanttCalendar,AntiSingleton
+net.sourceforge.ganttproject.task.CustomColumnsStorage,AntiSingleton
+net.sourceforge.ganttproject.GPTransferable,AntiSingleton
+net.sourceforge.ganttproject.gui.UIUtil,AntiSingleton
+net.sourceforge.ganttproject.gui.options.OptionsPageBuilder,AntiSingleton
+net.sourceforge.ganttproject.GPVersion,AntiSingleton
+net.sourceforge.ganttproject.GanttTreeTableModel,AntiSingleton

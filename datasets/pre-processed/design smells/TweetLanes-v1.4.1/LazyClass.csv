@@ -1,0 +1,13 @@
+FullClassPath,AntiPattern
+com.tweetlanes.android.core.view.DeleteNotificationsReceiver,LazyClass
+com.tweetlanes.android.core.view.DeleteNotificationsReceiver,LazyClass
+org.tweetalib.android.TwitterConstant,LazyClass
+org.tweetalib.android.TwitterConstant,LazyClass
+com.tweetlanes.android.core.widget.urlimageviewhelper.UrlLruCache,LazyClass
+com.tweetlanes.android.core.widget.urlimageviewhelper.UrlLruCache,LazyClass
+com.tweetlanes.android.core.view.DeviceBootReciever,LazyClass
+com.tweetlanes.android.core.view.DeviceBootReciever,LazyClass
+org.socialnetlib.android.SocialNetConstant,LazyClass
+org.socialnetlib.android.SocialNetConstant,LazyClass
+com.tweetlanes.android.core.ConsumerKeyConstants,LazyClass
+com.tweetlanes.android.core.ConsumerKeyConstants,LazyClass

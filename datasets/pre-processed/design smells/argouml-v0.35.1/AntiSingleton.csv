@@ -1,0 +1,6 @@
+FullClassPath,AntiPattern
+org.argouml.notation.providers.uml.NotationUtilityUml,AntiSingleton
+org.argouml.util.PredicateStringMatch,AntiSingleton
+org.argouml.profile.CoreProfileReference,AntiSingleton
+org.argouml.model.mdr.AbstractMDRModelImplementationTestCase,AntiSingleton
+org.argouml.util.osdep.OSXAdapter,AntiSingleton

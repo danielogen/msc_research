@@ -1,0 +1,9 @@
+FullClassPath,AntiPattern
+org.mars_sim.msp.core.foodProduction.FoodProductionProcessInfo,Blob
+org.mars_sim.msp.core.foodProduction.FoodProductionProcess,Blob
+org.mars_sim.msp.core.structure.building.function.farming.BeeHive,Blob
+org.mars_sim.msp.core.structure.building.function.farming.Bee,Blob
+org.mars_sim.msp.core.structure.construction.ConstructionStageInfo,Blob
+org.mars_sim.msp.core.structure.construction.ConstructionSite,Blob
+org.mars_sim.msp.core.manufacture.ManufactureProcess,Blob
+org.mars_sim.msp.core.manufacture.ManufactureProcessInfo,Blob

@@ -1,0 +1,14 @@
+FullClassPath,AntiPattern
+biz.ganttproject.core.time.GanttCalendar,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.gui.GanttDialogInfo,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.document.webdav.WebDavServerDescriptor,ClassDataShouldBePrivate
+biz.ganttproject.core.chart.render.ShapeConstants,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.GanttExportSettings,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.io.CSVOptions,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.gui.UIUtil,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.task.CustomColumnsStorage,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.GanttResourcePanel,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.GanttProject,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.GPVersion,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.gui.options.OptionsPageBuilder,ClassDataShouldBePrivate
+net.sourceforge.ganttproject.language.GanttLanguage,ClassDataShouldBePrivate

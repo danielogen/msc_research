@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+org.argouml.kernel.AbstractCommand,SpeculativeGenerality
+org.argouml.kernel.AbstractCommand,SpeculativeGenerality
+org.argouml.core.propertypanels.ui.ActionSetMultiplicity,SpeculativeGenerality
+org.argouml.core.propertypanels.ui.ActionSetMultiplicity,SpeculativeGenerality
+org.argouml.application.api.AbstractArgoJPanel,SpeculativeGenerality
+org.argouml.application.api.AbstractArgoJPanel,SpeculativeGenerality

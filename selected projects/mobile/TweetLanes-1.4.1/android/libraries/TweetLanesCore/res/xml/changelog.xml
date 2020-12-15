@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.4.1" versioncode="57">
+        <change>Fix - Issue preventing users from logging in for the first time.</change>
+        <change>Removed - App.net support. Given Tweet Lanes is a free app, I unfortunately can no longer justify
+            continuing to pay for an App.net developer account.</change>
+    </release>
+    <release version="1.4.0" versioncode="56">
+        <change>Feature - Large media previews &amp; option to turn off media previews</change>
+        <change>Feature - Added option to use display urls rather than full URLs</change>
+        <change>Feature - Added auto complete mid status rather than needing to be the last word in compose box</change>
+        <change>Feature - Added configuration for statuses cache size</change>
+        <change>Fix - Set VolScroll to be defaulted off</change>
+        <change>Fix - Update remaining characters as soon as media attached</change>
+        <change>Fix - Rotate flip on landscape refresh</change>
+        <change>Fix - Prevent infinite refresh loop</change>
+        <change>Fix - Correct issue with conversations appearing under the wrong statuses</change>
+        <change>Fix - Favorites now correctly get sent to twitter</change>
+        <change>Fix - Various errors reported by fatal crashes</change>
+    </release>
+    <release version="1.3.0" versioncode="55">
+        <change>Feature - Added account remover in settings</change>
+        <change>Feature - Mention &amp; DM notification status load into timeline without second refresh</change>
+        <change>Feature - Added optional auto refresh on start (but only if it's been more than 2 mins since last refresh)</change>
+        <change>Feature - Change in app image save location</change>
+        <change>Feature - DM added to a cache to cut down on data transfer</change>
+        <change>Feature - Can delete one or multiple direct messages</change>
+        <change>Feature - Added some xxhdpi images for newer high def devices (Nexus 5)</change>
+        <change>Feature - Made UI more optimistic so interactions are show to happen instantly &amp; then only report failures</change>
+        <change>Feature - Added Options for showing display names and handles</change>
+        <change>Feature - Added handling for new tweet, twitter follow links to open in app</change>
+        <change>Feature - Added handling for profiles to open in app</change>
+        <change>Fix - Corrected a few Crittercism reported force close errors</change>
+        <change>Fix - Corrected issue whereby visible lanes would randomly reset</change>
+        <change>Fix - Screen orientation will lock whilst posting to prevent issues with status not posting correctly</change>
+        <change>Fix - Better handling of statuses being removed/deleted</change>
+        <change>Fix - DM refresh on send</change>
+        <change>Fix - All DM's downloaded rather than just "newest" in conversation</change>
+        <change>Fix - DM last message correctly passed back to the summary page (without need to refresh)</change>
+        <change>Fix - Make it clear that the summary DM is actually your reply</change>
+        <change>Fix - Improved performance when scrolling</change>
+        <change>Fix - Improved performance for status display</change>
+        <change>Fix - Split Names/Handles on multiple lines to support longer text</change>
+        <change>Fix - Updated DM to show the same format names as standard statuses</change>
+        <change>Fix - Image saving on KitKat devices</change>
+        <change>Other - Updated version of crittersim for better app tracking</change>
+    </release>
+	<release version="1.2.1" versioncode="51">
+        <change>Feature - Make the ActionBar title selectable when viewing a profile</change>
+        <change>Feature - Added a visual cue when favorite button is pressed</change>
+        <change>Feature - Added Holo Light Dark Actionbar Theme</change>
+        <change>Feature - Added "Extra Extra Large" and "Supersize" font sizes</change>
+        <change>Feature - Extended the auto complete to match typed text anywhere in username and in full name</change>
+        <change>Feature - Added ability to remove an attached image by pressing and holding</change>
+        <change>Feature - Added URL handling so that Tweetlanes is a choice when loading Twitter or App.net items</change>
+        <change>Feature - Added smarter fetching starting with small pages, and incrementing as extra pages required</change>
+        <change>Feature - Added refresh after posting &amp; refresh when loading app from notification</change>
+        <change>Feature - Added ability to show absolute times on timeline, also a mixed mode (59 mins a less is relative)</change>
+	    <change>Fix - Links are now shown in full, rather than a "display link"</change>
+        <change>Fix - Links in profile descriptions converted from t.co links</change>
+        <change>Fix - Reply when loading profile correction.  Show "Tweet @username"</change>
+	    <change>Fix - Correct issues around compose box after loading profile</change>
+	    <change>Fix - Use the t.co display url, rather than expanded url.  These are formatted nicer</change>
+	    <change>Fix - Fix issue when more than 1 page of tweets.  Fetch only completes when all tweets collected preventing feed jumping</change>
+        <change>Fix - Change the message when you try and send an empty status update</change>
+        <change>Fix - Correct issue with the new tweet bar when orientation changes and account switches</change>
+        <change>Fix - Profile and service icon only show when you use both networks, or have 3 or more accounts</change>
+        <change>Fix - Position in lanes remembered between loads and lane switches</change>
+        <change>Fix - Profile URL is now expanded from a t.co</change>
+        <change>Fix - Close several leaks dealing with the image loader</change>
+        <change>Fix - Significantly reduce overdraw in lists containing tweets</change>
+        <change>Fix - Force close when switching accounts</change>
+        <change>Fix - New tweet count on close and re-open</change>
+	    <change>Other - Large codebase tidy-up - hopefully small improvement to performance, size and reliability</change>
+    </release>
+    <release version="1.2.0" versioncode="49">
+        <change>Feature - Auto complete of @mentions and #hashtags</change>
+        <change>Feature - New account switcher with picture and service icon</change>
+        <change>Feature - Added new change log (this is it!)</change>
+        <change>Feature - Sign up for an App.net account from within the app</change>
+        <change>Feature - Added username to the compose box</change>
+        <change>Feature - Image scaling to ensure images are under 1024x1024 (aspect ratio maintained)</change>
+        <change>Feature - Mention &amp; DM notifications start on boot</change>
+        <change>Feature - Made links to contributors clickable</change>
+        <change>Fix - Show inline images from retweets</change>
+        <change>Fix - DM notifications load into DM lane</change>
+        <change>Fix - Retweets of Retweets now correctly stay marked as such</change>
+        <change>Fix - Correct handling of media URLs if the domain contains upper case characters</change>
+        <change>Fix - Replys, Attached images &amp; new tweet bar remain during orientation change</change>
+        <change>Other - Crittercism upgrade (making it easier for us to see when you have problems)</change>
+    </release>
+    <release version="1.1.4" versioncode="48">
+        <change>Feature - Image loader retries the download of image if it's empty.</change>
+        <change>Feature - Status' passed from the cache to the spotlight to prevent loading</change>
+        <change>Feature - Status' updated (by way of favorite of RT) are passed back to the main feed to show this happening</change>
+        <change>Feature - Vibration setting for new notifications</change>
+        <change>Fix - Correct new tweet bar</change>
+        <change>Fix - Prevent incorrect mention counts in notifications</change>
+        <change>Fix - Profile images are "Bigger" rather than "Original" - corrects shape of images, and also reduces data to download</change>
+        <change>Fix - Mirror twitter.com functionality by excluding your own handle when replying to your own tweets</change>
+        <change>Fix - Spotlight retweets now function correctly</change>
+        <change>Fix - Retweet &amp; Favorite dog ears now show when the event occurs and the cache is updated</change>
+        <change>Fix - Correct handling of tweet deletion to remove from the cache, rather than keep displaying</change>
+        <change>Fix - Added better handling of image downloading, with additional error handling in an attempt to prevent this being a fatal error</change>
+    </release>
+    <release version="1.1.3" versioncode="47">
+        <change>Feature - Notifications for Direct Messages</change>
+        <change>Feature - Removed the cancel tweet button when composing.</change>
+        <change>Feature - Images now check for new versions every 24 hours. No more "Clear Image Cache" needed</change>
+        <change>Fix - Character count show shows on new tweets</change>
+        <change>Fix - Correct reply boxes to show correct information on exit</change>
+        <change>Fix - Lots of Twitter API v1 stuff that was missed</change>
+    </release>
+    <release version="1.1.2" versioncode="46">
+        <change>Feature - DashClock Support</change>
+        <change>Feature - Notification Interval - get notifications faster (at the expense of battery and data usage) or slower (save battery and data!)</change>
+        <change>Fix - Crash on startup for 4.0 devices</change>
+        <change>Fix - Only mentioning first user when replying</change>
+        <change>Fix - Profile images no longer cached forever</change>
+        <change>Fix - Crashes when loading tweets or users</change>
+    </release>
+    <release version="1.1.1" versioncode="45">
+        <change>Feature - Notifications for mentions!</change>
+        <change>Feature - Delete tweet/post</change>
+        <change>Feature - App.net favorites</change>
+        <change>Fix - Fix tutorial so scrolls properly (thanks AndrewCaul)</change>
+        <change>Fix - App.net posts now show if you have favorited or reposted</change>
+        <change>Other - Removed open source code from Twidere, as it was license incompatible with Tweet Lanes</change>
+    </release>
+</changelog>
+

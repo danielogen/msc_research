@@ -1,0 +1,13 @@
+FullClassPath,AntiPattern
+org.mars_sim.msp.ui.javafx.mainmenu.MainMenu,SpaghettiCode
+org.mars_sim.msp.ui.javafx.mainmenu.MainMenu,SpaghettiCode
+org.mars_sim.msp.ui.javafx.mainmenu.MainMenu,SpaghettiCode
+org.mars_sim.msp.ui.javafx.mainmenu.MainMenu,SpaghettiCode
+org.mars_sim.msp.core.UnitManager,SpaghettiCode
+org.mars_sim.msp.core.UnitManager,SpaghettiCode
+org.mars_sim.msp.core.UnitManager,SpaghettiCode
+org.mars_sim.msp.core.UnitManager,SpaghettiCode
+org.mars_sim.javafx.MainScene,SpaghettiCode
+org.mars_sim.javafx.MainScene,SpaghettiCode
+org.mars_sim.javafx.MainScene,SpaghettiCode
+org.mars_sim.javafx.MainScene,SpaghettiCode

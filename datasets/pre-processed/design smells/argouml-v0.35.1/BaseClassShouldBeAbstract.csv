@@ -1,0 +1,10 @@
+FullClassPath,AntiPattern
+org.argouml.uml.diagram.state.StateDiagramGraphModel,BaseClassShouldBeAbstract
+org.argouml.uml.diagram.state.StateDiagramGraphModel,BaseClassShouldBeAbstract
+org.argouml.uml.diagram.state.StateDiagramGraphModel,BaseClassShouldBeAbstract
+org.argouml.uml.diagram.deployment.DeploymentDiagramGraphModel,BaseClassShouldBeAbstract
+org.argouml.uml.diagram.deployment.DeploymentDiagramGraphModel,BaseClassShouldBeAbstract
+org.argouml.uml.diagram.deployment.DeploymentDiagramGraphModel,BaseClassShouldBeAbstract
+org.argouml.uml.reveng.Setting,BaseClassShouldBeAbstract
+org.argouml.uml.reveng.Setting,BaseClassShouldBeAbstract
+org.argouml.uml.reveng.Setting,BaseClassShouldBeAbstract

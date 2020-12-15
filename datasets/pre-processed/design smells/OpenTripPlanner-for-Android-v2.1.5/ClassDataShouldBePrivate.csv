@@ -1,0 +1,3 @@
+FullClassPath,AntiPattern
+edu.usf.cutr.opentripplanner.android.util.RangeSeekBar,ClassDataShouldBePrivate
+edu.usf.cutr.opentripplanner.android.tasks.ServerSelector,ClassDataShouldBePrivate

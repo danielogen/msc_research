@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+        >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tweet Lanes Creator"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+
+            <ImageView
+                    android:id="@+id/credit_lacy_pic"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:paddingLeft="0dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:src="@drawable/lacy_profile_thumb"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"/>
+
+            <TextView
+                    android:id="@+id/credit_lacy_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_lacy_name"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignLeft="@+id/credit_lacy_networks"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_lacy_networks"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="17dp"
+                    android:id="@+id/credit_lacy_networks"
+                    android:layout_below="@+id/credit_lacy_name"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/credit_lacy_pic"/>
+
+        </RelativeLayout>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tweet Lanes Contributors"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_marginTop="8dp"/>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+
+            <ImageView
+                    android:id="@+id/credit_fammy_pic"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:paddingLeft="0dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:src="@drawable/fammy_profile_thumb"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"/>
+
+            <TextView
+                    android:id="@+id/credit_fammy_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_fammy_name"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignLeft="@+id/credit_fammy_networks"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_fammy_networks"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="17dp"
+                    android:id="@+id/credit_fammy_networks"
+                    android:layout_below="@+id/credit_fammy_name"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/credit_fammy_pic"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+
+            <ImageView
+                    android:id="@+id/credit_duffy_pic"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:paddingLeft="0dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:src="@drawable/duffy_profile_thumb"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"/>
+
+            <TextView
+                    android:id="@+id/credit_duffy_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_duffy_name"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignLeft="@+id/credit_duffy_networks"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_duffy_networks"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="17dp"
+                    android:id="@+id/credit_duffy_networks"
+                    android:layout_below="@+id/credit_duffy_name"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/credit_duffy_pic"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+
+            <ImageView
+                    android:id="@+id/credit_blythmeister_pic"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:paddingLeft="0dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:src="@drawable/blythmeister_profile_thumb"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"/>
+
+            <TextView
+                    android:id="@+id/credit_blythmeister_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_blythmeister_name"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignLeft="@+id/credit_blythmeister_networks"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credits_blythmeister_networks"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="17dp"
+                    android:id="@+id/credit_blythmeister_networks"
+                    android:layout_below="@+id/credit_blythmeister_name"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/credit_blythmeister_pic"/>
+
+        </RelativeLayout>
+
+        <TextView
+                android:id="@+id/credits_oss_heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="@string/credits_oss_heading"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textSize="17dp"
+                android:layout_marginTop="9dp"/>
+
+        <TextView
+                android:id="@+id/credits_oss_items"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="@string/credits_oss_items"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textSize="17dp"/>
+
+        <TextView
+                android:id="@+id/credits_art_items"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="14dp"
+                android:text="@string/credits_art_items"
+                android:textSize="17dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="14dp"
+                android:text="@string/credits_app_copyright"
+                android:textSize="17dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+    </LinearLayout>
+</ScrollView>

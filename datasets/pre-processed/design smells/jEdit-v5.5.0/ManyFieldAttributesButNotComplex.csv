@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+org.gjt.sp.jedit.syntax.Token,ManyFieldAttributesButNotComplex
+org.gjt.sp.jedit.syntax.Token,ManyFieldAttributesButNotComplex
+org.gjt.sp.jedit.syntax.Token,ManyFieldAttributesButNotComplex
+org.gjt.sp.jedit.Debug,ManyFieldAttributesButNotComplex
+org.gjt.sp.jedit.Debug,ManyFieldAttributesButNotComplex
+org.gjt.sp.jedit.Debug,ManyFieldAttributesButNotComplex
