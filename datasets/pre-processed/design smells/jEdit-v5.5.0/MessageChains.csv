@@ -1,0 +1,5 @@
+FullClassPath,AntiPattern
+org.gjt.sp.jedit.jEdit,MessageChains
+org.gjt.sp.jedit.SettingsReloader,MessageChains
+org.gjt.sp.jedit.View,MessageChains
+org.gjt.sp.jedit.pluginmgr.PluginDetailPanel,MessageChains

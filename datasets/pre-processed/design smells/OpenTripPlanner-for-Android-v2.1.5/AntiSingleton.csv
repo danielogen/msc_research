@@ -1,0 +1,2 @@
+FullClassPath,AntiPattern
+edu.usf.cutr.opentripplanner.android.util.JacksonConfig,AntiSingleton

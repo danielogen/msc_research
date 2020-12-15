@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+org.argouml.cognitive.AndCM,RefusedParentBequest
+org.argouml.cognitive.CompositeCM,RefusedParentBequest
+org.argouml.cognitive.OrCM,RefusedParentBequest
+org.argouml.cognitive.CompositeCM,RefusedParentBequest
+org.argouml.cognitive.StandardCM,RefusedParentBequest
+org.argouml.cognitive.AndCM,RefusedParentBequest

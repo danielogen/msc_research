@@ -1,0 +1,4 @@
+FullClassPath,AntiPattern
+biz.ganttproject.core.chart.render.ShapeConstants,ManyFieldAttributesButNotComplex
+biz.ganttproject.core.chart.render.ShapeConstants,ManyFieldAttributesButNotComplex
+biz.ganttproject.core.chart.render.ShapeConstants,ManyFieldAttributesButNotComplex

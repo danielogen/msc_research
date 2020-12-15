@@ -1,0 +1,9 @@
+FullClassPath,AntiPattern
+edu.usf.cutr.opentripplanner.android.model.Server,ComplexClass
+edu.usf.cutr.opentripplanner.android.util.RangeSeekBar,ComplexClass
+edu.usf.cutr.opentripplanner.android.MyActivity,ComplexClass
+edu.usf.cutr.opentripplanner.android.fragments.MainFragment,ComplexClass
+edu.usf.cutr.opentripplanner.android.fragments.MainFragment,ComplexClass
+edu.usf.cutr.opentripplanner.android.OTPApp,ComplexClass
+edu.usf.cutr.opentripplanner.android.util.DirectionsGenerator,ComplexClass
+edu.usf.cutr.opentripplanner.android.util.RangeSeekBar,ComplexClass

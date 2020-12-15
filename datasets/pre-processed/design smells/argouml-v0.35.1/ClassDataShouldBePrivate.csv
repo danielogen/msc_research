@@ -1,0 +1,2 @@
+FullClassPath,AntiPattern
+org.argouml.util.PredicateStringMatch,ClassDataShouldBePrivate

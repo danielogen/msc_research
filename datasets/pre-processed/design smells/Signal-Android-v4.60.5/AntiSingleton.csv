@@ -1,0 +1,13 @@
+FullClassPath,AntiPattern
+org.thoughtcrime.securesms.imageeditor.Bounds,AntiSingleton
+org.thoughtcrime.securesms.giph.util.InfiniteScrollListener,AntiSingleton
+org.thoughtcrime.securesms.giph.net.GiphyLoader,AntiSingleton
+org.thoughtcrime.securesms.jobs.StorageAccountRestoreJob,AntiSingleton
+org.thoughtcrime.securesms.jobs.RotateProfileKeyJob,AntiSingleton
+org.thoughtcrime.securesms.lock.v2.KbsPin,AntiSingleton
+org.thoughtcrime.securesms.database.JobDatabase,AntiSingleton
+org.thoughtcrime.securesms.profiles.AvatarHelper,AntiSingleton
+org.thoughtcrime.securesms.notifications.DeleteNotificationReceiver,AntiSingleton
+org.thoughtcrime.securesms.database.loaders.RecentPhotosLoader,AntiSingleton
+org.thoughtcrime.securesms.jobs.MultiDeviceProfileKeyUpdateJob,AntiSingleton
+org.thoughtcrime.securesms.imageeditor.model.AnimationMatrix,AntiSingleton

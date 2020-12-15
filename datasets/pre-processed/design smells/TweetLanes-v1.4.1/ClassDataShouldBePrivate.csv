@@ -1,0 +1,12 @@
+FullClassPath,AntiPattern
+org.appdotnet4j.model.AdnMedia,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnPostCompose,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnUser,ClassDataShouldBePrivate
+org.tweetalib.android.model.TwitterStatus,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnUsers,ClassDataShouldBePrivate
+com.tweetlanes.android.core.widget.gestureimageview.VectorF,ClassDataShouldBePrivate
+org.tweetalib.android.model.TwitterDirectMessage,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnPost,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnPosts,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnPaging,ClassDataShouldBePrivate
+org.appdotnet4j.model.AdnInteraction,ClassDataShouldBePrivate

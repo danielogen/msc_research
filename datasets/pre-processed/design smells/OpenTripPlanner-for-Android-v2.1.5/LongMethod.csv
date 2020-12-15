@@ -1,0 +1,12 @@
+FullClassPath,AntiPattern
+edu.usf.cutr.opentripplanner.android.tasks.ServerChecker,LongMethod
+edu.usf.cutr.opentripplanner.android.MyActivity,LongMethod
+edu.usf.cutr.opentripplanner.android.fragments.DirectionListFragment,LongMethod
+edu.usf.cutr.opentripplanner.android.util.DirectionsGenerator,LongMethod
+edu.usf.cutr.opentripplanner.android.util.RangeSeekBar,LongMethod
+edu.usf.cutr.opentripplanner.android.util.DirectionExpandableListAdapter,LongMethod
+edu.usf.cutr.opentripplanner.android.tasks.TripRequest,LongMethod
+edu.usf.cutr.opentripplanner.android.pois.Nominatim,LongMethod
+edu.usf.cutr.opentripplanner.android.util.LocationUtil,LongMethod
+edu.usf.cutr.opentripplanner.android.pois.GooglePlaces,LongMethod
+edu.usf.cutr.opentripplanner.android.tasks.ServerSelector,LongMethod

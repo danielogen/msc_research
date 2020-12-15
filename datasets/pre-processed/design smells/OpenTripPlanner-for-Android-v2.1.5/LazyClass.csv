@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+edu.usf.cutr.opentripplanner.android.AboutPlayServicesActivity,LazyClass
+edu.usf.cutr.opentripplanner.android.AboutPlayServicesActivity,LazyClass
+edu.usf.cutr.opentripplanner.android.exceptions.ServerListParsingException,LazyClass
+edu.usf.cutr.opentripplanner.android.exceptions.ServerListParsingException,LazyClass
+edu.usf.cutr.opentripplanner.android.AboutActivity,LazyClass
+edu.usf.cutr.opentripplanner.android.AboutActivity,LazyClass
