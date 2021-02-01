@@ -1,5 +1,5 @@
 ## Using Machine Learning to Understand the Association of Design Smells with Role-Stereotypes in Software Systems
-================
+
 ### Summary 
 While developing software systems, poor design and implementation choices can negatively affect the maintainability of software systems. There are recurring patterns of poorly designed (fragments of) software systems - these are referred to as design smells. Role-stereotypes indicate generic responsibilities that classes play in system design. Although the concepts of role-stereotypes and design smells are broadly dissimilar, both are significant contributors to the design and maintenance of software systems. This project presents an exploratory approach based on a combination of statistical analysis and unsupervised learning methods to understand the relation between design smells with role-stereotypes and how this relationship varies across different desktop and mobile applications. 
 
@@ -8,9 +8,8 @@ The study was performed on a dataset consisting of twelve (12) Java projects min
 We believe that these relationships may be associated with the characteristic and collaborative properties between role-stereotypes. Therefore, this study provides important insights on this previously concealed behavior about the relation between design smells with role-stereotypes.
 
 ### Publications
-================
-1. [Comparison of Occurrence of Design Smells in Desktop and Mobile Applications](http://ceur-ws.org/Vol-2689/paper2.pdf) 
-2. [Design Smells and Role-Stereotypes Classification Dataset](http://dx.doi.org/10.17632/6rtgxbsw68.1)
+1. [Comparison of Occurrence of Design Smells in Desktop and Mobile Applications 2020](http://ceur-ws.org/Vol-2689/paper2.pdf){:target="_blank"} 
+2. [Design Smells and Role-Stereotypes Classification Dataset 2021](http://dx.doi.org/10.17632/6rtgxbsw68.1){:target="_blank"}
 
 ### Results
-=================
+
