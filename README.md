@@ -9,12 +9,14 @@ The study was performed on a dataset consisting of twelve (12) Java projects min
 
 We believe that these relationships may be associated with the characteristic and collaborative properties between role-stereotypes. Therefore, this study provides important insights on this previously concealed behavior about the relation between design smells with role-stereotypes.
 
+
+### Results
+----------------------
+
 ### Publications
 --------------------------
 1. [Comparison of Occurrence of Design Smells in Desktop and Mobile Applications 2020](http://ceur-ws.org/Vol-2689/paper2.pdf) 
 > Ogenrwot, D., Nakatumba-Nabende, J., & Chaudron, M. R. (2020). Comparison of Occurrence of Design Smells in Desktop and Mobile Applications.
 2. [Design Smells and Role-Stereotypes Classification Dataset 2021](http://dx.doi.org/10.17632/6rtgxbsw68.1)
 
-### Results
-----------------------
 
