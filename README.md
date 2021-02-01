@@ -12,6 +12,7 @@ We believe that these relationships may be associated with the characteristic an
 ### Publications
 --------------------------
 1. [Comparison of Occurrence of Design Smells in Desktop and Mobile Applications 2020](http://ceur-ws.org/Vol-2689/paper2.pdf) 
+> Ogenrwot, D., Nakatumba-Nabende, J., & Chaudron, M. R. (2020). Comparison of Occurrence of Design Smells in Desktop and Mobile Applications.
 2. [Design Smells and Role-Stereotypes Classification Dataset 2021](http://dx.doi.org/10.17632/6rtgxbsw68.1)
 
 ### Results
