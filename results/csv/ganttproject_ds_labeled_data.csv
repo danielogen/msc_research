@@ -1,0 +1,238 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,net.sourceforge.ganttproject.gui.options.SpringUtilities,ganttproject.gui.options.SpringUtilities,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+1,net.sourceforge.ganttproject.shape.PaintCellRenderer,ganttproject.shape.PaintCellRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+2,net.sourceforge.ganttproject.action.edit.EditMenu,ganttproject.action.edit.EditMenu,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+3,net.sourceforge.ganttproject.task.dependency.TaskDependencyImpl,ganttproject.task.dependency.TaskDependencyImpl,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+4,net.sourceforge.ganttproject.gui.GanttDialogInfo,ganttproject.gui.GanttDialogInfo,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Information Holder
+5,net.sourceforge.ganttproject.chart.gantt.GanttChartController,ganttproject.chart.gantt.GanttChartController,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Controller
+6,biz.ganttproject.core.chart.scene.gantt.TaskActivitySceneBuilder,ganttproject.core.chart.scene.gantt.TaskActivitySceneBuilder,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+7,biz.ganttproject.core.chart.render.RectangleRenderer,ganttproject.core.chart.render.RectangleRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+8,net.sourceforge.ganttproject.print.PrintPreview,ganttproject.print.PrintPreview,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+9,net.sourceforge.ganttproject.document.webdav.FilesCellRenderer,ganttproject.document.webdav.FilesCellRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+10,net.sourceforge.ganttproject.GanttTask,ganttproject.GanttTask,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+11,net.sourceforge.ganttproject.action.project.OpenMRUDocumentAction,ganttproject.action.project.OpenMRUDocumentAction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+12,biz.ganttproject.core.chart.grid.OffsetLookup,ganttproject.core.chart.grid.OffsetLookup,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+13,net.sourceforge.ganttproject.importer.ImporterFromGanttFile,ganttproject.importer.ImporterFromGanttFile,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+14,net.sourceforge.ganttproject.TaskTreeImageGeneratorExt,ganttproject.TaskTreeImageGeneratorExt,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+15,net.sourceforge.ganttproject.chart.TaskRendererImpl2,ganttproject.chart.TaskRendererImpl2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+16,net.sourceforge.ganttproject.task.algorithm.AlgorithmCollection,ganttproject.task.algorithm.AlgorithmCollection,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+17,net.sourceforge.ganttproject.chart.mouse.ChangeTaskBoundaryInteraction,ganttproject.chart.mouse.ChangeTaskBoundaryInteraction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+18,net.sourceforge.ganttproject.document.webdav.GanttURLChooser,ganttproject.document.webdav.GanttURLChooser,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+19,net.sourceforge.ganttproject.chart.mouse.ChangeTaskProgressInteraction,ganttproject.chart.mouse.ChangeTaskProgressInteraction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+20,net.sourceforge.ganttproject.document.ProxyDocument,ganttproject.document.ProxyDocument,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+21,net.sourceforge.ganttproject.task.event.TaskScheduleEvent,ganttproject.task.event.TaskScheduleEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+22,biz.ganttproject.core.chart.canvas.DummySpatialIndex,ganttproject.core.chart.canvas.DummySpatialIndex,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+23,net.sourceforge.ganttproject.gui.EditableList,ganttproject.gui.EditableList,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+24,net.sourceforge.ganttproject.chart.ResourceLoadRenderer,ganttproject.chart.ResourceLoadRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+25,net.sourceforge.ganttproject.gui.UIUtil,ganttproject.gui.UIUtil,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+26,net.sourceforge.ganttproject.chart.mouse.DrawDependencyInteraction,ganttproject.chart.mouse.DrawDependencyInteraction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+27,net.sourceforge.ganttproject.chart.gantt.ClipboardTaskProcessor,ganttproject.chart.gantt.ClipboardTaskProcessor,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+28,net.sourceforge.ganttproject.chart.export.RenderedChartImage,ganttproject.chart.export.RenderedChartImage,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+29,net.sourceforge.ganttproject.action.resource.ResourceDeleteAction,ganttproject.action.resource.ResourceDeleteAction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+30,net.sourceforge.ganttproject.action.edit.PasteAction,ganttproject.action.edit.PasteAction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+31,biz.ganttproject.impex.csv.GanttCSVOpen,ganttproject.impex.csv.GanttCSVOpen,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+32,biz.ganttproject.core.calendar.GPCalendarBase,ganttproject.core.calendar.GPCalendarBase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+33,biz.ganttproject.core.chart.grid.Offset,ganttproject.core.chart.grid.Offset,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+34,net.sourceforge.ganttproject.GanttChartTabContentPanel,ganttproject.GanttChartTabContentPanel,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+35,net.sourceforge.ganttproject.UIFacadeImpl,ganttproject.UIFacadeImpl,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+36,net.sourceforge.ganttproject.gui.GanttTabbedPane,ganttproject.gui.GanttTabbedPane,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+37,net.sourceforge.ganttproject.TreeTableCellEditorImpl,ganttproject.TreeTableCellEditorImpl,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+38,net.sourceforge.ganttproject.action.view.ViewMenu,ganttproject.action.view.ViewMenu,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+39,net.sourceforge.ganttproject.chart.ChartModelResource,ganttproject.chart.ChartModelResource,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+40,net.sourceforge.ganttproject.wizard.AbstractFileChooserPage,ganttproject.wizard.AbstractFileChooserPage,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+41,net.sourceforge.ganttproject.GanttPreviousStateTask,ganttproject.GanttPreviousStateTask,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+42,biz.ganttproject.core.chart.render.TextPainter,ganttproject.core.chart.render.TextPainter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+43,biz.ganttproject.core.chart.scene.BottomUnitSceneBuilder,ganttproject.core.chart.scene.BottomUnitSceneBuilder,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+44,net.sourceforge.ganttproject.action.task.TaskActionBase,ganttproject.action.task.TaskActionBase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+45,net.sourceforge.ganttproject.io.GanttXMLSaver,ganttproject.io.GanttXMLSaver,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+46,net.sourceforge.ganttproject.export.DeprecatedProjectExportData,ganttproject.export.DeprecatedProjectExportData,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+47,net.sourceforge.ganttproject.chart.overview.GPToolbar,ganttproject.chart.overview.GPToolbar,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+48,org.ganttproject.chart.pert.ActivityOnNodePertChart,ganttproject.chart.pert.ActivityOnNodePertChart,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+49,biz.ganttproject.core.calendar.CalendarEvent,ganttproject.core.calendar.CalendarEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+50,net.sourceforge.ganttproject.action.task.TaskDeleteAction,ganttproject.action.task.TaskDeleteAction,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+51,net.sourceforge.ganttproject.chart.mouse.ChangeTaskStartInteraction,ganttproject.chart.mouse.ChangeTaskStartInteraction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+52,org.ganttproject.impex.htmlpdf.itext.ChartWriter,ganttproject.impex.htmlpdf.itext.ChartWriter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+53,biz.ganttproject.impex.msproject2.ProjectFileImporter,ganttproject.impex.msproject2.ProjectFileImporter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+54,net.sourceforge.ganttproject.io.TaskSaver,ganttproject.io.TaskSaver,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+55,biz.ganttproject.core.chart.grid.OffsetBuilderImpl,ganttproject.core.chart.grid.OffsetBuilderImpl,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+56,net.sourceforge.ganttproject.GanttGraphicArea,ganttproject.GanttGraphicArea,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+57,net.sourceforge.ganttproject.search.SearchResult,ganttproject.search.SearchResult,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+58,org.ganttproject.impex.htmlpdf.itext.ThemeImpl,ganttproject.impex.htmlpdf.itext.ThemeImpl,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+59,net.sourceforge.ganttproject.action.resource.ResourceActionSet,ganttproject.action.resource.ResourceActionSet,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+60,net.sourceforge.ganttproject.parser.TaskDisplayColumnsTagHandler,ganttproject.parser.TaskDisplayColumnsTagHandler,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+61,net.sourceforge.ganttproject.action.scroll.ScrollTimeIntervalAction,ganttproject.action.scroll.ScrollTimeIntervalAction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+62,net.sourceforge.ganttproject.task.TaskImpl,ganttproject.task.TaskImpl,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+63,net.sourceforge.ganttproject.resource.LoadDistribution,ganttproject.resource.LoadDistribution,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+64,net.sourceforge.ganttproject.chart.gantt.MouseListenerImpl,ganttproject.chart.gantt.MouseListenerImpl,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+65,biz.ganttproject.core.chart.render.ShapePaint,ganttproject.core.chart.render.ShapePaint,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+66,net.sourceforge.ganttproject.chart.mouse.MoveTaskInteractions,ganttproject.chart.mouse.MoveTaskInteractions,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+67,biz.ganttproject.impex.msproject2.ProjectFileExporter,ganttproject.impex.msproject2.ProjectFileExporter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+68,net.sourceforge.ganttproject.gui.options.OptionsPageBuilder,ganttproject.gui.options.OptionsPageBuilder,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+69,net.sourceforge.ganttproject.GanttTreeTableModel,ganttproject.GanttTreeTableModel,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+70,net.sourceforge.ganttproject.client.RssParser,ganttproject.client.RssParser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+85,net.sourceforge.ganttproject.gui.options.GPOptionChoicePanel,ganttproject.gui.options.GPOptionChoicePanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+86,net.sourceforge.ganttproject.parser.CustomPropertiesTagHandler,ganttproject.parser.CustomPropertiesTagHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+87,net.sourceforge.ganttproject.chart.export.ChartImageBuilder,ganttproject.chart.export.ChartImageBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+88,org.ganttproject.impex.htmlpdf.StylesheetFactoryImpl,ganttproject.impex.htmlpdf.StylesheetFactoryImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+89,net.sourceforge.ganttproject.export.ExporterToCSV,ganttproject.export.ExporterToCSV,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+90,net.sourceforge.ganttproject.gui.projectwizard.WeekendConfigurationPage,ganttproject.gui.projectwizard.WeekendConfigurationPage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+91,biz.ganttproject.core.chart.canvas.FontChooser,ganttproject.core.chart.canvas.FontChooser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+92,org.ganttproject.impex.htmlpdf.ExporterToHTML,ganttproject.impex.htmlpdf.ExporterToHTML,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+93,org.ganttproject.impex.htmlpdf.itext.ITextEngine,ganttproject.impex.htmlpdf.itext.ITextEngine,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+94,net.sourceforge.ganttproject.gui.options.InterfaceOptionPageProvider,ganttproject.gui.options.InterfaceOptionPageProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+95,net.sourceforge.ganttproject.GanttResourcePanel,ganttproject.GanttResourcePanel,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+96,net.sourceforge.ganttproject.task.ResourceAssignmentCollectionImpl,ganttproject.task.ResourceAssignmentCollectionImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+97,net.sourceforge.ganttproject.util.BrowserControl,ganttproject.util.BrowserControl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+98,net.sourceforge.ganttproject.gui.TestGanttRolloverButton,ganttproject.gui.TestGanttRolloverButton,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+99,biz.ganttproject.core.chart.scene.gantt.DependencySceneBuilder,ganttproject.core.chart.scene.gantt.DependencySceneBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+100,net.sourceforge.ganttproject.gui.about.AboutDialog2,ganttproject.gui.about.AboutDialog2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+101,net.sourceforge.ganttproject.parser.AllocationTagHandler,ganttproject.parser.AllocationTagHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+102,org.ganttproject.impex.htmlpdf.itext.FontSubstitutionPanel,ganttproject.impex.htmlpdf.itext.FontSubstitutionPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+103,net.sourceforge.ganttproject.chart.ChartModelBase,ganttproject.chart.ChartModelBase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+104,net.sourceforge.ganttproject.io.CalendarSaver,ganttproject.io.CalendarSaver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+105,net.sourceforge.ganttproject.calendar.CalendarEditorPanel,ganttproject.calendar.CalendarEditorPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+106,net.sourceforge.ganttproject.gui.options.WeekendsSettingsPanel,ganttproject.gui.options.WeekendsSettingsPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+107,net.sourceforge.ganttproject.gui.taskproperties.TaskDependenciesPanel,ganttproject.gui.taskproperties.TaskDependenciesPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+108,net.sourceforge.ganttproject.chart.DependencyInteractionRenderer,ganttproject.chart.DependencyInteractionRenderer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+109,net.sourceforge.ganttproject.calendar.GPCalendarProvider,ganttproject.calendar.GPCalendarProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+110,net.sourceforge.ganttproject.search.SearchDialog,ganttproject.search.SearchDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+111,net.sourceforge.ganttproject.gui.TextFieldAndFileChooserComponent,ganttproject.gui.TextFieldAndFileChooserComponent,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+112,biz.ganttproject.desktop.DesktopAdapter,ganttproject.desktop.DesktopAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+113,net.sourceforge.ganttproject.application.MainApplication,ganttproject.application.MainApplication,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+114,net.sourceforge.ganttproject.export.ExporterBase,ganttproject.export.ExporterBase,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Interfacer
+115,net.sourceforge.ganttproject.parser.ResourceTagHandler,ganttproject.parser.ResourceTagHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+116,net.sourceforge.ganttproject.parser.DependencyTagHandler,ganttproject.parser.DependencyTagHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+117,net.sourceforge.ganttproject.chart.ChartModelImpl,ganttproject.chart.ChartModelImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+118,net.sourceforge.ganttproject.export.FileChooserPage,ganttproject.export.FileChooserPage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+119,net.sourceforge.ganttproject.document.webdav.MiltonResourceImpl,ganttproject.document.webdav.MiltonResourceImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+120,net.sourceforge.ganttproject.GPTreeTableBase,ganttproject.GPTreeTableBase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+121,net.sourceforge.ganttproject.chart.gantt.ClipboardContents,ganttproject.chart.gantt.ClipboardContents,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+122,net.sourceforge.ganttproject.ResourceTreeImageGenerator,ganttproject.ResourceTreeImageGenerator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+123,net.sourceforge.ganttproject.export.ExporterChooserPage,ganttproject.export.ExporterChooserPage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+124,net.sourceforge.ganttproject.language.CharSetMap,ganttproject.language.CharSetMap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+125,net.sourceforge.ganttproject.gui.taskproperties.ResourcesTableModel,ganttproject.gui.taskproperties.ResourcesTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+126,net.sourceforge.ganttproject.GanttTreeTable,ganttproject.GanttTreeTable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+127,biz.ganttproject.impex.msproject2.CustomPropertyMapping,ganttproject.impex.msproject2.CustomPropertyMapping,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+128,net.sourceforge.ganttproject.GPTransferable,ganttproject.GPTransferable,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+129,net.sourceforge.ganttproject.document.webdav.HttpDocument,ganttproject.document.webdav.HttpDocument,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+130,org.ganttproject.impex.htmlpdf.fonts.TTFontCache,ganttproject.impex.htmlpdf.fonts.TTFontCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+131,net.sourceforge.ganttproject.client.RssFeedChecker,ganttproject.client.RssFeedChecker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+132,net.sourceforge.ganttproject.export.CommandLineExportApplication,ganttproject.export.CommandLineExportApplication,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+133,net.sourceforge.ganttproject.PluginPreferencesImpl,ganttproject.PluginPreferencesImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+134,net.sourceforge.ganttproject.io.GanttChartViewSaver,ganttproject.io.GanttChartViewSaver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+135,net.sourceforge.ganttproject.language.GanttLanguage,ganttproject.language.GanttLanguage,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Structurer
+136,net.sourceforge.ganttproject.TaskContainmentHierarchyFacadeImpl,ganttproject.TaskContainmentHierarchyFacadeImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+137,net.sourceforge.ganttproject.print.GanttPrintable,ganttproject.print.GanttPrintable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+138,net.sourceforge.ganttproject.task.hierarchy.TaskHierarchyItem,ganttproject.task.hierarchy.TaskHierarchyItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+139,net.sourceforge.ganttproject.task.hierarchy.TaskHierarchyItem[],ganttproject.task.hierarchy.TaskHierarchyItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+140,net.sourceforge.ganttproject.action.project.ProjectPreviewAction,ganttproject.action.project.ProjectPreviewAction,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+141,net.sourceforge.ganttproject.document.NetworkOptionPageProvider,ganttproject.document.NetworkOptionPageProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+142,net.sourceforge.ganttproject.gui.taskproperties.TaskScheduleDatesPanel,ganttproject.gui.taskproperties.TaskScheduleDatesPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+143,net.sourceforge.ganttproject.roles.RoleManagerImpl,ganttproject.roles.RoleManagerImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+144,net.sourceforge.ganttproject.document.DocumentCreator,ganttproject.document.DocumentCreator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+145,net.sourceforge.ganttproject.gui.DialogAligner,ganttproject.gui.DialogAligner,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+146,net.sourceforge.ganttproject.document.webdav.WebDavStorageImpl,ganttproject.document.webdav.WebDavStorageImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+147,net.sourceforge.ganttproject.gui.taskproperties.TaskAllocationsPanel,ganttproject.gui.taskproperties.TaskAllocationsPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+148,net.sourceforge.ganttproject.parser.HolidayTagHandler,ganttproject.parser.HolidayTagHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+149,biz.ganttproject.impex.csv.ResourceRecords,ganttproject.impex.csv.ResourceRecords,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+150,net.sourceforge.ganttproject.gui.taskproperties.DependencyTableModel,ganttproject.gui.taskproperties.DependencyTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+151,net.sourceforge.ganttproject.chart.SimpleRenderedImage,ganttproject.chart.SimpleRenderedImage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+152,net.sourceforge.ganttproject.GPTreeTransferHandler,ganttproject.GPTreeTransferHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+153,net.sourceforge.ganttproject.gui.ProjectUIFacadeImpl,ganttproject.gui.ProjectUIFacadeImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+154,biz.ganttproject.impex.ical.IcsFileImporter,ganttproject.impex.ical.IcsFileImporter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+155,net.sourceforge.ganttproject.GanttTree2,ganttproject.GanttTree2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+156,net.sourceforge.ganttproject.TaskTreeImageGenerator,ganttproject.TaskTreeImageGenerator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+157,net.sourceforge.ganttproject.task.dependency.TaskDependencyCollectionImpl,ganttproject.task.dependency.TaskDependencyCollectionImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+158,net.sourceforge.ganttproject.DesktopIntegration,ganttproject.DesktopIntegration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+159,net.sourceforge.ganttproject.task.algorithm.AdjustTaskBoundsAlgorithm,ganttproject.task.algorithm.AdjustTaskBoundsAlgorithm,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+160,biz.ganttproject.core.chart.scene.DayGridSceneBuilder,ganttproject.core.chart.scene.DayGridSceneBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+161,net.sourceforge.ganttproject.GPLogger,ganttproject.GPLogger,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+162,net.sourceforge.ganttproject.gui.GanttDialogPerson,ganttproject.gui.GanttDialogPerson,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+163,biz.ganttproject.core.chart.render.Style,ganttproject.core.chart.render.Style,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+164,net.sourceforge.ganttproject.gui.projectwizard.RoleSetPage,ganttproject.gui.projectwizard.RoleSetPage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+165,net.sourceforge.ganttproject.task.algorithm.DependencyGraph,ganttproject.task.algorithm.DependencyGraph,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+166,net.sourceforge.ganttproject.GanttSplash,ganttproject.GanttSplash,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+167,net.sourceforge.ganttproject.export.WebPublisher,ganttproject.export.WebPublisher,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+168,net.sourceforge.ganttproject.gui.GanttDialogProperties,ganttproject.gui.GanttDialogProperties,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+169,biz.ganttproject.core.chart.grid.OffsetManager,ganttproject.core.chart.grid.OffsetManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+170,org.ganttproject.impex.htmlpdf.PropertyFetcher,ganttproject.impex.htmlpdf.PropertyFetcher,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+171,net.sourceforge.ganttproject.gui.NotificationManagerImpl,ganttproject.gui.NotificationManagerImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+172,net.sourceforge.ganttproject.gui.GPColorChooser,ganttproject.gui.GPColorChooser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+173,biz.ganttproject.impex.msproject2.ImporterFromMsProjectFile,ganttproject.impex.msproject2.ImporterFromMsProjectFile,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+174,net.sourceforge.ganttproject.gui.ListAndFieldsPanel,ganttproject.gui.ListAndFieldsPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+175,net.sourceforge.ganttproject.chart.gantt.MouseMotionListenerImpl,ganttproject.chart.gantt.MouseMotionListenerImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+176,net.sourceforge.ganttproject.gui.ProjectOpenDiagnosticUiFx,ganttproject.gui.ProjectOpenDiagnosticUiFx,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+177,biz.ganttproject.core.chart.scene.TimelineSceneBuilder,ganttproject.core.chart.scene.TimelineSceneBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+178,net.sourceforge.ganttproject.document.webdav.MiltonResourceFactory,ganttproject.document.webdav.MiltonResourceFactory,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+179,net.sourceforge.ganttproject.gui.ProjectOpenDiagnosticImpl,ganttproject.gui.ProjectOpenDiagnosticImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+180,net.sourceforge.ganttproject.task.algorithm.RecalculateTaskScheduleAlgorithm,ganttproject.task.algorithm.RecalculateTaskScheduleAlgorithm,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+181,net.sourceforge.ganttproject.resource.HumanResourceManager,ganttproject.resource.HumanResourceManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+182,net.sourceforge.ganttproject.resource.HumanResourceManager[],ganttproject.resource.HumanResourceManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+183,biz.ganttproject.core.chart.canvas.Canvas,ganttproject.core.chart.canvas.Canvas,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+184,net.sourceforge.ganttproject.action.task.TaskMoveEnabledPredicate,ganttproject.action.task.TaskMoveEnabledPredicate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+185,biz.ganttproject.core.calendar.WeekendCalendarImpl,ganttproject.core.calendar.WeekendCalendarImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+186,net.sourceforge.ganttproject.io.ResourceSaver,ganttproject.io.ResourceSaver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+187,biz.ganttproject.core.time.GanttCalendar,ganttproject.core.time.GanttCalendar,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+188,net.sourceforge.ganttproject.document.webdav.WebDavServerDescriptor,ganttproject.document.webdav.WebDavServerDescriptor,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+189,biz.ganttproject.core.chart.render.ShapeConstants,ganttproject.core.chart.render.ShapeConstants,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Information Holder
+190,net.sourceforge.ganttproject.GanttExportSettings,ganttproject.GanttExportSettings,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+191,net.sourceforge.ganttproject.io.CSVOptions,ganttproject.io.CSVOptions,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+192,net.sourceforge.ganttproject.task.CustomColumnsStorage,ganttproject.task.CustomColumnsStorage,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+193,net.sourceforge.ganttproject.GanttProject,ganttproject.GanttProject,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+194,net.sourceforge.ganttproject.GPVersion,ganttproject.GPVersion,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Information Holder
+195,net.sourceforge.ganttproject.gui.GanttLookAndFeels,ganttproject.gui.GanttLookAndFeels,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+196,net.sourceforge.ganttproject.parser.TaskTagHandler,ganttproject.parser.TaskTagHandler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+197,net.sourceforge.ganttproject.gui.GanttTaskPropertiesBean,ganttproject.gui.GanttTaskPropertiesBean,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+198,net.sourceforge.ganttproject.ResourceTreeTable,ganttproject.ResourceTreeTable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+199,net.sourceforge.ganttproject.gui.UIConfiguration,ganttproject.gui.UIConfiguration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+200,biz.ganttproject.impex.csv.GanttCSVExport,ganttproject.impex.csv.GanttCSVExport,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+201,net.sourceforge.ganttproject.task.TaskNode,ganttproject.task.TaskNode,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+202,biz.ganttproject.core.chart.scene.gantt.TaskLabelSceneBuilder,ganttproject.core.chart.scene.gantt.TaskLabelSceneBuilder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+203,net.sourceforge.ganttproject.gui.ProjectOpenStrategy,ganttproject.gui.ProjectOpenStrategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+204,net.sourceforge.ganttproject.task.dependency.SearchKey,ganttproject.task.dependency.SearchKey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+205,net.sourceforge.ganttproject.gui.FileChooserPageBase,ganttproject.gui.FileChooserPageBase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+206,net.sourceforge.ganttproject.ResourceTreeTableModel,ganttproject.ResourceTreeTableModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+207,net.sourceforge.ganttproject.GanttProjectBase,ganttproject.GanttProjectBase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+208,net.sourceforge.ganttproject.task.CustomPropertyListenerImpl,ganttproject.task.CustomPropertyListenerImpl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+209,net.sourceforge.ganttproject.TreeTableContainer,ganttproject.TreeTableContainer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+210,net.sourceforge.ganttproject.task.TaskProperties,ganttproject.task.TaskProperties,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+211,net.sourceforge.ganttproject.task.algorithm.CriticalPathAlgorithmImpl,ganttproject.task.algorithm.CriticalPathAlgorithmImpl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+212,net.sourceforge.ganttproject.ChartComponentBase,ganttproject.ChartComponentBase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+213,biz.ganttproject.core.chart.text.TimeFormatters,ganttproject.core.chart.text.TimeFormatters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+214,net.sourceforge.ganttproject.gui.tableView.ColumnManagerPanel,ganttproject.gui.tableView.ColumnManagerPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+215,net.sourceforge.ganttproject.resource.ResourceNode,ganttproject.resource.ResourceNode,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+216,net.sourceforge.ganttproject.gui.options.CSVSettingsPanel,ganttproject.gui.options.CSVSettingsPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+217,biz.ganttproject.core.option.GPAbstractOption,ganttproject.core.option.GPAbstractOption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+218,net.sourceforge.ganttproject.resource.HumanResource,ganttproject.resource.HumanResource,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+219,net.sourceforge.ganttproject.export.ConsoleUIFacade,ganttproject.export.ConsoleUIFacade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+220,net.sourceforge.ganttproject.ResourceLoadGraphicArea,ganttproject.ResourceLoadGraphicArea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+221,net.sourceforge.ganttproject.GanttProjectImpl,ganttproject.GanttProjectImpl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+222,net.sourceforge.ganttproject.task.algorithm.SchedulerImpl,ganttproject.task.algorithm.SchedulerImpl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+223,net.sourceforge.ganttproject.gui.taskproperties.CustomColumnsPanel,ganttproject.gui.taskproperties.CustomColumnsPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+224,net.sourceforge.ganttproject.GanttOptions,ganttproject.GanttOptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+225,net.sourceforge.ganttproject.gui.options.model.CustomPropertyDefaultValueAdapter,ganttproject.gui.options.model.CustomPropertyDefaultValueAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+226,net.sourceforge.ganttproject.task.TaskManagerImpl,ganttproject.task.TaskManagerImpl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+227,biz.ganttproject.core.time.impl.GPTimeUnitStack,ganttproject.core.time.impl.GPTimeUnitStack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+228,net.sourceforge.ganttproject.AbstractChartImplementation,ganttproject.AbstractChartImplementation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+229,net.sourceforge.ganttproject.chart.ChartUIConfiguration,ganttproject.chart.ChartUIConfiguration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+230,net.sourceforge.ganttproject.io.GanttXMLOpen,ganttproject.io.GanttXMLOpen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+231,biz.ganttproject.impex.csv.TaskRecords,ganttproject.impex.csv.TaskRecords,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+232,net.sourceforge.ganttproject.resource.AssignmentNode,ganttproject.resource.AssignmentNode,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+233,net.sourceforge.ganttproject.action.GPAction,ganttproject.action.GPAction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+234,net.sourceforge.ganttproject.chart.item.TaskNotesChartItem,ganttproject.chart.item.TaskNotesChartItem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+235,biz.ganttproject.impex.msproject2.WebStartIDClass,ganttproject.impex.msproject2.WebStartIDClass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+236,org.ganttproject.impex.htmlpdf.WebStartIDClass,ganttproject.impex.htmlpdf.WebStartIDClass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+237,org.ganttproject.WebStartIDClass,ganttproject.WebStartIDClass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+238,net.sourceforge.ganttproject.action.ArtefactPropertiesAction,ganttproject.action.ArtefactPropertiesAction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+239,net.sourceforge.ganttproject.task.dependency.RangeSearchFromKey,ganttproject.task.dependency.RangeSearchFromKey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+240,net.sourceforge.ganttproject.task.algorithm.AlgorithmException,ganttproject.task.algorithm.AlgorithmException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+241,net.sourceforge.ganttproject.chart.item.TaskRegularAreaChartItem,ganttproject.chart.item.TaskRegularAreaChartItem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+242,net.sourceforge.ganttproject.chart.item.TaskProgressChartItem,ganttproject.chart.item.TaskProgressChartItem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+243,net.sourceforge.ganttproject.action.ArtefactDeleteAction,ganttproject.action.ArtefactDeleteAction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+244,org.ganttproject.chart.pert.WebStartIDClass,ganttproject.chart.pert.WebStartIDClass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+245,biz.ganttproject.core.option.DefaultFileOption,ganttproject.core.option.DefaultFileOption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+246,net.sourceforge.ganttproject.action.ArtefactNewAction,ganttproject.action.ArtefactNewAction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+247,net.sourceforge.ganttproject.task.dependency.RangeSearchToKey,ganttproject.task.dependency.RangeSearchToKey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+248,net.sourceforge.ganttproject.document.AbstractURLDocument,ganttproject.document.AbstractURLDocument,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+249,net.sourceforge.ganttproject.chart.item.TimelineLabelChartItem,ganttproject.chart.item.TimelineLabelChartItem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+250,net.sourceforge.ganttproject.filter.GanttXMLFileFilter,ganttproject.filter.GanttXMLFileFilter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

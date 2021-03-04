@@ -1,0 +1,98 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,com.keepassdroid.database.edit.UpdateEntry,keepassdroid.database.edit.UpdateEntry,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+1,com.keepassdroid.database.load.ImporterV3,keepassdroid.database.load.ImporterV3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+2,com.keepassdroid.database.load.Importer,keepassdroid.database.load.Importer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+3,com.keepassdroid.password.PasswordGenerator,keepassdroid.password.PasswordGenerator,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+4,com.keepassdroid.compat.KeyGenParameterSpecCompat,keepassdroid.compat.KeyGenParameterSpecCompat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+5,com.keepassdroid.crypto.keyDerivation.Argon2Native,keepassdroid.crypto.keyDerivation.Argon2Native,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+6,com.keepassdroid.database.edit.DeleteEntry,keepassdroid.database.edit.DeleteEntry,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+7,com.keepassdroid.database.edit.SetPassword,keepassdroid.database.edit.SetPassword,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+8,com.keepassdroid.database.edit.DeleteGroup,keepassdroid.database.edit.DeleteGroup,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+9,com.keepassdroid.database.edit.AddGroup,keepassdroid.database.edit.AddGroup,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+10,com.keepassdroid.Database,keepassdroid.Database,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+11,com.keepassdroid.database.load.ImporterV4,keepassdroid.database.load.ImporterV4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+12,com.keepassdroid.database.save.PwDbV4Output,keepassdroid.database.save.PwDbV4Output,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+13,com.keepassdroid.database.load.ImporterV4Debug,keepassdroid.database.load.ImporterV4Debug,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+14,com.keepassdroid.crypto.NativeAESCipherSpi,keepassdroid.crypto.NativeAESCipherSpi,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+15,com.keepassdroid.database.load.ImporterV3Debug,keepassdroid.database.load.ImporterV3Debug,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+16,com.keepassdroid.database.edit.LoadDB,keepassdroid.database.edit.LoadDB,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+17,com.keepassdroid.stream.BetterCipherInputStream,keepassdroid.stream.BetterCipherInputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+18,com.keepassdroid.GroupBaseActivity,keepassdroid.GroupBaseActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+19,com.keepassdroid.database.PwDatabaseV3,keepassdroid.database.PwDatabaseV3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+20,com.keepassdroid.EntryEditActivityV4,keepassdroid.EntryEditActivityV4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+21,com.keepassdroid.settings.AppSettingsFragement,keepassdroid.settings.AppSettingsFragement,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+22,com.keepassdroid.stream.HmacBlockInputStream,keepassdroid.stream.HmacBlockInputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+23,com.keepassdroid.database.PwDatabase,keepassdroid.database.PwDatabase,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+24,com.keepassdroid.database.save.PwDbHeaderOutputV4,keepassdroid.database.save.PwDbHeaderOutputV4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+25,com.keepassdroid.utils.UuidUtil,keepassdroid.utils.UuidUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+26,com.keepassdroid.database.PwDate,keepassdroid.database.PwDate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+27,com.keepassdroid.view.FileNameView,keepassdroid.view.FileNameView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+28,com.keepassdroid.database.iterator.EntrySearchStringIteratorV3,keepassdroid.database.iterator.EntrySearchStringIteratorV3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+29,com.keepassdroid.utils.StrUtil,keepassdroid.utils.StrUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+30,com.keepassdroid.database.EntrySearchHandler,keepassdroid.database.EntrySearchHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+31,com.keepassdroid.database.PwEntryV3,keepassdroid.database.PwEntryV3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+32,com.keepassdroid.icons.DrawableFactory,keepassdroid.icons.DrawableFactory,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+33,com.keepassdroid.search.SearchDbHelper,keepassdroid.search.SearchDbHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+34,com.keepassdroid.database.save.PwGroupOutputV3,keepassdroid.database.save.PwGroupOutputV3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+35,com.keepassdroid.fragments.PasswordFragment,keepassdroid.fragments.PasswordFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+36,com.keepassdroid.compat.PRNGFixes,keepassdroid.compat.PRNGFixes,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+37,com.keepassdroid.fileselect.RecentFileHistory,keepassdroid.fileselect.RecentFileHistory,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+38,com.keepassdroid.fileselect.BrowserDialog,keepassdroid.fileselect.BrowserDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+39,com.keepassdroid.crypto.CryptoUtil,keepassdroid.crypto.CryptoUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+40,com.keepassdroid.stream.HashedBlockInputStream,keepassdroid.stream.HashedBlockInputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+41,com.keepassdroid.EntryActivityV4,keepassdroid.EntryActivityV4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+42,com.keepassdroid.utils.Util,keepassdroid.utils.Util,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+43,com.keepassdroid.stream.HmacBlockOutputStream,keepassdroid.stream.HmacBlockOutputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+44,com.keepassdroid.database.PwDatabaseV4,keepassdroid.database.PwDatabaseV4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+45,com.keepassdroid.icons.Icons,keepassdroid.icons.Icons,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+46,com.keepassdroid.crypto.finalkey.AndroidFinalKey,keepassdroid.crypto.finalkey.AndroidFinalKey,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+47,com.keepassdroid.biometric.BiometricHelper,keepassdroid.biometric.BiometricHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+48,com.keepassdroid.GeneratePasswordActivity,keepassdroid.GeneratePasswordActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+49,com.keepassdroid.database.PwEntryV4,keepassdroid.database.PwEntryV4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+50,com.keepassdroid.GroupEditActivity,keepassdroid.GroupEditActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+51,com.keepassdroid.database.save.PwDbInnerHeaderOutputV4,keepassdroid.database.save.PwDbInnerHeaderOutputV4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+52,com.keepassdroid.utils.UriUtil,keepassdroid.utils.UriUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+53,com.keepassdroid.database.PwGroup,keepassdroid.database.PwGroup,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+54,com.keepassdroid.SetPasswordDialog,keepassdroid.SetPasswordDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+55,com.keepassdroid.stream.HashedBlockOutputStream,keepassdroid.stream.HashedBlockOutputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+56,com.keepassdroid.fileselect.FileDbHelper,keepassdroid.fileselect.FileDbHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+57,com.keepassdroid.compat.ClipDataCompat,keepassdroid.compat.ClipDataCompat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+58,com.keepassdroid.stream.HmacBlockStream,keepassdroid.stream.HmacBlockStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+59,com.keepassdroid.settings.RoundsPreferenceFragment,keepassdroid.settings.RoundsPreferenceFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+60,com.keepassdroid.crypto.keyDerivation.KdfParameters,keepassdroid.crypto.keyDerivation.KdfParameters,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+61,com.keepassdroid.database.PwDbHeaderV3,keepassdroid.database.PwDbHeaderV3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+62,com.keepassdroid.database.PwDatabaseV4Debug,keepassdroid.database.PwDatabaseV4Debug,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+63,com.keepassdroid.compat.StorageAF,keepassdroid.compat.StorageAF,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+64,com.keepassdroid.database.PwIconStandard,keepassdroid.database.PwIconStandard,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+65,com.keepassdroid.settings.MainSettingsFragement,keepassdroid.settings.MainSettingsFragement,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+66,com.keepassdroid.database.PwDatabaseV3Debug,keepassdroid.database.PwDatabaseV3Debug,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+67,com.keepassdroid.compat.ContentResolverCompat,keepassdroid.compat.ContentResolverCompat,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+68,com.keepassdroid.database.PwGroupV3,keepassdroid.database.PwGroupV3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+69,com.keepassdroid.database.PwGroupV4,keepassdroid.database.PwGroupV4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+70,com.keepassdroid.database.SearchParametersV4,keepassdroid.database.SearchParametersV4,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+71,com.keepassdroid.crypto.keyDerivation.KdfFactory,keepassdroid.crypto.keyDerivation.KdfFactory,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+72,com.keepassdroid.crypto.keyDerivation.KdfEngine,keepassdroid.crypto.keyDerivation.KdfEngine,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+73,com.keepassdroid.database.PwDbHeaderV4,keepassdroid.database.PwDbHeaderV4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+74,com.keepassdroid.settings.DBSettingsFragement,keepassdroid.settings.DBSettingsFragement,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+75,com.keepassdroid.database.edit.RunnableOnFinish,keepassdroid.database.edit.RunnableOnFinish,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+76,com.keepassdroid.database.SearchParameters,keepassdroid.database.SearchParameters,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Information Holder
+77,com.keepassdroid.database.PwEntry,keepassdroid.database.PwEntry,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+78,com.keepassdroid.utils.Types,keepassdroid.utils.Types,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+79,com.keepassdroid.utils.SprContextV4,keepassdroid.utils.SprContextV4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+80,com.keepassdroid.database.PwDeletedObject,keepassdroid.database.PwDeletedObject,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+81,com.keepassdroid.database.PwDbHeader,keepassdroid.database.PwDbHeader,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+82,com.keepassdroid.database.PwIconCustom,keepassdroid.database.PwIconCustom,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+83,com.keepassdroid.fileselect.FileSelectActivity,keepassdroid.fileselect.FileSelectActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+84,com.keepassdroid.utils.SprEngineV4,keepassdroid.utils.SprEngineV4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+85,com.keepassdroid.database.PwDatabaseV4XML,keepassdroid.database.PwDatabaseV4XML,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+86,com.keepassdroid.EntryActivity,keepassdroid.EntryActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+87,com.keepassdroid.view.PwEntryView,keepassdroid.view.PwEntryView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+88,com.keepassdroid.stream.LEDataInputStream,keepassdroid.stream.LEDataInputStream,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+89,com.keepassdroid.database.save.PwEntryOutputV3,keepassdroid.database.save.PwEntryOutputV3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+90,com.keepassdroid.view.PwGroupViewV3,keepassdroid.view.PwGroupViewV3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+91,com.keepassdroid.EntryEditActivity,keepassdroid.EntryEditActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+92,com.keepassdroid.GroupActivity,keepassdroid.GroupActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+93,com.keepassdroid.collections.VariantDictionary,keepassdroid.collections.VariantDictionary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+94,com.keepassdroid.view.PwGroupView,keepassdroid.view.PwGroupView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+95,com.keepassdroid.dialog.ReadOnlyDialog,keepassdroid.dialog.ReadOnlyDialog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+96,com.keepassdroid.database.PwGroupId,keepassdroid.database.PwGroupId,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

@@ -1,0 +1,36 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,wallet.src.de.schildbach.wallet.data.ThrottelingLiveData,wallet.data.ThrottelingLiveData,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+1,wallet.src.de.schildbach.wallet.util.WalletUtils,wallet.util.WalletUtils,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+2,wallet.src.de.schildbach.wallet.ui.ReportIssueDialogFragment,wallet.ui.ReportIssueDialogFragment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+3,wallet.src.de.schildbach.wallet.ui.TransactionsAdapter,wallet.ui.TransactionsAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Controller
+4,wallet.src.de.schildbach.wallet.ui.monitor.BlockListAdapter,wallet.ui.monitor.BlockListAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Structurer
+5,wallet.src.de.schildbach.wallet.WalletBalanceWidgetProvider,wallet.WalletBalanceWidgetProvider,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+6,wallet.src.de.schildbach.wallet.data.PaymentIntent,wallet.data.PaymentIntent,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+7,wallet.src.de.schildbach.wallet.ui.ExchangeRatesAdapter,wallet.ui.ExchangeRatesAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Structurer
+8,wallet.src.de.schildbach.wallet.data.ExchangeRatesProvider,wallet.data.ExchangeRatesProvider,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+9,wallet.src.de.schildbach.wallet.ui.InputParser,wallet.ui.InputParser,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+10,wallet.src.de.schildbach.wallet.ui.scan.ScannerView,wallet.ui.scan.ScannerView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+11,wallet.src.de.schildbach.wallet.ui.FancyListFragment,wallet.ui.FancyListFragment,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+12,wallet.src.de.schildbach.wallet.ui.DialogBuilder,wallet.ui.DialogBuilder,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+13,wallet.src.de.schildbach.wallet.ui.RequestCoinsViewModel,wallet.ui.RequestCoinsViewModel,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+14,wallet.src.de.schildbach.wallet.ui.SendingAddressesViewModel,wallet.ui.SendingAddressesViewModel,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+15,wallet.src.de.schildbach.wallet.ui.send.SendCoinsViewModel,wallet.ui.send.SendCoinsViewModel,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Information Holder
+16,wallet.src.de.schildbach.wallet.util.Formats,wallet.util.Formats,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+17,wallet.src.de.schildbach.wallet.ui.send.FeeCategory,wallet.ui.send.FeeCategory,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+18,wallet.src.de.schildbach.wallet.ui.send.SendCoinsFragment,wallet.ui.send.SendCoinsFragment,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+19,wallet.src.de.schildbach.wallet.data.ExchangeRate,wallet.data.ExchangeRate,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+20,wallet.src.de.schildbach.wallet.ui.send.SweepWalletFragment,wallet.ui.send.SweepWalletFragment,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+21,wallet.src.de.schildbach.wallet.Constants,wallet.Constants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+22,wallet.src.de.schildbach.wallet.ui.send.MaintenanceDialogFragment,wallet.ui.send.MaintenanceDialogFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+23,wallet.src.de.schildbach.wallet.ui.scan.CameraManager,wallet.ui.scan.CameraManager,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+24,wallet.src.de.schildbach.wallet.ui.scan.ScanActivity,wallet.ui.scan.ScanActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+25,wallet.src.de.schildbach.wallet.offline.AcceptBluetoothService,wallet.offline.AcceptBluetoothService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+26,wallet.src.de.schildbach.wallet.ui.RequestCoinsFragment,wallet.ui.RequestCoinsFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+27,wallet.src.de.schildbach.wallet.service.BlockchainService,wallet.service.BlockchainService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+28,wallet.src.de.schildbach.wallet.ui.EncryptKeysDialogFragment,wallet.ui.EncryptKeysDialogFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+29,wallet.src.de.schildbach.wallet.ui.WalletAddressesAdapter,wallet.ui.WalletAddressesAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+30,wallet.src.de.schildbach.wallet.ui.CurrencyAmountView,wallet.ui.CurrencyAmountView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+31,wallet.src.de.schildbach.wallet.ui.send.RaiseFeeDialogFragment,wallet.ui.send.RaiseFeeDialogFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+32,wallet.src.de.schildbach.wallet.service.InactivityNotificationService,wallet.service.InactivityNotificationService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+33,wallet.src.de.schildbach.wallet.WalletApplication,wallet.WalletApplication,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+34,wallet.src.de.schildbach.wallet.Configuration,wallet.Configuration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder

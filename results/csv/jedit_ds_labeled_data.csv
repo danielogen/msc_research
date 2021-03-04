@@ -1,0 +1,351 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,org.gjt.sp.jedit.ActionContext,jedit.ActionContext,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Service Provider
+1,org.gjt.sp.jedit.gui.DockableWindowManager,jedit.gui.DockableWindowManager,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+2,org.gjt.sp.jedit.gui.FilteredListModel,jedit.gui.FilteredListModel,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+3,org.gjt.sp.jedit.JEditActionContext,jedit.JEditActionContext,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+4,org.gjt.sp.jedit.bsh.ClassGenerator,jedit.bsh.ClassGenerator,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+5,org.jedit.migration.OneTimeMigrationService,jedit.migration.OneTimeMigrationService,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+6,org.gjt.sp.jedit.bsh.ReflectManager,jedit.bsh.ReflectManager,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+7,org.gjt.sp.jedit.gui.tray.JEditTrayIcon,jedit.gui.tray.JEditTrayIcon,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+8,org.gjt.sp.jedit.print.PrintPreviewPaneUI,jedit.print.PrintPreviewPaneUI,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+9,org.gjt.sp.jedit.gui.InputHandler,jedit.gui.InputHandler,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+10,org.gjt.sp.jedit.buffer.BufferAdapter,jedit.buffer.BufferAdapter,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+11,org.gjt.sp.jedit.jEdit,jedit.jEdit,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+12,org.gjt.sp.jedit.SettingsReloader,jedit.SettingsReloader,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Structurer
+13,org.gjt.sp.jedit.View,jedit.View,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+14,org.gjt.sp.jedit.pluginmgr.PluginDetailPanel,jedit.pluginmgr.PluginDetailPanel,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+639,org.gjt.sp.jedit.gui.ExtendedGridLayout,jedit.gui.ExtendedGridLayout,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+640,org.gjt.sp.jedit.textarea.TriangleFoldPainter,jedit.textarea.TriangleFoldPainter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+641,org.gjt.sp.jedit.textarea.ShapedFoldPainter,jedit.textarea.ShapedFoldPainter,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+642,org.gjt.sp.jedit.gui.VariableGridLayout,jedit.gui.VariableGridLayout,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+643,org.gjt.sp.jedit.TextUtilities,jedit.TextUtilities,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+644,org.gjt.sp.jedit.bsh.BshMethod,jedit.bsh.BshMethod,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+645,org.gjt.sp.jedit.textarea.ExtensionManager,jedit.textarea.ExtensionManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+646,org.gjt.sp.jedit.bsh.ClassGeneratorImpl,jedit.bsh.ClassGeneratorImpl,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+647,org.gjt.sp.jedit.bsh.Interpreter,jedit.bsh.Interpreter,0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,0,0,0,Service Provider
+648,org.gjt.sp.jedit.io.VFS,jedit.io.VFS,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+649,org.gjt.sp.jedit.bsh.TokenMgrError,jedit.bsh.TokenMgrError,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+650,org.gjt.sp.jedit.bsh.ClassGeneratorUtil,jedit.bsh.ClassGeneratorUtil,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+651,org.gjt.sp.jedit.gui.DockableLayout,jedit.gui.DockableLayout,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+652,org.gjt.sp.jedit.bsh.DelayedEvalBshMethod,jedit.bsh.DelayedEvalBshMethod,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+653,org.gjt.sp.jedit.print.BufferPrintable1_7,jedit.print.BufferPrintable1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+654,org.gjt.sp.jedit.gui.ExtendedGridLayoutConstraints,jedit.gui.ExtendedGridLayoutConstraints,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+655,org.gjt.sp.jedit.print.BufferPrintable,jedit.print.BufferPrintable,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+656,org.gjt.sp.jedit.syntax.ParserRule,jedit.syntax.ParserRule,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Service Provider
+657,org.gjt.sp.jedit.textarea.TextAreaExtension,jedit.textarea.TextAreaExtension,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+658,org.gjt.sp.jedit.print.PrinterDialog,jedit.print.PrinterDialog,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+659,org.gjt.sp.jedit.syntax.Token,jedit.syntax.Token,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,Information Holder
+660,org.gjt.sp.jedit.io.VFSFile,jedit.io.VFSFile,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+661,org.gjt.sp.jedit.OptionGroup,jedit.OptionGroup,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+662,org.gjt.sp.jedit.gui.HistoryTextField,jedit.gui.HistoryTextField,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+663,org.gjt.sp.jedit.gui.tray.JTrayIcon,jedit.gui.tray.JTrayIcon,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Interfacer
+664,org.gjt.sp.jedit.textarea.TextAreaMouseHandler,jedit.textarea.TextAreaMouseHandler,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+665,org.gjt.sp.jedit.bsh.BshClassManager,jedit.bsh.BshClassManager,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+666,org.gjt.sp.jedit.bsh.CollectionManager,jedit.bsh.CollectionManager,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+667,org.gjt.sp.jedit.bsh.classpath.BshClassLoader,jedit.bsh.classpath.BshClassLoader,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+668,org.gjt.sp.jedit.syntax.DefaultTokenHandler,jedit.syntax.DefaultTokenHandler,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+669,org.gjt.sp.jedit.visitors.JEditVisitorAdapter,jedit.visitors.JEditVisitorAdapter,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+670,org.gjt.sp.jedit.gui.CompletionPopup,jedit.gui.CompletionPopup,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+671,org.gjt.sp.jedit.gui.RolloverButton,jedit.gui.RolloverButton,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+672,org.gjt.sp.jedit.AbstractOptionPane,jedit.AbstractOptionPane,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+673,org.gjt.sp.jedit.buffer.JEditBuffer,jedit.buffer.JEditBuffer,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,Controller
+674,org.gjt.sp.jedit.Mode,jedit.Mode,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+675,org.jedit.options.OptionTreeModel,jedit.options.OptionTreeModel,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+676,org.gjt.sp.jedit.bsh.UtilEvalError,jedit.bsh.UtilEvalError,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+677,org.gjt.sp.jedit.bsh.EvalError,jedit.bsh.EvalError,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+678,org.gjt.sp.jedit.bsh.NameSpace,jedit.bsh.NameSpace,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+679,org.gjt.sp.jedit.bsh.This,jedit.bsh.This,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+680,org.gjt.sp.jedit.io.CopyFileWorker,jedit.io.CopyFileWorker,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+681,org.gjt.sp.jedit.bsh.BSHEnhancedForStatement,jedit.bsh.BSHEnhancedForStatement,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Service Provider
+682,org.gjt.sp.jedit.search.BufferListSet,jedit.search.BufferListSet,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+683,org.gjt.sp.jedit.BufferHistory,jedit.BufferHistory,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+684,org.gjt.sp.jedit.options.ModeSettingsPane,jedit.options.ModeSettingsPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+685,org.jedit.options.TabbedOptionDialog,jedit.options.TabbedOptionDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+686,org.gjt.sp.jedit.gui.StatusBar,jedit.gui.StatusBar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+687,org.gjt.sp.jedit.bufferio.BufferLoadRequest,jedit.bufferio.BufferLoadRequest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+688,org.gjt.sp.jedit.textarea.StandaloneTextArea,jedit.textarea.StandaloneTextArea,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+689,org.gjt.sp.jedit.bsh.BSHForStatement,jedit.bsh.BSHForStatement,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,Service Provider
+690,org.gjt.sp.jedit.bufferio.BufferSaveRequest,jedit.bufferio.BufferSaveRequest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+691,org.gjt.sp.jedit.bsh.BSHSwitchStatement,jedit.bsh.BSHSwitchStatement,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+692,org.gjt.sp.jedit.textarea.TextAreaTransferHandler,jedit.textarea.TextAreaTransferHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+693,org.gjt.sp.jedit.textarea.TextArea,jedit.textarea.TextArea,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+694,org.gjt.sp.jedit.bsh.ParseException,jedit.bsh.ParseException,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Information Holder
+695,org.gjt.sp.jedit.browser.VFSBrowser,jedit.browser.VFSBrowser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+696,org.gjt.sp.jedit.MiscUtilities,jedit.MiscUtilities,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,Service Provider
+697,org.gjt.sp.jedit.JARClassLoader,jedit.JARClassLoader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+698,org.jedit.options.OptionGroupPane,jedit.options.OptionGroupPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+699,org.gjt.sp.jedit.GUIUtilities,jedit.GUIUtilities,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+700,org.gjt.sp.jedit.gui.KeyEventTranslator,jedit.gui.KeyEventTranslator,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+701,org.gjt.sp.jedit.gui.ListModelEditor,jedit.gui.ListModelEditor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+702,org.gjt.sp.jedit.bsh.org.objectweb.asm.ClassWriter,jedit.bsh.org.objectweb.asm.ClassWriter,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+703,org.gjt.sp.jedit.textarea.BufferHandler,jedit.textarea.BufferHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+704,org.gjt.sp.jedit.options.MouseOptionPane,jedit.options.MouseOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+705,org.gjt.sp.jedit.input.TextAreaInputHandler,jedit.input.TextAreaInputHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+706,org.gjt.sp.jedit.textarea.SelectionManager,jedit.textarea.SelectionManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+707,org.gjt.sp.jedit.syntax.ModeProvider,jedit.syntax.ModeProvider,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+708,org.gjt.sp.jedit.options.AppearanceOptionPane,jedit.options.AppearanceOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+709,org.gjt.sp.jedit.menu.DirectoryProvider,jedit.menu.DirectoryProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+710,org.gjt.sp.jedit.bsh.Primitive,jedit.bsh.Primitive,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+711,org.gjt.sp.jedit.browser.BrowserCommandsMenu,jedit.browser.BrowserCommandsMenu,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+712,org.gjt.sp.jedit.menu.PluginsProvider,jedit.menu.PluginsProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+713,org.gjt.sp.jedit.options.PluginManagerOptionPane,jedit.options.PluginManagerOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+714,org.gjt.sp.jedit.search.HyperSearchOperationNode,jedit.search.HyperSearchOperationNode,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+715,org.gjt.sp.jedit.textarea.ChunkCache,jedit.textarea.ChunkCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+716,org.gjt.sp.jedit.pluginmgr.PluginListHandler,jedit.pluginmgr.PluginListHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+717,org.gjt.sp.jedit.OperatingSystem,jedit.OperatingSystem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+718,org.gjt.sp.jedit.options.ShortcutsOptionPane,jedit.options.ShortcutsOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+719,org.gjt.sp.jedit.EditPane,jedit.EditPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+720,org.gjt.sp.jedit.bsh.Remote,jedit.bsh.Remote,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+721,org.gjt.sp.jedit.menu.RecentFilesProvider,jedit.menu.RecentFilesProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+722,org.gjt.sp.jedit.bsh.org.objectweb.asm.ByteVector,jedit.bsh.org.objectweb.asm.ByteVector,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+723,org.gjt.sp.jedit.bsh.BSHBinaryExpression,jedit.bsh.BSHBinaryExpression,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,Service Provider
+724,org.gjt.sp.jedit.buffer.LineManager,jedit.buffer.LineManager,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+725,org.gjt.sp.jedit.textarea.ScrollLayout,jedit.textarea.ScrollLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+726,org.gjt.sp.jedit.SplitConfigParser,jedit.SplitConfigParser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+727,org.gjt.sp.jedit.pluginmgr.PluginManager,jedit.pluginmgr.PluginManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+728,org.gjt.sp.jedit.gui.SelectLineRange,jedit.gui.SelectLineRange,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+729,org.gjt.sp.jedit.options.ToolBarOptionPane,jedit.options.ToolBarOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+730,org.gjt.sp.jedit.gui.DefaultInputHandler,jedit.gui.DefaultInputHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+731,org.gjt.sp.jedit.syntax.TokenMarker,jedit.syntax.TokenMarker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+732,org.gjt.sp.jedit.indent.DeepIndentRule,jedit.indent.DeepIndentRule,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+733,org.gjt.sp.jedit.options.GeneralOptionPane,jedit.options.GeneralOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+734,org.gjt.sp.jedit.browser.VFSFileChooserDialog,jedit.browser.VFSFileChooserDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+735,org.gjt.sp.jedit.bsh.BSHAssignment,jedit.bsh.BSHAssignment,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,Service Provider
+736,org.gjt.sp.jedit.gui.FilesChangedDialog,jedit.gui.FilesChangedDialog,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Service Provider
+737,org.gjt.sp.jedit.bsh.LHS,jedit.bsh.LHS,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+738,org.gjt.sp.jedit.bsh.org.objectweb.asm.Type,jedit.bsh.org.objectweb.asm.Type,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+739,org.gjt.sp.jedit.gui.AbbrevEditor,jedit.gui.AbbrevEditor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+740,org.gjt.sp.jedit.options.EncodingsOptionPane,jedit.options.EncodingsOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+741,org.gjt.sp.jedit.menu.RecentDirectoriesProvider,jedit.menu.RecentDirectoriesProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+742,org.gjt.sp.jedit.browser.VFSFileNameField,jedit.browser.VFSFileNameField,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+743,org.gjt.sp.jedit.help.HelpIndex,jedit.help.HelpIndex,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+744,org.gjt.sp.jedit.options.PrintOptionPane,jedit.options.PrintOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+745,org.gjt.sp.jedit.bsh.JavaCharStream,jedit.bsh.JavaCharStream,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+746,org.gjt.sp.jedit.gui.ActionBar,jedit.gui.ActionBar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+747,org.gjt.sp.jedit.help.HelpViewer,jedit.help.HelpViewer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+748,org.gjt.sp.jedit.gui.HistoryTextArea,jedit.gui.HistoryTextArea,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+749,org.gjt.sp.jedit.search.BoyerMooreSearchMatcher,jedit.search.BoyerMooreSearchMatcher,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+750,org.gjt.sp.jedit.gui.OptionsDialog,jedit.gui.OptionsDialog,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+751,org.gjt.sp.jedit.bsh.classpath.ClassManagerImpl,jedit.bsh.classpath.ClassManagerImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+752,org.gjt.sp.jedit.Abbrevs,jedit.Abbrevs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+753,org.gjt.sp.jedit.options.EditModesPane,jedit.options.EditModesPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+754,org.gjt.sp.jedit.options.GutterOptionPane,jedit.options.GutterOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+755,org.gjt.sp.jedit.options.BrowserOptionPane,jedit.options.BrowserOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+756,org.gjt.sp.jedit.bsh.commands.dir,jedit.bsh.commands.dir,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+757,org.gjt.sp.jedit.gui.EditAbbrevDialog,jedit.gui.EditAbbrevDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+758,org.gjt.sp.jedit.bsh.org.objectweb.asm.Label,jedit.bsh.org.objectweb.asm.Label,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+759,org.gjt.sp.jedit.browser.FileCellRenderer,jedit.browser.FileCellRenderer,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+760,org.gjt.sp.jedit.textarea.RangeMap,jedit.textarea.RangeMap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+761,org.gjt.sp.jedit.gui.CompleteWord,jedit.gui.CompleteWord,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+762,org.gjt.sp.jedit.gui.StyleEditor,jedit.gui.StyleEditor,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+763,org.gjt.sp.jedit.gui.JEditHistoryModelSaver,jedit.gui.JEditHistoryModelSaver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+764,org.gjt.sp.jedit.options.AbbrevsOptionPane,jedit.options.AbbrevsOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+765,org.gjt.sp.jedit.bufferset.BufferSet,jedit.bufferset.BufferSet,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+766,org.gjt.sp.jedit.pluginmgr.PluginList,jedit.pluginmgr.PluginList,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+767,org.gjt.sp.jedit.textarea.DisplayManager,jedit.textarea.DisplayManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+768,org.gjt.sp.jedit.gui.KeyEventWorkaround,jedit.gui.KeyEventWorkaround,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+769,org.gjt.sp.jedit.search.SearchAndReplace,jedit.search.SearchAndReplace,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+770,org.gjt.sp.jedit.search.PatternSearchMatcher,jedit.search.PatternSearchMatcher,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+771,org.gjt.sp.jedit.gui.ColorChooserDialog,jedit.gui.ColorChooserDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+772,org.gjt.sp.jedit.print.BufferPrinter1_7,jedit.print.BufferPrinter1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+773,org.gjt.sp.jedit.print.BufferPrinter1_7,jedit.print.BufferPrinter1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+774,org.gjt.sp.jedit.print.BufferPrinter1_7,jedit.print.BufferPrinter1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+775,org.gjt.sp.jedit.EditServer,jedit.EditServer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+776,org.gjt.sp.jedit.options.SaveBackupOptionPane,jedit.options.SaveBackupOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+777,org.gjt.sp.jedit.textarea.MouseHandler,jedit.textarea.MouseHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+778,org.gjt.sp.jedit.JEditRegisterSaver,jedit.JEditRegisterSaver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+779,org.gjt.sp.jedit.search.SearchDialog,jedit.search.SearchDialog,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Interfacer
+780,org.gjt.sp.jedit.textarea.FirstLine,jedit.textarea.FirstLine,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+781,org.gjt.sp.jedit.bsh.Types,jedit.bsh.Types,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+782,org.gjt.sp.jedit.gui.GrabKeyDialog,jedit.gui.GrabKeyDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+783,org.gjt.sp.jedit.options.BrowserColorsOptionPane,jedit.options.BrowserColorsOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+784,org.gjt.sp.jedit.gui.DockableWindowManagerImpl,jedit.gui.DockableWindowManagerImpl,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+785,org.gjt.sp.jedit.pluginmgr.ManagePanel,jedit.pluginmgr.ManagePanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+786,org.gjt.sp.jedit.bsh.BSHTryStatement,jedit.bsh.BSHTryStatement,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+787,org.gjt.sp.jedit.syntax.DisplayTokenHandler,jedit.syntax.DisplayTokenHandler,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+788,org.gjt.sp.jedit.gui.AbstractContextOptionPane,jedit.gui.AbstractContextOptionPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+789,org.gjt.sp.jedit.gui.FilePropertiesDialog,jedit.gui.FilePropertiesDialog,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Interfacer
+790,org.gjt.sp.jedit.textarea.Gutter,jedit.textarea.Gutter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+791,org.gjt.sp.jedit.search.HyperSearchRequest,jedit.search.HyperSearchRequest,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+792,org.gjt.sp.jedit.menu.ReloadWithEncodingProvider,jedit.menu.ReloadWithEncodingProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+793,org.gjt.sp.jedit.gui.FontSelectorDialog,jedit.gui.FontSelectorDialog,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+794,org.gjt.sp.jedit.gui.DropShadowBorder,jedit.gui.DropShadowBorder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+795,org.gjt.sp.jedit.bsh.BSHImportDeclaration,jedit.bsh.BSHImportDeclaration,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+796,org.gjt.sp.jedit.bsh.ParserTokenManager,jedit.bsh.ParserTokenManager,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+797,org.gjt.sp.jedit.buffer.FoldHandler,jedit.buffer.FoldHandler,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,Service Provider
+798,org.gjt.sp.jedit.bsh.ReturnControl,jedit.bsh.ReturnControl,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+799,org.gjt.sp.jedit.print.PrintRangeType,jedit.print.PrintRangeType,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Information Holder
+800,org.gjt.sp.jedit.bsh.BSHBlock,jedit.bsh.BSHBlock,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+801,org.gjt.sp.jedit.bsh.BSHPrimitiveType,jedit.bsh.BSHPrimitiveType,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Information Holder
+802,org.gjt.sp.jedit.bsh.BSHVariableDeclarator,jedit.bsh.BSHVariableDeclarator,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+803,org.gjt.sp.jedit.search.HyperSearchResult,jedit.search.HyperSearchResult,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+804,org.gjt.sp.jedit.bsh.BSHPrimarySuffix,jedit.bsh.BSHPrimarySuffix,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,Service Provider
+805,org.gjt.sp.jedit.bsh.SimpleNode,jedit.bsh.SimpleNode,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,Information Holder
+806,org.gjt.sp.jedit.bsh.BSHUnaryExpression,jedit.bsh.BSHUnaryExpression,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+807,org.gjt.sp.jedit.bsh.BSHReturnType,jedit.bsh.BSHReturnType,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+808,org.gjt.sp.jedit.bsh.UtilTargetError,jedit.bsh.UtilTargetError,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+809,org.gjt.sp.jedit.bsh.BSHTypedVariableDeclaration,jedit.bsh.BSHTypedVariableDeclaration,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Information Holder
+810,org.gjt.sp.jedit.bsh.BSHFormalParameter,jedit.bsh.BSHFormalParameter,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+811,org.gjt.sp.jedit.search.HyperSearchFileNode,jedit.search.HyperSearchFileNode,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+812,org.gjt.sp.jedit.bsh.BSHArrayDimensions,jedit.bsh.BSHArrayDimensions,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+813,org.gjt.sp.jedit.bsh.BSHFormalComment,jedit.bsh.BSHFormalComment,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,Information Holder
+814,org.gjt.sp.jedit.bsh.BSHAmbiguousName,jedit.bsh.BSHAmbiguousName,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+815,org.gjt.sp.jedit.bsh.BSHLiteral,jedit.bsh.BSHLiteral,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,Service Provider
+816,org.gjt.sp.jedit.input.AbstractInputHandler,jedit.input.AbstractInputHandler,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+817,org.gjt.sp.jedit.bsh.BSHReturnStatement,jedit.bsh.BSHReturnStatement,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Service Provider
+818,org.gjt.sp.jedit.bsh.Parser,jedit.bsh.Parser,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Service Provider
+819,org.gjt.sp.jedit.bsh.BSHMethodDeclaration,jedit.bsh.BSHMethodDeclaration,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Information Holder
+820,org.gjt.sp.jedit.bsh.Token,jedit.bsh.Token,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+821,org.gjt.sp.jedit.Debug,jedit.Debug,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Information Holder
+822,org.gjt.sp.jedit.bsh.Name,jedit.bsh.Name,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+823,org.gjt.sp.jedit.textarea.ElasticTabStopBufferListener,jedit.textarea.ElasticTabStopBufferListener,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+824,org.gjt.sp.jedit.EBMessage,jedit.EBMessage,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+825,org.gjt.sp.jedit.msg.VFSPathSelected,jedit.msg.VFSPathSelected,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+826,org.gjt.sp.jedit.msg.PluginUpdate,jedit.msg.PluginUpdate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+827,org.gjt.sp.jedit.bsh.BSHSwitchLabel,jedit.bsh.BSHSwitchLabel,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+828,org.gjt.sp.jedit.bufferio.MarkersSaveRequest,jedit.bufferio.MarkersSaveRequest,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+829,org.gjt.sp.jedit.msg.PropertiesChanged,jedit.msg.PropertiesChanged,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+830,org.gjt.sp.jedit.bsh.BSHStatementExpressionList,jedit.bsh.BSHStatementExpressionList,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+831,org.gjt.sp.jedit.gui.EnhancedDialog,jedit.gui.EnhancedDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+832,org.gjt.sp.jedit.bsh.BSHWhileStatement,jedit.bsh.BSHWhileStatement,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Service Provider
+833,org.gjt.sp.jedit.search.SearchMatcher,jedit.search.SearchMatcher,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+834,org.gjt.sp.jedit.indent.BracketIndentRule,jedit.indent.BracketIndentRule,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+835,org.gjt.sp.jedit.indent.CloseBracketIndentRule,jedit.indent.CloseBracketIndentRule,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+836,org.gjt.sp.jedit.bufferio.IoTask,jedit.bufferio.IoTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Information Holder
+837,org.gjt.sp.jedit.bsh.reflect.ReflectManagerImpl,jedit.bsh.reflect.ReflectManagerImpl,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+838,org.gjt.sp.jedit.bufferio.BufferIORequest,jedit.bufferio.BufferIORequest,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Service Provider
+839,org.gjt.sp.jedit.buffer.ExplicitFoldHandler,jedit.buffer.ExplicitFoldHandler,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,Service Provider
+840,org.gjt.sp.jedit.msg.EditPaneUpdate,jedit.msg.EditPaneUpdate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+841,org.gjt.sp.jedit.msg.PositionChanging,jedit.msg.PositionChanging,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+842,org.gjt.sp.jedit.msg.ViewUpdate,jedit.msg.ViewUpdate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+843,org.gjt.sp.jedit.bsh.BSHThrowStatement,jedit.bsh.BSHThrowStatement,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+844,org.gjt.sp.jedit.msg.EditorExitRequested,jedit.msg.EditorExitRequested,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+845,org.gjt.sp.jedit.JEditAbstractEditAction,jedit.JEditAbstractEditAction,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+846,org.gjt.sp.jedit.EditAction,jedit.EditAction,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+847,org.gjt.sp.jedit.bsh.BSHIfStatement,jedit.bsh.BSHIfStatement,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+848,org.gjt.sp.jedit.print.PrintPreview,jedit.print.PrintPreview,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+849,org.gjt.sp.jedit.JEditKillRing,jedit.JEditKillRing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Interfacer
+850,org.gjt.sp.jedit.buffer.KillRing,jedit.buffer.KillRing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+851,org.gjt.sp.jedit.buffer.IndentFoldHandler,jedit.buffer.IndentFoldHandler,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Service Provider
+852,org.gjt.sp.jedit.bsh.collection.CollectionManagerImpl,jedit.bsh.collection.CollectionManagerImpl,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+853,org.gjt.sp.jedit.bsh.classpath.DiscreteFilesClassLoader,jedit.bsh.classpath.DiscreteFilesClassLoader,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+854,org.gjt.sp.jedit.textarea.InputMethodSupport,jedit.textarea.InputMethodSupport,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+855,org.gjt.sp.jedit.gui.CloseDialog,jedit.gui.CloseDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+856,org.gjt.sp.jedit.gui.ContextAddDialog,jedit.gui.ContextAddDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+857,org.jedit.migration.CheckFileStatus,jedit.migration.CheckFileStatus,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+858,org.gjt.sp.jedit.bsh.BSHArguments,jedit.bsh.BSHArguments,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+859,org.gjt.sp.jedit.msg.BufferUpdate,jedit.msg.BufferUpdate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+860,org.gjt.sp.jedit.msg.BufferChanging,jedit.msg.BufferChanging,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+861,org.gjt.sp.jedit.bsh.BSHArrayInitializer,jedit.bsh.BSHArrayInitializer,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+862,org.gjt.sp.jedit.bsh.BSHType,jedit.bsh.BSHType,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+863,org.gjt.sp.jedit.textarea.CircleFoldPainter,jedit.textarea.CircleFoldPainter,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+864,org.gjt.sp.jedit.gui.PasteFromListDialog,jedit.gui.PasteFromListDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+865,org.gjt.sp.jedit.browser.AbstractBrowserTask,jedit.browser.AbstractBrowserTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+866,org.gjt.sp.jedit.browser.RenameBrowserTask,jedit.browser.RenameBrowserTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+867,org.gjt.sp.jedit.msg.VFSUpdate,jedit.msg.VFSUpdate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+868,org.gjt.sp.jedit.browser.MkDirBrowserTask,jedit.browser.MkDirBrowserTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+869,org.gjt.sp.jedit.msg.EditorExiting,jedit.msg.EditorExiting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+870,org.gjt.sp.jedit.bsh.BSHFormalParameters,jedit.bsh.BSHFormalParameters,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+871,org.gjt.sp.jedit.textarea.SquareFoldPainter,jedit.textarea.SquareFoldPainter,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+872,org.gjt.sp.jedit.buffer.DummyFoldHandler,jedit.buffer.DummyFoldHandler,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+873,org.gjt.sp.jedit.bsh.BSHMethodInvocation,jedit.bsh.BSHMethodInvocation,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+874,org.gjt.sp.jedit.browser.DeleteBrowserTask,jedit.browser.DeleteBrowserTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+875,org.gjt.sp.jedit.bsh.JThis,jedit.bsh.JThis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Service Provider
+876,org.gjt.sp.jedit.msg.DockableWindowUpdate,jedit.msg.DockableWindowUpdate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+877,org.gjt.sp.jedit.msg.EditorStarted,jedit.msg.EditorStarted,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+878,org.gjt.sp.jedit.bsh.BSHClassDeclaration,jedit.bsh.BSHClassDeclaration,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+879,org.gjt.sp.jedit.search.AllBufferSet,jedit.search.AllBufferSet,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+880,org.gjt.sp.jedit.msg.DynamicMenuChanged,jedit.msg.DynamicMenuChanged,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+881,org.gjt.sp.jedit.io.LocalFileSaveTask,jedit.io.LocalFileSaveTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+882,org.gjt.sp.jedit.msg.RegisterChanged,jedit.msg.RegisterChanged,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+883,org.gjt.sp.jedit.print.PageBreakExtension,jedit.print.PageBreakExtension,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Interfacer
+884,org.gjt.sp.jedit.bsh.BSHTernaryExpression,jedit.bsh.BSHTernaryExpression,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+885,org.gjt.sp.jedit.msg.PropertiesChanging,jedit.msg.PropertiesChanging,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+886,org.gjt.sp.jedit.gui.tray.JEditSwingTrayIcon,jedit.gui.tray.JEditSwingTrayIcon,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Interfacer
+887,org.gjt.sp.jedit.msg.SearchSettingsChanged,jedit.msg.SearchSettingsChanged,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+888,org.gjt.sp.jedit.JEditBeanShellAction,jedit.JEditBeanShellAction,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+889,org.gjt.sp.jedit.bsh.BSHAllocationExpression,jedit.bsh.BSHAllocationExpression,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+890,org.gjt.sp.jedit.BeanShellAction,jedit.BeanShellAction,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+891,org.gjt.sp.jedit.visitors.SaveCaretInfoVisitor,jedit.visitors.SaveCaretInfoVisitor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+892,org.gjt.sp.jedit.gui.ErrorListDialog,jedit.gui.ErrorListDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Interfacer
+893,org.gjt.sp.jedit.gui.PasteSpecialDialog,jedit.gui.PasteSpecialDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+894,org.gjt.sp.jedit.gui.BeanShellErrorDialog,jedit.gui.BeanShellErrorDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+895,org.gjt.sp.jedit.gui.TextAreaDialog,jedit.gui.TextAreaDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+896,org.gjt.sp.jedit.bsh.BSHCastExpression,jedit.bsh.BSHCastExpression,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+897,org.gjt.sp.jedit.print.BasicPrintPreviewPaneUI,jedit.print.BasicPrintPreviewPaneUI,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+898,org.gjt.sp.jedit.bsh.BSHPrimaryExpression,jedit.bsh.BSHPrimaryExpression,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+899,org.gjt.sp.jedit.bsh.BSHPackageDeclaration,jedit.bsh.BSHPackageDeclaration,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+900,org.gjt.sp.jedit.gui.AddModeDialog,jedit.gui.AddModeDialog,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+901,org.gjt.sp.jedit.gui.BufferOptions,jedit.gui.BufferOptions,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+902,org.gjt.sp.jedit.indent.OpenBracketIndentRule,jedit.indent.OpenBracketIndentRule,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+903,org.gjt.sp.jedit.browser.ListDirectoryBrowserTask,jedit.browser.ListDirectoryBrowserTask,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+904,org.gjt.sp.jedit.gui.TipOfTheDay,jedit.gui.TipOfTheDay,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Information Holder
+905,org.gjt.sp.jedit.syntax.Chunk,jedit.syntax.Chunk,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Service Provider
+906,org.gjt.sp.jedit.syntax.ParserRuleSet,jedit.syntax.ParserRuleSet,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+907,org.gjt.sp.jedit.gui.EnhancedButton,jedit.gui.EnhancedButton,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Service Provider
+908,org.gjt.sp.jedit.syntax.SyntaxStyle,jedit.syntax.SyntaxStyle,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+909,org.gjt.sp.jedit.Buffer,jedit.Buffer,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+910,org.gjt.sp.jedit.PluginJAR,jedit.PluginJAR,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+911,org.gjt.sp.jedit.io.CharsetEncoding,jedit.io.CharsetEncoding,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+912,org.gjt.sp.jedit.textarea.TextAreaPainter,jedit.textarea.TextAreaPainter,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+913,org.gjt.sp.jedit.bsh.Variable,jedit.bsh.Variable,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+914,org.gjt.sp.jedit.bsh.Modifiers,jedit.bsh.Modifiers,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+915,org.gjt.sp.jedit.bsh.ClassIdentifier,jedit.bsh.ClassIdentifier,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+916,org.jedit.io.Native2ASCIIEncoding,jedit.io.Native2ASCIIEncoding,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+917,org.gjt.sp.jedit.io.AutoDetection,jedit.io.AutoDetection,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+918,org.gjt.sp.jedit.io.EncodingServer,jedit.io.EncodingServer,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+919,org.gjt.sp.jedit.bsh.InterpreterError,jedit.bsh.InterpreterError,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Service Provider
+920,org.gjt.sp.jedit.gui.ShortcutPrefixActiveEvent,jedit.gui.ShortcutPrefixActiveEvent,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Information Holder
+921,org.gjt.sp.jedit.gui.BufferSwitcher,jedit.gui.BufferSwitcher,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+922,org.gjt.sp.jedit.bsh.classpath.BshClassPath,jedit.bsh.classpath.BshClassPath,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Information Holder
+923,org.gjt.sp.jedit.menu.EnhancedMenuItem,jedit.menu.EnhancedMenuItem,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+924,org.gjt.sp.jedit.gui.DockablePanel,jedit.gui.DockablePanel,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+925,org.gjt.sp.jedit.pluginmgr.InstallPanel,jedit.pluginmgr.InstallPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+926,org.gjt.sp.jedit.search.SearchBar,jedit.search.SearchBar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+927,org.gjt.sp.jedit.browser.BrowserView,jedit.browser.BrowserView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+928,org.gjt.sp.jedit.search.HyperSearchResults,jedit.search.HyperSearchResults,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+929,org.gjt.sp.jedit.bsh.org.objectweb.asm.Item,jedit.bsh.org.objectweb.asm.Item,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+930,org.gjt.sp.jedit.browser.VFSDirectoryEntryTable,jedit.browser.VFSDirectoryEntryTable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+931,org.gjt.sp.jedit.options.BufferOptionPane,jedit.options.BufferOptionPane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+932,org.gjt.sp.jedit.gui.FontSelector,jedit.gui.FontSelector,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+933,org.gjt.sp.jedit.textarea.JEditTextArea,jedit.textarea.JEditTextArea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+934,org.gjt.sp.jedit.print.Margins,jedit.print.Margins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+935,org.gjt.sp.jedit.help.HelpTOCPanel,jedit.help.HelpTOCPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+936,org.gjt.sp.jedit.indent.RegexpIndentRule,jedit.indent.RegexpIndentRule,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+937,org.gjt.sp.jedit.bsh.org.objectweb.asm.CodeWriter,jedit.bsh.org.objectweb.asm.CodeWriter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+938,org.gjt.sp.jedit.options.SyntaxHiliteOptionPane,jedit.options.SyntaxHiliteOptionPane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+939,org.gjt.sp.jedit.bufferset.BufferSetManager,jedit.bufferset.BufferSetManager,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+940,org.gjt.sp.jedit.syntax.XModeHandler,jedit.syntax.XModeHandler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+941,org.gjt.sp.jedit.textarea.JEditEmbeddedTextArea,jedit.textarea.JEditEmbeddedTextArea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+942,org.gjt.sp.jedit.gui.statusbar.ErrorsWidgetFactory,jedit.gui.statusbar.ErrorsWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+943,org.gjt.sp.jedit.gui.statusbar.ToolTipLabel,jedit.gui.statusbar.ToolTipLabel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+944,org.gjt.sp.jedit.gui.statusbar.EncodingWidgetFactory,jedit.gui.statusbar.EncodingWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+945,org.jedit.keymap.KeymapFileFilter,jedit.keymap.KeymapFileFilter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+946,org.gjt.sp.jedit.options.IntegerInputVerifier,jedit.options.IntegerInputVerifier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+947,org.gjt.sp.jedit.gui.statusbar.LineSepWidgetFactory,jedit.gui.statusbar.LineSepWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+948,org.gjt.sp.jedit.gui.statusbar.WrapWidgetFactory,jedit.gui.statusbar.WrapWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+949,org.gjt.sp.jedit.gui.statusbar.MultiSelectWidgetFactory,jedit.gui.statusbar.MultiSelectWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+950,org.gjt.sp.jedit.gui.statusbar.TaskMonitorWidgetFactory,jedit.gui.statusbar.TaskMonitorWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+951,org.gjt.sp.jedit.bsh.ReflectError,jedit.bsh.ReflectError,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+952,org.gjt.sp.jedit.bufferio.BufferInsertRequest,jedit.bufferio.BufferInsertRequest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+953,org.gjt.sp.jedit.gui.statusbar.LastModifiedWidgetFactory,jedit.gui.statusbar.LastModifiedWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+954,org.gjt.sp.jedit.gui.statusbar.RectSelectWidgetFactory,jedit.gui.statusbar.RectSelectWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+955,org.gjt.sp.jedit.gui.statusbar.ClockWidgetFactory,jedit.gui.statusbar.ClockWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+956,org.gjt.sp.jedit.gui.statusbar.OverwriteWidgetFactory,jedit.gui.statusbar.OverwriteWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+957,org.gjt.sp.jedit.gui.DynamicContextMenuService,jedit.gui.DynamicContextMenuService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+958,org.gjt.sp.jedit.gui.statusbar.BufferSetWidgetFactory,jedit.gui.statusbar.BufferSetWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+959,org.gjt.sp.jedit.proto.jeditresource.Handler,jedit.proto.jeditresource.Handler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+960,org.gjt.sp.jedit.gui.statusbar.ModeWidgetFactory,jedit.gui.statusbar.ModeWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+961,org.gjt.sp.jedit.gui.statusbar.FoldWidgetFactory,jedit.gui.statusbar.FoldWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+962,org.gjt.sp.jedit.JEditRegistersListener,jedit.JEditRegistersListener,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+963,org.jedit.options.PluginOptionGroup,jedit.options.PluginOptionGroup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+964,org.jedit.migration.KeymapMigration,jedit.migration.KeymapMigration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+965,org.gjt.sp.jedit.gui.statusbar.SelectionLengthWidgetFactory,jedit.gui.statusbar.SelectionLengthWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+966,org.gjt.sp.jedit.gui.statusbar.LockedWidgetFactory,jedit.gui.statusbar.LockedWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+967,org.gjt.sp.jedit.gui.statusbar.MemoryStatusWidgetFactory,jedit.gui.statusbar.MemoryStatusWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+968,org.gjt.sp.jedit.textarea.TextAreaException,jedit.textarea.TextAreaException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+969,org.gjt.sp.jedit.menu.MenuItemTextComparator,jedit.menu.MenuItemTextComparator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+970,org.gjt.sp.jedit.indent.WhitespaceRule,jedit.indent.WhitespaceRule,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+971,org.gjt.sp.jedit.bsh.ClassPathException,jedit.bsh.ClassPathException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+972,org.gjt.sp.jedit.gui.statusbar.IndentWidgetFactory,jedit.gui.statusbar.IndentWidgetFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+973,org.gjt.sp.jedit.syntax.SyntaxUtilities,jedit.syntax.SyntaxUtilities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

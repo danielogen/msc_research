@@ -1,0 +1,460 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,org.mars_sim.msp.core.person.Training,msp.core.person.Training,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+1,org.mars_sim.msp.core.vehicle.Vehicle,msp.core.vehicle.Vehicle,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+2,org.mars_sim.msp.core.structure.building.function.farming.CropType,msp.core.structure.building.function.farming.CropType,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+3,org.mars_sim.msp.core.Unit,msp.core.Unit,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+4,org.mars_sim.msp.core.structure.SettlementConfig,msp.core.structure.SettlementConfig,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+5,org.mars_sim.msp.core.person.ai.mission.RoverMission,msp.core.person.ai.mission.RoverMission,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+6,org.mars_sim.msp.core.person.ai.task.OperateVehicle,msp.core.person.ai.task.OperateVehicle,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+7,org.mars_sim.msp.core.malfunction.MalfunctionEvent,msp.core.malfunction.MalfunctionEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+8,org.mars_sim.msp.core.astroarts.Comet,msp.core.astroarts.Comet,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+9,org.mars_sim.msp.core.person.ai.mission.EmergencySupply,msp.core.person.ai.mission.EmergencySupply,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+10,org.mars_sim.msp.core.person.ai.mission.Trade,msp.core.person.ai.mission.Trade,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+11,org.mars_sim.msp.core.resource.Part,msp.core.resource.Part,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+12,org.mars_sim.msp.core.resource.ResourceUtil,msp.core.resource.ResourceUtil,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+13,org.mars_sim.msp.core.person.ai.mission.Mining,msp.core.person.ai.mission.Mining,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+14,org.mars_sim.msp.core.person.ai.mission.MeteorologyFieldStudy,msp.core.person.ai.mission.MeteorologyFieldStudy,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+15,org.mars_sim.msp.ui.swing.MainDesktopManager,msp.ui.swing.MainDesktopManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+16,org.mars_sim.msp.core.person.ai.mission.TradeUtil,msp.core.person.ai.mission.TradeUtil,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+17,org.mars_sim.msp.ui.swing.tool.settlement.VehicleMapLayer,msp.ui.swing.tool.settlement.VehicleMapLayer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+18,org.mars_sim.msp.core.person.ai.job.JobHistory,msp.core.person.ai.job.JobHistory,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+19,org.mars_sim.msp.core.resource.AmountResource,msp.core.resource.AmountResource,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+20,org.mars_sim.msp.core.structure.building.function.BuildingAirlock,msp.core.structure.building.function.BuildingAirlock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+21,org.mars_sim.msp.core.person.ai.task.LoadVehicleGarage,msp.core.person.ai.task.LoadVehicleGarage,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+22,org.mars_sim.msp.ui.swing.tool.DropShadowBorder,msp.ui.swing.tool.DropShadowBorder,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+23,org.mars_sim.msp.core.structure.building.BuildingManager,msp.core.structure.building.BuildingManager,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+24,org.mars_sim.msp.ui.steelseries.rangeslider.RangeSliderUI,msp.ui.steelseries.rangeslider.RangeSliderUI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+25,org.mars_sim.msp.core.hazard.HazardEvent,msp.core.hazard.HazardEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+26,org.mars_sim.msp.core.mars.DustStorm,msp.core.mars.DustStorm,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+27,org.mars_sim.msp.ui.swing.tool.settlement.RobotMapLayer,msp.ui.swing.tool.settlement.RobotMapLayer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+28,org.mars_sim.msp.core.structure.BuildingTemplate,msp.core.structure.BuildingTemplate,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+29,org.mars_sim.msp.core.interplanetary.transport.settlement.ArrivingSettlement,msp.core.interplanetary.transport.settlement.ArrivingSettlement,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+30,org.mars_sim.msp.core.person.ai.mission.BiologyFieldStudy,msp.core.person.ai.mission.BiologyFieldStudy,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+31,org.mars_sim.msp.core.mars.SurfaceFeatures,msp.core.mars.SurfaceFeatures,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+32,org.mars_sim.msp.core.tool.SFMT19937j,msp.core.tool.SFMT19937j,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+33,org.mars_sim.msp.core.structure.building.function.Function,msp.core.structure.building.function.Function,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Structurer
+34,org.mars_sim.msp.core.structure.goods.GoodsManager,msp.core.structure.goods.GoodsManager,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Controller
+35,org.mars_sim.msp.ui.swing.tool.settlement.StructureMapLayer,msp.ui.swing.tool.settlement.StructureMapLayer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+36,org.mars_sim.msp.ui.swing.ModalInternalFrame,msp.ui.swing.ModalInternalFrame,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+37,org.mars_sim.msp.ui.steelseries.gauges.SparkLine,msp.ui.steelseries.gauges.SparkLine,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+38,org.mars_sim.msp.core.LocalAreaUtil,msp.core.LocalAreaUtil,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+39,org.mars_sim.msp.ui.steelseries.gauges.AbstractLinear,msp.ui.steelseries.gauges.AbstractLinear,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+40,org.mars_sim.msp.core.astroarts.ATime,msp.core.astroarts.ATime,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+41,org.mars_sim.msp.ui.steelseries.gauges.AbstractRadialBargraph,msp.ui.steelseries.gauges.AbstractRadialBargraph,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+42,org.mars_sim.msp.core.person.ai.task.utils.TaskEvent,msp.core.person.ai.task.utils.TaskEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+43,org.mars_sim.msp.core.astroarts.TimeSpan,msp.core.astroarts.TimeSpan,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+44,org.mars_sim.msp.core.vehicle.VehicleAirlock,msp.core.vehicle.VehicleAirlock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+45,org.mars_sim.msp.core.person.ai.mission.CollectRegolith,msp.core.person.ai.mission.CollectRegolith,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+46,org.mars_sim.msp.core.person.ai.mission.Exploration,msp.core.person.ai.mission.Exploration,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+47,org.mars_sim.msp.core.person.ai.mission.AreologyFieldStudy,msp.core.person.ai.mission.AreologyFieldStudy,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+48,org.mars_sim.msp.core.structure.building.connection.BuildingConnectorManager,msp.core.structure.building.connection.BuildingConnectorManager,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+49,org.mars_sim.msp.core.person.ai.task.WalkingSteps,msp.core.person.ai.task.WalkingSteps,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+50,org.mars_sim.msp.ui.steelseries.rangeslider.ConicalGradientPaint,msp.ui.steelseries.rangeslider.ConicalGradientPaint,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+51,org.mars_sim.msp.core.mars.DailyWeather,msp.core.mars.DailyWeather,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+52,org.mars_sim.msp.core.person.Chatter,msp.core.person.Chatter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+53,org.mars_sim.msp.ui.steelseries.extras.WindDirection,msp.ui.steelseries.extras.WindDirection,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+54,org.mars_sim.msp.ui.steelseries.tools.ContourGradientPaint,msp.ui.steelseries.tools.ContourGradientPaint,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+55,org.mars_sim.msp.ui.swing.tool.SpringUtilities,msp.ui.swing.tool.SpringUtilities,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+56,org.mars_sim.msp.ui.swing.tool.MarqueeWindow,msp.ui.swing.tool.MarqueeWindow,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+57,org.mars_sim.msp.core.person.ai.mission.CollectIce,msp.core.person.ai.mission.CollectIce,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+58,org.mars_sim.msp.ui.swing.tool.MarqueeTicker,msp.ui.swing.tool.MarqueeTicker,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+59,org.mars_sim.msp.core.BoundedObject,msp.core.BoundedObject,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+60,org.mars_sim.msp.ui.steelseries.tools.BiLinearGradientPaint,msp.ui.steelseries.tools.BiLinearGradientPaint,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+61,org.mars_sim.msp.core.LogConsolidated,msp.core.LogConsolidated,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+62,org.mars_sim.msp.core.structure.building.connection.BuildingConnector,msp.core.structure.building.connection.BuildingConnector,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+63,org.mars_sim.msp.core.person.Gene,msp.core.person.Gene,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+64,org.mars_sim.msp.core.person.ai.task.WalkSettlementInterior,msp.core.person.ai.task.WalkSettlementInterior,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+65,org.mars_sim.msp.core.person.ai.mission.BuildingConstructionMission,msp.core.person.ai.mission.BuildingConstructionMission,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+66,org.mars_sim.msp.core.structure.building.function.cooking.PreparedDessert,msp.core.structure.building.function.cooking.PreparedDessert,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+67,org.mars_sim.msp.ui.steelseries.tools.BrushedMetalFilter,msp.ui.steelseries.tools.BrushedMetalFilter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+68,org.mars_sim.msp.core.Coordinates,msp.core.Coordinates,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+69,org.mars_sim.msp.core.person.health.MedicalManager,msp.core.person.health.MedicalManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+70,org.mars_sim.msp.core.structure.CompositionOfAir,msp.core.structure.CompositionOfAir,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+71,org.mars_sim.msp.core.astroarts.Matrix,msp.core.astroarts.Matrix,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+72,org.mars_sim.msp.core.resource.ItemResourceUtil,msp.core.resource.ItemResourceUtil,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+73,org.mars_sim.msp.core.resource.ItemResource,msp.core.resource.ItemResource,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+74,org.mars_sim.msp.core.person.ai.mission.RescueSalvageVehicle,msp.core.person.ai.mission.RescueSalvageVehicle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+75,org.mars_sim.msp.ui.steelseries.extras.Poi,msp.ui.steelseries.extras.Poi,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+76,org.mars_sim.msp.ui.swing.tool.settlement.DayNightMapLayer,msp.ui.swing.tool.settlement.DayNightMapLayer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+77,org.mars_sim.msp.ui.swing.tool.DefaultTableHeaderCellRenderer,msp.ui.swing.tool.DefaultTableHeaderCellRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+78,org.mars_sim.msp.core.person.ai.task.LoadVehicleEVA,msp.core.person.ai.task.LoadVehicleEVA,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+79,org.mars_sim.msp.ui.swing.tool.settlement.PersonMapLayer,msp.ui.swing.tool.settlement.PersonMapLayer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+80,org.mars_sim.msp.core.structure.construction.ConstructionStageInfo,msp.core.structure.construction.ConstructionStageInfo,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+81,org.mars_sim.msp.core.person.ai.task.utils.Task,msp.core.person.ai.task.utils.Task,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+82,org.mars_sim.msp.core.person.ai.mission.CollectResourcesMission,msp.core.person.ai.mission.CollectResourcesMission,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+83,org.mars_sim.msp.core.tool.PausableThreadPoolExecutor,msp.core.tool.PausableThreadPoolExecutor,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+84,org.mars_sim.msp.ui.swing.tool.mission.edit.AddMembersDialog,msp.ui.swing.tool.mission.edit.AddMembersDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+85,org.mars_sim.msp.core.memory.MemoryMeter,msp.core.memory.MemoryMeter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+86,org.mars_sim.msp.core.person.ai.mission.Mission,msp.core.person.ai.mission.Mission,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+87,org.mars_sim.msp.ui.steelseries.gauges.AbstractRadial,msp.ui.steelseries.gauges.AbstractRadial,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+88,org.mars_sim.msp.core.person.ai.mission.TravelToSettlement,msp.core.person.ai.mission.TravelToSettlement,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+89,org.mars_sim.msp.core.malfunction.MalfunctionManager,msp.core.malfunction.MalfunctionManager,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+90,org.mars_sim.msp.core.malfunction.Malfunction,msp.core.malfunction.Malfunction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+91,org.mars_sim.msp.ui.swing.tool.mission.create.UnitTableCellRenderer,msp.ui.swing.tool.mission.create.UnitTableCellRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+92,org.mars_sim.msp.core.person.ai.task.NegotiateTrade,msp.core.person.ai.task.NegotiateTrade,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+93,org.mars_sim.msp.core.person.ai.task.Walk,msp.core.person.ai.task.Walk,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+94,org.mars_sim.msp.core.mars.Weather,msp.core.mars.Weather,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+95,org.mars_sim.msp.ui.steelseries.tools.GradientWrapper,msp.ui.steelseries.tools.GradientWrapper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+96,org.mars_sim.msp.core.structure.building.Building,msp.core.structure.building.Building,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+97,org.mars_sim.msp.ui.steelseries.extras.Level,msp.ui.steelseries.extras.Level,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+98,org.mars_sim.msp.ui.steelseries.tools.Section,msp.ui.steelseries.tools.Section,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+99,org.mars_sim.msp.core.structure.building.function.cooking.HotMeal,msp.core.structure.building.function.cooking.HotMeal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+100,org.mars_sim.msp.ui.swing.tool.GraphicsUtilities,msp.ui.swing.tool.GraphicsUtilities,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+101,org.mars_sim.msp.core.structure.building.connection.Hatch,msp.core.structure.building.connection.Hatch,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+102,org.mars_sim.msp.core.person.ai.Mind,msp.core.person.ai.Mind,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+103,org.mars_sim.msp.core.person.ai.task.CollectResources,msp.core.person.ai.task.CollectResources,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+104,org.mars_sim.msp.ui.steelseries.extras.StopWatch,msp.ui.steelseries.extras.StopWatch,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+105,org.mars_sim.msp.core.tool.SFMT19937,msp.core.tool.SFMT19937,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Information Holder
+106,org.mars_sim.msp.core.time.MarsClock,msp.core.time.MarsClock,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+107,org.mars_sim.msp.ui.steelseries.tools.ConicalGradientPaint,msp.ui.steelseries.tools.ConicalGradientPaint,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+108,org.mars_sim.msp.ui.steelseries.extras.DigitalRadial,msp.ui.steelseries.extras.DigitalRadial,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+109,org.mars_sim.msp.ui.swing.tool.monitor.TableTab,msp.ui.swing.tool.monitor.TableTab,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+110,org.mars_sim.msp.core.events.HistoricalEvent,msp.core.events.HistoricalEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+111,org.mars_sim.msp.ui.swing.tool.settlement.LabelMapLayer,msp.ui.swing.tool.settlement.LabelMapLayer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+112,org.mars_sim.msp.core.person.ai.mission.VehicleMission,msp.core.person.ai.mission.VehicleMission,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+113,org.mars_sim.msp.core.mars.Landmark,msp.core.mars.Landmark,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+114,org.mars_sim.msp.ui.steelseries.tools.EllipticGradientPaint,msp.ui.steelseries.tools.EllipticGradientPaint,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+115,org.mars_sim.msp.core.person.health.Treatment,msp.core.person.health.Treatment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+116,org.mars_sim.msp.core.person.ai.mission.MissionHistoricalEvent,msp.core.person.ai.mission.MissionHistoricalEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+117,org.mars_sim.msp.ui.swing.tool.settlement.BackgroundTileMapLayer,msp.ui.swing.tool.settlement.BackgroundTileMapLayer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+118,org.mars_sim.msp.ui.swing.tool.navigator.NavigatorWindow,msp.ui.swing.tool.navigator.NavigatorWindow,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+119,org.mars_sim.msp.ui.steelseries.tools.LinenFilter,msp.ui.steelseries.tools.LinenFilter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+120,org.mars_sim.msp.core.person.health.Complaint,msp.core.person.health.Complaint,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+121,org.mars_sim.msp.core.person.ai.task.DriveGroundVehicle,msp.core.person.ai.task.DriveGroundVehicle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+122,org.mars_sim.msp.core.structure.building.function.farming.Crop,msp.core.structure.building.function.farming.Crop,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+123,org.mars_sim.msp.core.person.ai.task.WalkOutside,msp.core.person.ai.task.WalkOutside,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+124,org.mars_sim.msp.core.person.ai.mission.BuildingSalvageMission,msp.core.person.ai.mission.BuildingSalvageMission,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+125,org.mars_sim.msp.core.structure.Settlement,msp.core.structure.Settlement,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+126,org.mars_sim.msp.core.events.SimpleEvent,msp.core.events.SimpleEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+127,org.mars_sim.msp.core.structure.building.function.cooking.CookedMeal,msp.core.structure.building.function.cooking.CookedMeal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+128,org.mars_sim.msp.core.UnitManager,msp.core.UnitManager,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,Controller
+129,org.mars_sim.msp.core.structure.building.function.Manufacture,msp.core.structure.building.function.Manufacture,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+130,org.mars_sim.msp.core.person.ai.mission.meta.AreologyFieldStudyMeta,msp.core.person.ai.mission.meta.AreologyFieldStudyMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+131,org.mars_sim.msp.core.structure.building.function.cooking.PreparingDessert,msp.core.structure.building.function.cooking.PreparingDessert,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+132,org.mars_sim.msp.ui.steelseries.gauges.DisplayRectangular,msp.ui.steelseries.gauges.DisplayRectangular,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+133,org.mars_sim.msp.core.person.ai.task.meta.WorkoutMeta,msp.core.person.ai.task.meta.WorkoutMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+134,org.mars_sim.msp.ui.swing.tool.time.MarsCalendarDisplay,msp.ui.swing.tool.time.MarsCalendarDisplay,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+135,org.mars_sim.msp.ui.swing.tool.resupply.ArrivingSettlementEditingPanel,msp.ui.swing.tool.resupply.ArrivingSettlementEditingPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+136,org.mars_sim.msp.core.person.ai.task.meta.MaintainGroundVehicleEVAMeta,msp.core.person.ai.task.meta.MaintainGroundVehicleEVAMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+137,org.mars_sim.msp.ui.swing.tool.navigator.PopUpMenu,msp.ui.swing.tool.navigator.PopUpMenu,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+138,org.mars_sim.msp.core.structure.building.function.ResourceProcessing,msp.core.structure.building.function.ResourceProcessing,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+139,org.mars_sim.msp.core.person.ai.task.meta.PerformLaboratoryResearchMeta,msp.core.person.ai.task.meta.PerformLaboratoryResearchMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+140,org.mars_sim.msp.ui.steelseries.gauges.AbstractGauge,msp.ui.steelseries.gauges.AbstractGauge,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+141,org.mars_sim.msp.core.person.ai.task.MineSite,msp.core.person.ai.task.MineSite,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+142,org.mars_sim.msp.core.person.ai.task.meta.ToggleFuelPowerSourceMeta,msp.core.person.ai.task.meta.ToggleFuelPowerSourceMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+143,org.mars_sim.msp.core.Simulation,msp.core.Simulation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+144,org.mars_sim.msp.ui.swing.notification.NotificationWindow,msp.ui.swing.notification.NotificationWindow,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+145,org.mars_sim.msp.core.person.ai.mission.meta.ExplorationMeta,msp.core.person.ai.mission.meta.ExplorationMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+146,org.mars_sim.msp.core.person.ai.task.meta.UnloadVehicleEVAMeta,msp.core.person.ai.task.meta.UnloadVehicleEVAMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+147,org.mars_sim.msp.core.person.ai.task.ExitAirlock,msp.core.person.ai.task.ExitAirlock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+148,org.mars_sim.msp.ui.swing.tool.time.CalendarProgram,msp.ui.swing.tool.time.CalendarProgram,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Interfacer
+149,org.mars_sim.msp.ui.swing.tool.mission.create.MissionDataBean,msp.ui.swing.tool.mission.create.MissionDataBean,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+150,org.mars_sim.msp.core.time.MasterClock,msp.core.time.MasterClock,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+151,org.mars_sim.msp.ui.swing.tool.mission.create.EmergencySupplyPanel,msp.ui.swing.tool.mission.create.EmergencySupplyPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+152,org.mars_sim.msp.ui.swing.tool.mission.create.TradeGoodsPanel,msp.ui.swing.tool.mission.create.TradeGoodsPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+153,org.mars_sim.msp.core.structure.construction.SalvageValues,msp.core.structure.construction.SalvageValues,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Structurer
+154,org.mars_sim.msp.ui.swing.tool.mission.create.ConstructionProjectPanel,msp.ui.swing.tool.mission.create.ConstructionProjectPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+155,org.mars_sim.msp.core.person.ai.task.meta.DigLocalIceMeta,msp.core.person.ai.task.meta.DigLocalIceMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+156,org.mars_sim.msp.core.person.ai.mission.meta.BuildingSalvageMissionMeta,msp.core.person.ai.mission.meta.BuildingSalvageMissionMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+157,org.mars_sim.msp.core.person.CircadianClock,msp.core.person.CircadianClock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+158,org.mars_sim.msp.ui.swing.configeditor.CrewEditor,msp.ui.swing.configeditor.CrewEditor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+159,org.mars_sim.msp.ui.swing.tool.monitor.RobotTableModel,msp.ui.swing.tool.monitor.RobotTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+160,org.mars_sim.msp.core.foodProduction.FoodProductionConfig,msp.core.foodProduction.FoodProductionConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+161,org.mars_sim.msp.core.Inventory,msp.core.Inventory,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+162,org.mars_sim.msp.ui.swing.tool.mission.SalvageMissionCustomInfoPanel,msp.ui.swing.tool.mission.SalvageMissionCustomInfoPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+163,org.mars_sim.msp.core.person.ai.mission.meta.BiologyFieldStudyMeta,msp.core.person.ai.mission.meta.BiologyFieldStudyMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+164,org.mars_sim.msp.core.person.ai.task.meta.SalvageGoodMeta,msp.core.person.ai.task.meta.SalvageGoodMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+165,org.mars_sim.msp.core.person.ai.mission.meta.RescueSalvageVehicleMeta,msp.core.person.ai.mission.meta.RescueSalvageVehicleMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+166,org.mars_sim.msp.core.person.ai.task.DigLocalIce,msp.core.person.ai.task.DigLocalIce,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+167,org.mars_sim.msp.core.person.ai.task.meta.LoadVehicleEVAMeta,msp.core.person.ai.task.meta.LoadVehicleEVAMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+168,org.mars_sim.msp.core.person.ai.task.ManufactureConstructionMaterials,msp.core.person.ai.task.ManufactureConstructionMaterials,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+169,org.mars_sim.msp.core.person.Person,msp.core.person.Person,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+170,org.mars_sim.msp.core.person.ai.task.EnterAirlock,msp.core.person.ai.task.EnterAirlock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+171,org.mars_sim.msp.core.person.ai.task.meta.MaintainGroundVehicleGarageMeta,msp.core.person.ai.task.meta.MaintainGroundVehicleGarageMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+172,org.mars_sim.msp.core.person.ai.task.ManufactureGood,msp.core.person.ai.task.ManufactureGood,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+173,org.mars_sim.msp.core.person.ai.task.Teach,msp.core.person.ai.task.Teach,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+174,org.mars_sim.msp.core.tool.ObjectSizeCalculator,msp.core.tool.ObjectSizeCalculator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+175,org.mars_sim.msp.core.location.LocationTag,msp.core.location.LocationTag,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+176,org.mars_sim.msp.ui.swing.tool.monitor.SettlementTableModel,msp.ui.swing.tool.monitor.SettlementTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+177,org.mars_sim.msp.ui.swing.tool.mission.ConstructionMissionCustomInfoPanel,msp.ui.swing.tool.mission.ConstructionMissionCustomInfoPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+178,org.mars_sim.msp.core.interplanetary.transport.resupply.Resupply,msp.core.interplanetary.transport.resupply.Resupply,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+179,org.mars_sim.msp.ui.swing.tool.resupply.ResupplyMissionEditingPanel,msp.ui.swing.tool.resupply.ResupplyMissionEditingPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+180,org.mars_sim.msp.core.person.ai.task.CollectMinedMinerals,msp.core.person.ai.task.CollectMinedMinerals,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+181,org.mars_sim.msp.core.person.ai.task.meta.RespondToStudyInvitationMeta,msp.core.person.ai.task.meta.RespondToStudyInvitationMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+182,org.mars_sim.msp.core.person.ai.task.RepairMalfunction,msp.core.person.ai.task.RepairMalfunction,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+183,org.mars_sim.msp.core.person.ai.task.PrepareDessert,msp.core.person.ai.task.PrepareDessert,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Structurer
+184,org.mars_sim.msp.core.person.ai.task.meta.PrescribeMedicationMeta,msp.core.person.ai.task.meta.PrescribeMedicationMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+185,org.mars_sim.msp.core.mars.TerrainElevation,msp.core.mars.TerrainElevation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+186,org.mars_sim.msp.core.person.ai.task.EatDrink,msp.core.person.ai.task.EatDrink,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+187,org.mars_sim.msp.core.person.ai.task.meta.HaveConversationMeta,msp.core.person.ai.task.meta.HaveConversationMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+188,org.mars_sim.msp.core.person.ai.task.RestingMedicalRecovery,msp.core.person.ai.task.RestingMedicalRecovery,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+189,org.mars_sim.msp.core.resource.AmountResourceStorage,msp.core.resource.AmountResourceStorage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+190,org.mars_sim.msp.core.person.ai.mission.meta.TradeMeta,msp.core.person.ai.mission.meta.TradeMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+191,org.mars_sim.msp.ui.swing.tool.BarDrawer,msp.ui.swing.tool.BarDrawer,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+192,org.mars_sim.msp.ui.steelseries.extras.Battery,msp.ui.steelseries.extras.Battery,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+193,org.mars_sim.msp.core.structure.construction.ConstructionConfig,msp.core.structure.construction.ConstructionConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+194,org.mars_sim.msp.core.person.ai.task.meta.InviteStudyCollaboratorMeta,msp.core.person.ai.task.meta.InviteStudyCollaboratorMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+195,org.mars_sim.msp.core.person.ai.task.EVAOperation,msp.core.person.ai.task.EVAOperation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+196,org.mars_sim.msp.core.person.ai.task.meta.RepairEVAMalfunctionMeta,msp.core.person.ai.task.meta.RepairEVAMalfunctionMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+197,org.mars_sim.msp.core.person.ai.task.meta.ManufactureGoodMeta,msp.core.person.ai.task.meta.ManufactureGoodMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+198,org.mars_sim.msp.core.person.ai.task.meta.ReadMeta,msp.core.person.ai.task.meta.ReadMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+199,org.mars_sim.msp.core.person.ai.task.meta.AssistScientificStudyResearcherMeta,msp.core.person.ai.task.meta.AssistScientificStudyResearcherMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+200,org.mars_sim.msp.ui.swing.tool.settlement.SettlementTransparentPanel,msp.ui.swing.tool.settlement.SettlementTransparentPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+201,org.mars_sim.msp.core.person.ai.task.meta.ReviewMissionPlanMeta,msp.core.person.ai.task.meta.ReviewMissionPlanMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+202,org.mars_sim.msp.core.structure.PowerGrid,msp.core.structure.PowerGrid,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+203,org.mars_sim.msp.ui.swing.tool.guide.GuideWindow,msp.ui.swing.tool.guide.GuideWindow,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+204,org.mars_sim.msp.ui.steelseries.extras.TrafficLight,msp.ui.steelseries.extras.TrafficLight,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+205,org.mars_sim.msp.core.memory.MemoryLayoutSpecification,msp.core.memory.MemoryLayoutSpecification,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+206,org.mars_sim.msp.core.person.ai.mission.meta.TravelToSettlementMeta,msp.core.person.ai.mission.meta.TravelToSettlementMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+207,org.mars_sim.msp.ui.swing.tool.navigator.NavButtonDisplay,msp.ui.swing.tool.navigator.NavButtonDisplay,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+208,org.mars_sim.msp.core.person.ai.task.MeetTogether,msp.core.person.ai.task.MeetTogether,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+209,org.mars_sim.msp.core.person.ai.task.MaintainGroundVehicleGarage,msp.core.person.ai.task.MaintainGroundVehicleGarage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+210,org.mars_sim.msp.core.structure.goods.Good,msp.core.structure.goods.Good,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+211,org.mars_sim.msp.ui.swing.tool.mission.edit.InfoPanel,msp.ui.swing.tool.mission.edit.InfoPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+212,org.mars_sim.msp.ui.steelseries.extras.Indicator,msp.ui.steelseries.extras.Indicator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+213,org.mars_sim.msp.ui.swing.tool.commander.CommanderWindow,msp.ui.swing.tool.commander.CommanderWindow,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+214,org.mars_sim.msp.core.person.ai.task.ProduceFood,msp.core.person.ai.task.ProduceFood,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+215,org.mars_sim.msp.core.person.ai.task.AssistScientificStudyResearcher,msp.core.person.ai.task.AssistScientificStudyResearcher,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+216,org.mars_sim.msp.core.person.ai.task.utils.TaskManager,msp.core.person.ai.task.utils.TaskManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+217,org.mars_sim.msp.core.person.ai.task.meta.CompileScientificStudyResultsMeta,msp.core.person.ai.task.meta.CompileScientificStudyResultsMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+218,org.mars_sim.msp.core.person.ai.task.meta.ConnectWithEarthMeta,msp.core.person.ai.task.meta.ConnectWithEarthMeta,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+219,org.mars_sim.msp.core.vehicle.GroundVehicle,msp.core.vehicle.GroundVehicle,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+220,org.mars_sim.msp.ui.swing.tool.settlement.UnitInfoPanel,msp.ui.swing.tool.settlement.UnitInfoPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+221,org.mars_sim.msp.ui.steelseries.extras.Clock,msp.ui.steelseries.extras.Clock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+222,org.mars_sim.msp.ui.steelseries.extras.TrafficLight2,msp.ui.steelseries.extras.TrafficLight2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+223,org.mars_sim.msp.core.person.ai.task.utils.MetaTaskUtil,msp.core.person.ai.task.utils.MetaTaskUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+224,org.mars_sim.msp.ui.swing.ToolToolBar,msp.ui.swing.ToolToolBar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+225,org.mars_sim.msp.core.structure.building.function.cooking.Cooking,msp.core.structure.building.function.cooking.Cooking,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+226,org.mars_sim.msp.ui.steelseries.gauges.DigitalRadial,msp.ui.steelseries.gauges.DigitalRadial,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+227,org.mars_sim.msp.core.person.ai.task.meta.ProduceFoodMeta,msp.core.person.ai.task.meta.ProduceFoodMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+228,org.mars_sim.msp.core.interplanetary.transport.settlement.ArrivingSettlementUtil,msp.core.interplanetary.transport.settlement.ArrivingSettlementUtil,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+229,org.mars_sim.msp.core.science.ScientificStudyManager,msp.core.science.ScientificStudyManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+230,org.mars_sim.msp.core.person.health.MedicalConfig,msp.core.person.health.MedicalConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+231,org.mars_sim.msp.core.person.ai.task.DigLocalRegolith,msp.core.person.ai.task.DigLocalRegolith,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+232,org.mars_sim.msp.core.tool.TestSIMDFMT,msp.core.tool.TestSIMDFMT,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+233,org.mars_sim.msp.ui.swing.tool.DesktopScrollPane,msp.ui.swing.tool.DesktopScrollPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+234,org.mars_sim.msp.ui.swing.MainDesktopPane,msp.ui.swing.MainDesktopPane,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+235,org.mars_sim.msp.core.interplanetary.transport.resupply.ResupplyConfig,msp.core.interplanetary.transport.resupply.ResupplyConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+236,org.mars_sim.msp.core.structure.building.function.ThermalGeneration,msp.core.structure.building.function.ThermalGeneration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+237,org.mars_sim.msp.ui.swing.tool.monitor.MissionTableModel,msp.ui.swing.tool.monitor.MissionTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+238,org.mars_sim.msp.ui.swing.tool.TestGauge,msp.ui.swing.tool.TestGauge,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+239,org.mars_sim.msp.ui.swing.tool.map.MineralMapLayer,msp.ui.swing.tool.map.MineralMapLayer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+240,org.mars_sim.msp.core.person.ai.mission.meta.MeteorologyFieldStudyMeta,msp.core.person.ai.mission.meta.MeteorologyFieldStudyMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+241,org.mars_sim.msp.core.person.ai.social.RelationshipManager,msp.core.person.ai.social.RelationshipManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+242,org.mars_sim.msp.core.person.ai.task.meta.StudyFieldSamplesMeta,msp.core.person.ai.task.meta.StudyFieldSamplesMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+243,org.mars_sim.msp.core.mars.RandomMineralMap,msp.core.mars.RandomMineralMap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Structurer
+244,org.mars_sim.msp.ui.helpGenerator.HelpGenerator,msp.ui.helpGenerator.HelpGenerator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+245,org.mars_sim.msp.core.person.ai.mission.meta.EmergencySupplyMissionMeta,msp.core.person.ai.mission.meta.EmergencySupplyMissionMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+246,org.mars_sim.msp.core.person.ai.mission.MissionPlanning,msp.core.person.ai.mission.MissionPlanning,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+247,org.mars_sim.msp.ui.swing.tool.monitor.MonitorWindow,msp.ui.swing.tool.monitor.MonitorWindow,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+248,org.mars_sim.msp.core.person.ai.task.RepairEVAMalfunction,msp.core.person.ai.task.RepairEVAMalfunction,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+249,org.mars_sim.msp.core.person.ai.task.WalkRoverInterior,msp.core.person.ai.task.WalkRoverInterior,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+250,org.mars_sim.msp.core.person.ai.NaturalAttributeManager,msp.core.person.ai.NaturalAttributeManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+251,org.mars_sim.msp.core.person.ai.task.meta.DigLocalRegolithMeta,msp.core.person.ai.task.meta.DigLocalRegolithMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+252,org.mars_sim.msp.core.person.ai.task.meta.MaintenanceMeta,msp.core.person.ai.task.meta.MaintenanceMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+253,org.mars_sim.msp.ui.steelseries.extras.Horizon,msp.ui.steelseries.extras.Horizon,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+254,org.mars_sim.msp.core.person.ai.task.HaveConversation,msp.core.person.ai.task.HaveConversation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Structurer
+255,org.mars_sim.msp.core.structure.ChainOfCommand,msp.core.structure.ChainOfCommand,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+256,org.mars_sim.msp.core.person.ai.mission.meta.MiningMeta,msp.core.person.ai.mission.meta.MiningMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+257,org.mars_sim.msp.ui.swing.tool.settlement.SettlementMapPanel,msp.ui.swing.tool.settlement.SettlementMapPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+258,org.mars_sim.msp.ui.swing.tool.monitor.CropTableModel,msp.ui.swing.tool.monitor.CropTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+259,org.mars_sim.msp.core.structure.Airlock,msp.core.structure.Airlock,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+260,org.mars_sim.msp.core.person.ai.task.meta.ObserveAstronomicalObjectsMeta,msp.core.person.ai.task.meta.ObserveAstronomicalObjectsMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+261,org.mars_sim.msp.ui.steelseries.gauges.DisplayMulti,msp.ui.steelseries.gauges.DisplayMulti,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+262,org.mars_sim.msp.core.person.health.RadiationExposure,msp.core.person.health.RadiationExposure,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+263,org.mars_sim.msp.core.SimulationConfig,msp.core.SimulationConfig,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+264,org.mars_sim.msp.core.person.ai.task.meta.PerformLaboratoryExperimentMeta,msp.core.person.ai.task.meta.PerformLaboratoryExperimentMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+265,org.mars_sim.msp.core.person.ai.task.MaintenanceEVA,msp.core.person.ai.task.MaintenanceEVA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+266,org.mars_sim.msp.core.events.HistoricalEventManager,msp.core.events.HistoricalEventManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+267,org.mars_sim.msp.core.astroarts.PlanetExp,msp.core.astroarts.PlanetExp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+268,org.mars_sim.msp.core.person.ai.task.meta.PerformMathematicalModelingMeta,msp.core.person.ai.task.meta.PerformMathematicalModelingMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+269,org.mars_sim.msp.core.person.ai.mission.meta.BuildingConstructionMissionMeta,msp.core.person.ai.mission.meta.BuildingConstructionMissionMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+270,org.mars_sim.msp.core.person.ai.task.meta.SleepMeta,msp.core.person.ai.task.meta.SleepMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+271,org.mars_sim.msp.core.structure.building.function.farming.Farming,msp.core.structure.building.function.farming.Farming,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+272,org.mars_sim.msp.ui.swing.tool.mission.create.CreateMissionWizard,msp.ui.swing.tool.mission.create.CreateMissionWizard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+273,org.mars_sim.msp.core.person.ai.task.meta.ManufactureConstructionMaterialsMeta,msp.core.person.ai.task.meta.ManufactureConstructionMaterialsMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+274,org.mars_sim.msp.core.manufacture.ManufactureConfig,msp.core.manufacture.ManufactureConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+275,org.mars_sim.msp.ui.steelseries.gauges.DisplayCircular,msp.ui.steelseries.gauges.DisplayCircular,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+276,org.mars_sim.msp.core.person.ai.task.meta.CookMealMeta,msp.core.person.ai.task.meta.CookMealMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+277,org.mars_sim.msp.core.person.ai.task.meta.ReviewJobReassignmentMeta,msp.core.person.ai.task.meta.ReviewJobReassignmentMeta,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+278,org.mars_sim.msp.core.structure.construction.ConstructionManager,msp.core.structure.construction.ConstructionManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+279,org.mars_sim.msp.core.person.ai.task.meta.RepairMalfunctionMeta,msp.core.person.ai.task.meta.RepairMalfunctionMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+280,org.mars_sim.msp.core.person.ai.task.meta.MaintenanceEVAMeta,msp.core.person.ai.task.meta.MaintenanceEVAMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+281,org.mars_sim.msp.core.person.ai.task.Sleep,msp.core.person.ai.task.Sleep,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+282,org.mars_sim.msp.core.person.ai.task.meta.ProposeScientificStudyMeta,msp.core.person.ai.task.meta.ProposeScientificStudyMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+283,org.mars_sim.msp.core.person.ai.task.meta.ListenToMusicMeta,msp.core.person.ai.task.meta.ListenToMusicMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+284,org.mars_sim.msp.ui.steelseries.gauges.RadialCounter,msp.ui.steelseries.gauges.RadialCounter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+285,org.mars_sim.msp.ui.swing.tool.TestLCD,msp.ui.swing.tool.TestLCD,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+286,org.mars_sim.msp.core.person.ai.task.meta.ToggleResourceProcessMeta,msp.core.person.ai.task.meta.ToggleResourceProcessMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+287,org.mars_sim.msp.ui.swing.tool.TestLinear,msp.ui.swing.tool.TestLinear,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+288,org.mars_sim.msp.core.structure.building.function.ResourceProcess,msp.core.structure.building.function.ResourceProcess,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+289,org.mars_sim.msp.ui.swing.tool.monitor.PersonTableModel,msp.ui.swing.tool.monitor.PersonTableModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+290,org.mars_sim.msp.core.person.ai.task.RespondToStudyInvitation,msp.core.person.ai.task.RespondToStudyInvitation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Structurer
+291,org.mars_sim.msp.core.structure.construction.ConstructionValues,msp.core.structure.construction.ConstructionValues,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+292,org.mars_sim.msp.core.person.ai.task.meta.PlayHoloGameMeta,msp.core.person.ai.task.meta.PlayHoloGameMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+293,org.mars_sim.msp.core.structure.building.function.FoodProduction,msp.core.structure.building.function.FoodProduction,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Structurer
+294,org.mars_sim.msp.ui.swing.NumberCellRenderer,msp.ui.swing.NumberCellRenderer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+295,org.mars_sim.msp.core.person.ai.task.meta.EatDrinkMeta,msp.core.person.ai.task.meta.EatDrinkMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+296,org.mars_sim.msp.core.structure.building.BuildingConfig,msp.core.structure.building.BuildingConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+297,org.mars_sim.msp.core.person.ai.task.meta.RecordActivityMeta,msp.core.person.ai.task.meta.RecordActivityMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+298,org.mars_sim.msp.core.person.ai.task.CookMeal,msp.core.person.ai.task.CookMeal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+299,org.mars_sim.msp.core.vehicle.VehicleConfig,msp.core.vehicle.VehicleConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+300,org.mars_sim.msp.core.person.ai.task.ConsolidateContainers,msp.core.person.ai.task.ConsolidateContainers,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+301,org.mars_sim.msp.ui.swing.tool.navigator.MarsMap,msp.ui.swing.tool.navigator.MarsMap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+302,org.mars_sim.msp.core.person.PhysicalCondition,msp.core.person.PhysicalCondition,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+303,org.mars_sim.msp.core.person.ai.task.meta.PeerReviewStudyPaperMeta,msp.core.person.ai.task.meta.PeerReviewStudyPaperMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+304,org.mars_sim.msp.ui.swing.tool.science.ResearcherPanel,msp.ui.swing.tool.science.ResearcherPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+305,org.mars_sim.msp.core.person.ai.task.Maintenance,msp.core.person.ai.task.Maintenance,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+306,org.mars_sim.msp.ui.swing.tool.settlement.PopUpUnitMenu,msp.ui.swing.tool.settlement.PopUpUnitMenu,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+307,org.mars_sim.msp.ui.swing.MainWindow,msp.ui.swing.MainWindow,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+308,org.mars_sim.msp.core.person.ai.task.meta.RequestMedicalTreatmentMeta,msp.core.person.ai.task.meta.RequestMedicalTreatmentMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+309,org.mars_sim.msp.core.manufacture.ManufactureUtil,msp.core.manufacture.ManufactureUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+310,org.mars_sim.msp.ui.swing.tool.resupply.ResupplyDetailPanel,msp.ui.swing.tool.resupply.ResupplyDetailPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+311,org.mars_sim.msp.core.person.ai.task.PrescribeMedication,msp.core.person.ai.task.PrescribeMedication,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+312,org.mars_sim.msp.ui.swing.UIConfig,msp.ui.swing.UIConfig,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+313,org.mars_sim.msp.core.robot.Robot,msp.core.robot.Robot,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+314,org.mars_sim.msp.core.person.ai.task.meta.WriteReportMeta,msp.core.person.ai.task.meta.WriteReportMeta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+315,org.mars_sim.msp.ui.swing.tool.JStatusBar,msp.ui.swing.tool.JStatusBar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+316,org.mars_sim.msp.core.robot.SystemCondition,msp.core.robot.SystemCondition,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+317,org.mars_sim.msp.core.equipment.EVASuit,msp.core.equipment.EVASuit,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+318,org.mars_sim.msp.core.person.ai.task.ReviewJobReassignment,msp.core.person.ai.task.ReviewJobReassignment,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+319,org.mars_sim.msp.core.structure.building.function.PowerStorage,msp.core.structure.building.function.PowerStorage,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+320,org.mars_sim.msp.core.person.ai.MBTIPersonality,msp.core.person.ai.MBTIPersonality,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+321,org.mars_sim.msp.core.person.ai.task.ConnectWithEarth,msp.core.person.ai.task.ConnectWithEarth,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+322,org.mars_sim.msp.core.person.ai.task.ReviewMissionPlan,msp.core.person.ai.task.ReviewMissionPlan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+323,org.mars_sim.msp.core.robot.ai.job.RobotJob,msp.core.robot.ai.job.RobotJob,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+324,org.mars_sim.msp.core.structure.building.function.SolarPowerSource,msp.core.structure.building.function.SolarPowerSource,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+325,org.mars_sim.msp.core.GameManager,msp.core.GameManager,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+326,org.mars_sim.msp.core.astroarts.Xyz,msp.core.astroarts.Xyz,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+327,org.mars_sim.msp.core.person.ai.task.WriteReport,msp.core.person.ai.task.WriteReport,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+328,org.mars_sim.msp.core.structure.building.function.SolarThermalPowerSource,msp.core.structure.building.function.SolarThermalPowerSource,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+329,org.mars_sim.msp.ui.swing.tool.settlement.SettlementWindow,msp.ui.swing.tool.settlement.SettlementWindow,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+330,org.mars_sim.msp.ui.astroarts.OrbitViewer,msp.ui.astroarts.OrbitViewer,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+331,org.mars_sim.msp.ui.swing.sound.AudioPlayer,msp.ui.swing.sound.AudioPlayer,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+332,org.mars_sim.msp.core.person.ai.role.RoleUtil,msp.core.person.ai.role.RoleUtil,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+333,org.mars_sim.msp.core.person.ai.task.MedicalAssistance,msp.core.person.ai.task.MedicalAssistance,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+334,org.mars_sim.msp.ui.swing.tool.MoveRedDot,msp.ui.swing.tool.MoveRedDot,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+335,org.mars_sim.msp.core.structure.building.function.SolarHeatSource,msp.core.structure.building.function.SolarHeatSource,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+336,org.mars_sim.msp.core.interplanetary.transport.resupply.ResupplyUtil,msp.core.interplanetary.transport.resupply.ResupplyUtil,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+337,org.mars_sim.msp.core.foodProduction.FoodProductionProcessInfo,msp.core.foodProduction.FoodProductionProcessInfo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+338,org.mars_sim.msp.core.foodProduction.FoodProductionProcess,msp.core.foodProduction.FoodProductionProcess,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+339,org.mars_sim.msp.core.structure.building.function.farming.BeeHive,msp.core.structure.building.function.farming.BeeHive,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+340,org.mars_sim.msp.core.structure.building.function.farming.Bee,msp.core.structure.building.function.farming.Bee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+341,org.mars_sim.msp.core.structure.construction.ConstructionSite,msp.core.structure.construction.ConstructionSite,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+342,org.mars_sim.msp.core.manufacture.ManufactureProcess,msp.core.manufacture.ManufactureProcess,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+343,org.mars_sim.msp.core.manufacture.ManufactureProcessInfo,msp.core.manufacture.ManufactureProcessInfo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+344,org.mars_sim.msp.core.structure.building.function.PowerSource,msp.core.structure.building.function.PowerSource,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+345,org.mars_sim.msp.core.structure.building.function.HeatSource,msp.core.structure.building.function.HeatSource,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+346,org.mars_sim.msp.ui.swing.tool.monitor.UnitTableModel,msp.ui.swing.tool.monitor.UnitTableModel,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Information Holder
+347,org.mars_sim.msp.core.time.AutosaveScheduler,msp.core.time.AutosaveScheduler,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+348,org.mars_sim.msp.ui.swing.tool.monitor.TradeTableModel,msp.ui.swing.tool.monitor.TradeTableModel,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Structurer
+349,org.mars_sim.msp.ui.swing.tool.resupply.TransportItemEditingPanel,msp.ui.swing.tool.resupply.TransportItemEditingPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Information Holder
+350,org.mars_sim.msp.ui.swing.tool.mission.create.WizardPanel,msp.ui.swing.tool.mission.create.WizardPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Information Holder
+351,org.mars_sim.msp.ui.swing.toolWindow.ToolWindow,msp.ui.swing.toolWindow.ToolWindow,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Interfacer
+352,org.mars_sim.msp.ui.swing.tool.mission.create.UnitTableModel,msp.ui.swing.tool.mission.create.UnitTableModel,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+353,org.mars_sim.msp.core.person.ai.job.Job,msp.core.person.ai.job.Job,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+354,org.mars_sim.msp.ui.swing.tool.monitor.EventTableModel,msp.ui.swing.tool.monitor.EventTableModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+355,org.mars_sim.msp.ui.steelseries.gauges.Radial1Vertical,msp.ui.steelseries.gauges.Radial1Vertical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+356,org.mars_sim.msp.ui.steelseries.gauges.RadialBargraphBeanInfo,msp.ui.steelseries.gauges.RadialBargraphBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+357,org.mars_sim.msp.ui.steelseries.gauges.RadialBeanInfo,msp.ui.steelseries.gauges.RadialBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+358,org.mars_sim.msp.ui.steelseries.gauges.DisplaySingle,msp.ui.steelseries.gauges.DisplaySingle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+359,org.mars_sim.msp.ui.swing.sound.OGGSoundClip,msp.ui.swing.sound.OGGSoundClip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+360,org.mars_sim.msp.ui.steelseries.gauges.DisplaySingleBeanInfo,msp.ui.steelseries.gauges.DisplaySingleBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+361,org.mars_sim.msp.ui.steelseries.extras.AirCompassBeanInfo,msp.ui.steelseries.extras.AirCompassBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+362,org.mars_sim.msp.ui.swing.tool.mission.MainDetailPanel,msp.ui.swing.tool.mission.MainDetailPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+363,org.mars_sim.msp.ui.swing.tool.navigator.GlobeDisplay,msp.ui.swing.tool.navigator.GlobeDisplay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+364,org.mars_sim.msp.ui.steelseries.extras.LedBeanInfo,msp.ui.steelseries.extras.LedBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+365,org.mars_sim.msp.ui.steelseries.extras.ClockBeanInfo,msp.ui.steelseries.extras.ClockBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+366,org.mars_sim.msp.ui.steelseries.extras.AltimeterBeanInfo,msp.ui.steelseries.extras.AltimeterBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+367,org.mars_sim.msp.core.person.ai.mission.MissionManager,msp.core.person.ai.mission.MissionManager,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+368,org.mars_sim.msp.ui.steelseries.gauges.Radial1SquareBeanInfo,msp.ui.steelseries.gauges.Radial1SquareBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+369,org.mars_sim.msp.ui.steelseries.tools.Model,msp.ui.steelseries.tools.Model,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+370,org.mars_sim.msp.ui.steelseries.extras.AirCompass,msp.ui.steelseries.extras.AirCompass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+371,org.mars_sim.msp.core.person.PersonConfig,msp.core.person.PersonConfig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+372,org.mars_sim.msp.ui.steelseries.gauges.Radial2Top,msp.ui.steelseries.gauges.Radial2Top,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+373,org.mars_sim.msp.ui.steelseries.extras.IndicatorBeanInfo,msp.ui.steelseries.extras.IndicatorBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+374,org.mars_sim.msp.core.person.ai.task.StudyFieldSamples,msp.core.person.ai.task.StudyFieldSamples,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+375,org.mars_sim.msp.core.person.health.HealthProblem,msp.core.person.health.HealthProblem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+376,org.mars_sim.msp.core.structure.building.function.Heating,msp.core.structure.building.function.Heating,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+377,org.mars_sim.msp.ui.swing.tool.time.TimeWindow,msp.ui.swing.tool.time.TimeWindow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+378,org.mars_sim.msp.ui.steelseries.extras.LightBulbBeanInfo,msp.ui.steelseries.extras.LightBulbBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+379,org.mars_sim.msp.ui.steelseries.extras.BatteryBeanInfo,msp.ui.steelseries.extras.BatteryBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+380,org.mars_sim.msp.ui.steelseries.extras.RadarBeanInfo,msp.ui.steelseries.extras.RadarBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+381,org.mars_sim.msp.ui.steelseries.extras.Led,msp.ui.steelseries.extras.Led,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+382,org.mars_sim.msp.ui.steelseries.extras.Compass,msp.ui.steelseries.extras.Compass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+383,org.mars_sim.msp.ui.steelseries.gauges.DisplayCircularBeanInfo,msp.ui.steelseries.gauges.DisplayCircularBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+384,org.mars_sim.msp.ui.steelseries.gauges.LinearBargraph,msp.ui.steelseries.gauges.LinearBargraph,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+385,org.mars_sim.msp.ui.swing.tool.monitor.VehicleTableModel,msp.ui.swing.tool.monitor.VehicleTableModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+386,org.mars_sim.msp.core.equipment.ContainerUtil,msp.core.equipment.ContainerUtil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+387,org.mars_sim.msp.ui.steelseries.gauges.SparkLineBeanInfo,msp.ui.steelseries.gauges.SparkLineBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+388,org.mars_sim.msp.core.person.ai.task.UnloadVehicleGarage,msp.core.person.ai.task.UnloadVehicleGarage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+389,org.mars_sim.msp.ui.steelseries.gauges.DisplayRectangularBeanInfo,msp.ui.steelseries.gauges.DisplayRectangularBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+390,org.mars_sim.msp.core.tool.MersenneTwisterFast,msp.core.tool.MersenneTwisterFast,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+391,org.mars_sim.msp.ui.steelseries.gauges.RadialCounterBeanInfo,msp.ui.steelseries.gauges.RadialCounterBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+392,org.mars_sim.msp.ui.steelseries.gauges.Radial,msp.ui.steelseries.gauges.Radial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+393,org.mars_sim.msp.ui.swing.tool.MultisortTableHeaderCellRenderer,msp.ui.swing.tool.MultisortTableHeaderCellRenderer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+394,org.mars_sim.msp.ui.steelseries.extras.CompassBeanInfo,msp.ui.steelseries.extras.CompassBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+395,org.mars_sim.msp.ui.steelseries.gauges.LinearBargraphBeanInfo,msp.ui.steelseries.gauges.LinearBargraphBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+396,org.mars_sim.msp.ui.steelseries.extras.LightBulb,msp.ui.steelseries.extras.LightBulb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+397,org.mars_sim.msp.ui.steelseries.gauges.Radial1VerticalBeanInfo,msp.ui.steelseries.gauges.Radial1VerticalBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+398,org.mars_sim.msp.ui.steelseries.gauges.RadialBargraph,msp.ui.steelseries.gauges.RadialBargraph,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+399,org.mars_sim.msp.core.person.ai.task.utils.TaskSchedule,msp.core.person.ai.task.utils.TaskSchedule,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+400,org.mars_sim.msp.core.science.ScientificStudy,msp.core.science.ScientificStudy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+401,org.mars_sim.msp.ui.steelseries.gauges.RadialQuarterN,msp.ui.steelseries.gauges.RadialQuarterN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+402,org.mars_sim.msp.ui.swing.configeditor.SimulationConfigEditor,msp.ui.swing.configeditor.SimulationConfigEditor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+403,org.mars_sim.msp.ui.steelseries.gauges.LinearBeanInfo,msp.ui.steelseries.gauges.LinearBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+404,org.mars_sim.msp.ui.steelseries.gauges.DisplayMultiBeanInfo,msp.ui.steelseries.gauges.DisplayMultiBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+405,org.mars_sim.msp.ui.steelseries.gauges.DigitialRadial,msp.ui.steelseries.gauges.DigitialRadial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+406,org.mars_sim.msp.ui.swing.tool.mission.create.StartingSettlementPanel,msp.ui.swing.tool.mission.create.StartingSettlementPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+407,org.mars_sim.msp.ui.swing.tool.mission.SettlementListModel,msp.ui.swing.tool.mission.SettlementListModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+408,org.mars_sim.msp.ui.steelseries.extras.HorizonBeanInfo,msp.ui.steelseries.extras.HorizonBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+409,org.mars_sim.msp.ui.swing.tool.mission.MissionListModel,msp.ui.swing.tool.mission.MissionListModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+410,org.mars_sim.msp.ui.steelseries.extras.LevelBeanInfo,msp.ui.steelseries.extras.LevelBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+411,org.mars_sim.msp.ui.steelseries.extras.StopWatchBeanInfo,msp.ui.steelseries.extras.StopWatchBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+412,org.mars_sim.msp.core.tool.MersenneTwister,msp.core.tool.MersenneTwister,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+413,org.mars_sim.msp.core.vehicle.Rover,msp.core.vehicle.Rover,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+414,org.mars_sim.msp.core.person.ai.task.TendGreenhouse,msp.core.person.ai.task.TendGreenhouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+415,org.mars_sim.msp.ui.steelseries.extras.TrafficLight2BeanInfo,msp.ui.steelseries.extras.TrafficLight2BeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+416,org.mars_sim.msp.core.person.health.DeathInfo,msp.core.person.health.DeathInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+417,org.mars_sim.msp.core.person.ai.task.UnloadVehicleEVA,msp.core.person.ai.task.UnloadVehicleEVA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+418,org.mars_sim.msp.core.astroarts.PlanetElm,msp.core.astroarts.PlanetElm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+419,org.mars_sim.msp.ui.steelseries.extras.Radar,msp.ui.steelseries.extras.Radar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+420,org.mars_sim.msp.ui.swing.notification.TelegraphConfig,msp.ui.swing.notification.TelegraphConfig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+421,org.mars_sim.msp.ui.steelseries.gauges.AbstractLinearBargraph,msp.ui.steelseries.gauges.AbstractLinearBargraph,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+422,org.mars_sim.msp.ui.astroarts.OrbitCanvas,msp.ui.astroarts.OrbitCanvas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+423,org.mars_sim.msp.ui.steelseries.gauges.DigitalRadialBeanInfo,msp.ui.steelseries.gauges.DigitalRadialBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+424,org.mars_sim.msp.core.person.CrewConfig,msp.core.person.CrewConfig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+425,org.mars_sim.msp.ui.steelseries.gauges.Radial2TopBeanInfo,msp.ui.steelseries.gauges.Radial2TopBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+426,org.mars_sim.msp.ui.steelseries.extras.WindDirectionBeanInfo,msp.ui.steelseries.extras.WindDirectionBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+427,org.mars_sim.msp.ui.steelseries.extras.TrafficLightBeanInfo,msp.ui.steelseries.extras.TrafficLightBeanInfo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+428,org.mars_sim.msp.core.structure.building.BuildingException,msp.core.structure.building.BuildingException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+429,org.mars_sim.msp.core.interplanetary.transport.TransportEvent,msp.core.interplanetary.transport.TransportEvent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+430,org.mars_sim.msp.core.structure.building.function.farming.Plant,msp.core.structure.building.function.farming.Plant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+431,org.mars_sim.msp.core.fxgl.SimWorld,msp.core.fxgl.SimWorld,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+432,org.mars_sim.msp.ui.helpGenerator.XML2HtmlConversion,msp.ui.helpGenerator.XML2HtmlConversion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+433,org.mars_sim.msp.core.person.health.RadiationModel,msp.core.person.health.RadiationModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+434,org.mars_sim.msp.ui.swing.tool.ColumnResizer,msp.ui.swing.tool.ColumnResizer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+435,org.mars_sim.msp.core.tool.StandardCompressXz,msp.core.tool.StandardCompressXz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+436,org.mars_sim.msp.ui.swing.tool.MagnifierToggleTool,msp.ui.swing.tool.MagnifierToggleTool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+437,org.mars_sim.msp.core.mars.MeteoriteModule,msp.core.mars.MeteoriteModule,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+438,org.mars_sim.msp.core.person.ai.XORNeuronApp,msp.core.person.ai.XORNeuronApp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+439,org.mars_sim.msp.ui.swing.tool.Conversion,msp.ui.swing.tool.Conversion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+440,org.mars_sim.msp.core.tool.XZSeekDecDemo,msp.core.tool.XZSeekDecDemo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+441,org.mars_sim.msp.core.science.ScienceUtil,msp.core.science.ScienceUtil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+442,org.mars_sim.msp.ui.swing.tool.monitor.FoodInventoryTab,msp.ui.swing.tool.monitor.FoodInventoryTab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+443,org.mars_sim.msp.ui.swing.tool.monitor.UnitTab,msp.ui.swing.tool.monitor.UnitTab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+444,org.mars_sim.msp.core.structure.building.function.farming.Transplanting,msp.core.structure.building.function.farming.Transplanting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+445,org.mars_sim.msp.ui.swing.tool.RacingCar,msp.ui.swing.tool.RacingCar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+446,org.mars_sim.msp.ui.swing.tool.BasicStrokeExample,msp.ui.swing.tool.BasicStrokeExample,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+447,org.mars_sim.msp.ui.swing.tool.monitor.EventTab,msp.ui.swing.tool.monitor.EventTab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+448,org.mars_sim.msp.core.person.PhysicalModel,msp.core.person.PhysicalModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+449,org.mars_sim.msp.core.tool.XZDecDemo,msp.core.tool.XZDecDemo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+450,org.mars_sim.msp.ui.swing.tool.Test,msp.ui.swing.tool.Test,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+451,org.mars_sim.msp.core.structure.Structure,msp.core.structure.Structure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+452,org.mars_sim.msp.core.ClasspathEntityResolver,msp.core.ClasspathEntityResolver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+453,org.mars_sim.msp.core.tool.DecompressXzSeekable,msp.core.tool.DecompressXzSeekable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+454,org.mars_sim.msp.ui.swing.tool.WeblafFrame,msp.ui.swing.tool.WeblafFrame,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+455,org.mars_sim.msp.ui.swing.tool.commander.CheckBoxListTest,msp.ui.swing.tool.commander.CheckBoxListTest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+456,org.mars_sim.msp.core.tool.DecompressXz,msp.core.tool.DecompressXz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+457,org.mars_sim.msp.ui.swing.MarsPanelBorder,msp.ui.swing.MarsPanelBorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+458,org.mars_sim.msp.core.tool.CompressXz,msp.core.tool.CompressXz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

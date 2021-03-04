@@ -1,0 +1,7 @@
+,Role Stereotypes,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass
+0,Service Provider,0,0,0,17,0,0,35,24,0,0,0,0,0,9,37,0,0,53
+0,Controller,0,0,0,9,0,0,7,8,0,0,0,0,0,4,12,0,0,0
+0,Information Holder,0,0,0,1,0,0,7,25,0,0,0,0,0,4,8,0,0,13
+0,Interfacer,0,0,0,14,0,0,92,27,0,0,0,0,0,10,111,0,0,2
+0,Coordinator,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0,Structurer,0,0,0,1,0,0,1,1,0,0,0,0,0,1,2,0,0,0

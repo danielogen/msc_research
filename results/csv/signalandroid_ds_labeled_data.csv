@@ -1,0 +1,540 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,org.thoughtcrime.securesms.blurhash.BlurHashDecoder,blurhash.BlurHashDecoder,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+1,org.thoughtcrime.securesms.registration.service.RegistrationService,registration.service.RegistrationService,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+2,org.thoughtcrime.securesms.database.loaders.PagingMediaLoader,database.loaders.PagingMediaLoader,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+3,org.thoughtcrime.securesms.lock.SignalPinReminderDialog,lock.SignalPinReminderDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+4,org.thoughtcrime.securesms.jobs.MultiDeviceVerifiedUpdateJob,jobs.MultiDeviceVerifiedUpdateJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+5,org.thoughtcrime.securesms.database.model.ThreadRecord,database.model.ThreadRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+6,org.thoughtcrime.securesms.mediasend.CameraXVideoCaptureHelper,mediasend.CameraXVideoCaptureHelper,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+7,org.thoughtcrime.securesms.storage.StorageSyncHelper,storage.StorageSyncHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+8,org.thoughtcrime.securesms.mediasend.MediaSendVideoFragment,mediasend.MediaSendVideoFragment,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+9,org.thoughtcrime.securesms.events.WebRtcViewModel,events.WebRtcViewModel,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+10,org.thoughtcrime.securesms.providers.PartProvider,providers.PartProvider,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+11,org.thoughtcrime.securesms.contactshare.ContactFieldAdapter,contactshare.ContactFieldAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+12,org.thoughtcrime.securesms.database.model.NotificationMmsMessageRecord,database.model.NotificationMmsMessageRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+13,org.thoughtcrime.securesms.mms.DocumentSlide,mms.DocumentSlide,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+14,org.thoughtcrime.securesms.video.videoconverter.VideoThumbnailsRangeSelectorView,video.videoconverter.VideoThumbnailsRangeSelectorView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+15,org.thoughtcrime.securesms.jobs.ReactionSendJob,jobs.ReactionSendJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+16,org.thoughtcrime.securesms.mms.Slide,mms.Slide,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+17,org.thoughtcrime.securesms.mediasend.camerax.CameraXView,mediasend.camerax.CameraXView,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+18,org.thoughtcrime.securesms.stickers.StickerManifest,stickers.StickerManifest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+19,org.thoughtcrime.securesms.jobs.SmsSentJob,jobs.SmsSentJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+20,org.thoughtcrime.securesms.jobs.AttachmentCompressionJob,jobs.AttachmentCompressionJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+21,org.thoughtcrime.securesms.jobs.FastJobStorage,jobs.FastJobStorage,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+22,org.thoughtcrime.securesms.database.JobDatabase,database.JobDatabase,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+23,org.thoughtcrime.securesms.conversationlist.model.MessageResult,conversationlist.model.MessageResult,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+24,org.thoughtcrime.securesms.util.WakeLockUtil,util.WakeLockUtil,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+25,org.thoughtcrime.securesms.blurhash.BlurHashEncoder,blurhash.BlurHashEncoder,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+26,org.thoughtcrime.securesms.contacts.ContactSelectionListAdapter,contacts.ContactSelectionListAdapter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+27,org.thoughtcrime.securesms.components.recyclerview.DeleteItemAnimator,components.recyclerview.DeleteItemAnimator,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+28,org.thoughtcrime.securesms.database.MmsDatabase,database.MmsDatabase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+29,org.thoughtcrime.securesms.util.IdentityUtil,util.IdentityUtil,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+30,org.thoughtcrime.securesms.components.emoji.EmojiPageViewGridAdapter,components.emoji.EmojiPageViewGridAdapter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+31,org.thoughtcrime.securesms.jobs.MultiDeviceConfigurationUpdateJob,jobs.MultiDeviceConfigurationUpdateJob,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+32,org.thoughtcrime.securesms.mms.GifSlide,mms.GifSlide,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+33,org.thoughtcrime.securesms.components.TooltipPopup,components.TooltipPopup,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+34,org.thoughtcrime.securesms.components.webrtc.WebRtcCallViewModel,components.webrtc.WebRtcCallViewModel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+35,org.thoughtcrime.securesms.backup.FullBackupImporter,backup.FullBackupImporter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+36,org.thoughtcrime.securesms.mms.OutgoingMediaMessage,mms.OutgoingMediaMessage,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+37,org.thoughtcrime.securesms.imageeditor.model.Bisect,imageeditor.model.Bisect,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+38,org.thoughtcrime.securesms.sms.MessageSender,sms.MessageSender,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+39,org.thoughtcrime.securesms.util.MathUtils,util.MathUtils,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+40,org.thoughtcrime.securesms.mediasend.MediaSendActivityResult,mediasend.MediaSendActivityResult,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+41,org.thoughtcrime.securesms.groups.ui.creategroup.details.AddGroupDetailsRepository,groups.ui.creategroup.details.AddGroupDetailsRepository,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coordinator
+42,org.thoughtcrime.securesms.conversationlist.ConversationListAdapter,conversationlist.ConversationListAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+43,org.thoughtcrime.securesms.jobs.RemoteDeleteSendJob,jobs.RemoteDeleteSendJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+44,org.thoughtcrime.securesms.database.model.StickerPackRecord,database.model.StickerPackRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+45,org.thoughtcrime.securesms.components.emoji.EmojiFilter,components.emoji.EmojiFilter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+46,org.thoughtcrime.securesms.mms.OutgoingSecureMediaMessage,mms.OutgoingSecureMediaMessage,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+47,org.thoughtcrime.securesms.components.MaxHeightFrameLayout,components.MaxHeightFrameLayout,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+48,org.thoughtcrime.securesms.database.FlipperSqlCipherAdapter,database.FlipperSqlCipherAdapter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+49,org.thoughtcrime.securesms.components.webrtc.TextureViewRenderer,components.webrtc.TextureViewRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+50,org.thoughtcrime.securesms.database.SmsDatabase,database.SmsDatabase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+51,org.thoughtcrime.securesms.components.camera.CameraView,components.camera.CameraView,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+52,org.thoughtcrime.securesms.database.GroupDatabase,database.GroupDatabase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+53,org.thoughtcrime.securesms.jobs.LeaveGroupJob,jobs.LeaveGroupJob,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+54,org.thoughtcrime.securesms.video.videoconverter.VideoThumbnailsExtractor,video.videoconverter.VideoThumbnailsExtractor,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+55,org.thoughtcrime.securesms.mediasend.MediaFolder,mediasend.MediaFolder,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+56,org.thoughtcrime.securesms.database.model.MmsMessageRecord,database.model.MmsMessageRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+57,org.thoughtcrime.securesms.util.StickyHeaderDecoration,util.StickyHeaderDecoration,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+58,org.thoughtcrime.securesms.database.model.DisplayRecord,database.model.DisplayRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+59,org.thoughtcrime.securesms.database.model.MegaphoneRecord,database.model.MegaphoneRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+60,org.thoughtcrime.securesms.attachments.Attachment,attachments.Attachment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+61,org.thoughtcrime.securesms.database.model.SmsMessageRecord,database.model.SmsMessageRecord,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+62,org.thoughtcrime.securesms.components.InputPanel,components.InputPanel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+63,org.thoughtcrime.securesms.video.videoconverter.VideoTrackConverter,video.videoconverter.VideoTrackConverter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+64,org.thoughtcrime.securesms.service.WebRtcCallService,service.WebRtcCallService,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+65,org.thoughtcrime.securesms.imageeditor.model.EditorElementHierarchy,imageeditor.model.EditorElementHierarchy,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+66,org.thoughtcrime.securesms.net.ChunkedDataFetcher,net.ChunkedDataFetcher,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+67,org.thoughtcrime.securesms.conversation.LastSeenHeader,conversation.LastSeenHeader,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+68,org.thoughtcrime.securesms.contacts.ContactSelectionListItem,contacts.ContactSelectionListItem,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+69,org.thoughtcrime.securesms.conversationlist.ConversationListItem,conversationlist.ConversationListItem,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+70,org.thoughtcrime.securesms.database.SmsMigrator,database.SmsMigrator,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+71,org.thoughtcrime.securesms.mms.AttachmentManager,mms.AttachmentManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+72,org.thoughtcrime.securesms.components.emoji.EmojiSpan,components.emoji.EmojiSpan,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+73,org.thoughtcrime.securesms.insights.InsightsAnimatorSetFactory,insights.InsightsAnimatorSetFactory,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+74,org.thoughtcrime.securesms.attachments.DatabaseAttachment,attachments.DatabaseAttachment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+75,org.thoughtcrime.securesms.components.ThumbnailView,components.ThumbnailView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+76,org.thoughtcrime.securesms.mediasend.Media,mediasend.Media,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+77,org.thoughtcrime.securesms.providers.MmsBodyProvider,providers.MmsBodyProvider,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+78,org.thoughtcrime.securesms.conversation.ConversationReactionOverlay,conversation.ConversationReactionOverlay,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+79,org.thoughtcrime.securesms.conversationlist.ConversationListItemInboxZero,conversationlist.ConversationListItemInboxZero,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+80,org.thoughtcrime.securesms.conversation.ConversationData,conversation.ConversationData,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+81,org.thoughtcrime.securesms.contacts.ContactsSyncAdapter,contacts.ContactsSyncAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+82,org.thoughtcrime.securesms.audio.AudioCodec,audio.AudioCodec,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+83,org.thoughtcrime.securesms.profiles.edit.EditPushGroupProfileRepository,profiles.edit.EditPushGroupProfileRepository,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+84,org.thoughtcrime.securesms.jobs.SendReadReceiptJob,jobs.SendReadReceiptJob,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+85,org.thoughtcrime.securesms.util.BitmapUtil,util.BitmapUtil,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+86,org.thoughtcrime.securesms.contacts.sync.DirectoryHelperV1,contacts.sync.DirectoryHelperV1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+87,org.thoughtcrime.securesms.profiles.edit.EditSelfProfileRepository,profiles.edit.EditSelfProfileRepository,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+88,org.thoughtcrime.securesms.jobs.PushProcessMessageJob,jobs.PushProcessMessageJob,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+89,org.thoughtcrime.securesms.components.webrtc.PercentFrameLayout,components.webrtc.PercentFrameLayout,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+90,org.thoughtcrime.securesms.permissions.PermissionsRequest,permissions.PermissionsRequest,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+91,org.thoughtcrime.securesms.video.videoconverter.AudioTrackConverter,video.videoconverter.AudioTrackConverter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+92,org.thoughtcrime.securesms.database.model.Quote,database.model.Quote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+93,org.thoughtcrime.securesms.conversationlist.ConversationListItemAction,conversationlist.ConversationListItemAction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+94,org.thoughtcrime.securesms.notifications.NotificationItem,notifications.NotificationItem,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+95,org.thoughtcrime.securesms.mms.OutgoingGroupUpdateMessage,mms.OutgoingGroupUpdateMessage,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+96,org.thoughtcrime.securesms.jobmanager.Data,jobmanager.Data,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+97,org.thoughtcrime.securesms.jobs.SmsSendJob,jobs.SmsSendJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+98,org.thoughtcrime.securesms.recipients.RecipientDetails,recipients.RecipientDetails,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+99,org.thoughtcrime.securesms.sms.IncomingTextMessage,sms.IncomingTextMessage,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+100,org.thoughtcrime.securesms.contacts.RecipientsEditor,contacts.RecipientsEditor,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+101,org.thoughtcrime.securesms.mms.ImageSlide,mms.ImageSlide,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+102,org.thoughtcrime.securesms.groups.GroupV1MessageProcessor,groups.GroupV1MessageProcessor,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+103,org.thoughtcrime.securesms.jobmanager.persistence.JobSpec,jobmanager.persistence.JobSpec,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+104,org.thoughtcrime.securesms.conversation.ConversationItemSwipeCallback,conversation.ConversationItemSwipeCallback,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+105,org.thoughtcrime.securesms.database.ThreadDatabase,database.ThreadDatabase,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+106,org.thoughtcrime.securesms.MessageDetailsRecipientAdapter,MessageDetailsRecipientAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+107,org.thoughtcrime.securesms.registration.service.CodeVerificationRequest,registration.service.CodeVerificationRequest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+108,org.thoughtcrime.securesms.database.model.MessageRecord,database.model.MessageRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+109,org.thoughtcrime.securesms.attachments.PointerAttachment,attachments.PointerAttachment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+110,org.thoughtcrime.securesms.components.Outliner,components.Outliner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+111,org.thoughtcrime.securesms.util.task.SnackbarAsyncTask,util.task.SnackbarAsyncTask,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+112,org.thoughtcrime.securesms.storage.AccountConflictMerger,storage.AccountConflictMerger,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+113,org.thoughtcrime.securesms.components.TypingStatusRepository,components.TypingStatusRepository,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+114,org.thoughtcrime.securesms.mediaoverview.MediaGalleryAllAdapter,mediaoverview.MediaGalleryAllAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+115,org.thoughtcrime.securesms.mediasend.CameraButtonView,mediasend.CameraButtonView,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+116,org.thoughtcrime.securesms.database.IdentityDatabase,database.IdentityDatabase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+117,org.thoughtcrime.securesms.jobmanager.JobController,jobmanager.JobController,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+118,org.thoughtcrime.securesms.TransportOption,TransportOption,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+119,org.thoughtcrime.securesms.database.model.IncomingSticker,database.model.IncomingSticker,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+120,org.thoughtcrime.securesms.util.Hex,util.Hex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+121,org.thoughtcrime.securesms.mms.IncomingMediaMessage,mms.IncomingMediaMessage,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+122,org.thoughtcrime.securesms.imageeditor.renderers.BezierDrawingRenderer,imageeditor.renderers.BezierDrawingRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+123,org.thoughtcrime.securesms.components.webrtc.WebRtcControls,components.webrtc.WebRtcControls,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+124,org.thoughtcrime.securesms.components.emoji.MediaKeyboard,components.emoji.MediaKeyboard,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+125,org.thoughtcrime.securesms.jobs.StickerPackDownloadJob,jobs.StickerPackDownloadJob,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+126,org.thoughtcrime.securesms.groups.GroupManagerV1,groups.GroupManagerV1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+127,org.thoughtcrime.securesms.groups.GroupManager,groups.GroupManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+128,org.thoughtcrime.securesms.contacts.ContactsDatabase,contacts.ContactsDatabase,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+129,org.thoughtcrime.securesms.backup.FullBackupExporter,backup.FullBackupExporter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+130,org.thoughtcrime.securesms.conversation.ConversationItem,conversation.ConversationItem,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+131,org.thoughtcrime.securesms.mms.AudioSlide,mms.AudioSlide,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+132,org.thoughtcrime.securesms.notifications.NotificationChannels,notifications.NotificationChannels,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+133,org.thoughtcrime.securesms.database.model.MediaMmsMessageRecord,database.model.MediaMmsMessageRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+134,org.thoughtcrime.securesms.database.helpers.SQLCipherMigrationHelper,database.helpers.SQLCipherMigrationHelper,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+135,org.thoughtcrime.securesms.attachments.UriAttachment,attachments.UriAttachment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+136,org.thoughtcrime.securesms.BlockUnblockDialog,BlockUnblockDialog,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+137,org.thoughtcrime.securesms.conversation.ConversationUpdateItem,conversation.ConversationUpdateItem,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+138,org.thoughtcrime.securesms.components.QuoteView,components.QuoteView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+139,org.thoughtcrime.securesms.util.FeatureFlags,util.FeatureFlags,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+140,org.thoughtcrime.securesms.mms.VideoSlide,mms.VideoSlide,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+141,org.thoughtcrime.securesms.storage.ContactConflictMerger,storage.ContactConflictMerger,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+142,org.thoughtcrime.securesms.database.model.StickerRecord,database.model.StickerRecord,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+143,org.thoughtcrime.securesms.mms.QuoteModel,mms.QuoteModel,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+144,org.thoughtcrime.securesms.jobs.PushGroupSendJob,jobs.PushGroupSendJob,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+145,org.thoughtcrime.securesms.conversation.ConversationActivity,conversation.ConversationActivity,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+146,org.thoughtcrime.securesms.registration.service.RegistrationCodeRequest,registration.service.RegistrationCodeRequest,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+147,org.thoughtcrime.securesms.imageeditor.ThumbDragEditSession,imageeditor.ThumbDragEditSession,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+148,org.thoughtcrime.securesms.mediasend.MediaSendActivity,mediasend.MediaSendActivity,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+149,org.thoughtcrime.securesms.components.ComposeText,components.ComposeText,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+150,org.thoughtcrime.securesms.util.livedata.LiveDataTriple,util.livedata.LiveDataTriple,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+151,org.thoughtcrime.securesms.contactshare.Contact,contactshare.Contact,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+152,org.thoughtcrime.securesms.jobs.MmsDownloadJob,jobs.MmsDownloadJob,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+153,org.thoughtcrime.securesms.jobs.RefreshPreKeysJob,jobs.RefreshPreKeysJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+154,org.thoughtcrime.securesms.notifications.NotificationState,notifications.NotificationState,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+155,org.thoughtcrime.securesms.mediasend.MediaUploadRepository,mediasend.MediaUploadRepository,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+156,org.thoughtcrime.securesms.util.views.AdaptiveActionsToolbar,util.views.AdaptiveActionsToolbar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+157,org.thoughtcrime.securesms.imageeditor.renderers.MultiLineTextRenderer,imageeditor.renderers.MultiLineTextRenderer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+158,org.thoughtcrime.securesms.net.ContentProxySafetyInterceptor,net.ContentProxySafetyInterceptor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+159,org.thoughtcrime.securesms.preferences.AppProtectionPreferenceFragment,preferences.AppProtectionPreferenceFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+160,org.thoughtcrime.securesms.video.ModernEncryptedMediaDataSource,video.ModernEncryptedMediaDataSource,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+161,org.thoughtcrime.securesms.jobs.AttachmentDownloadJob,jobs.AttachmentDownloadJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+162,org.thoughtcrime.securesms.preferences.widgets.StorageGraphView,preferences.widgets.StorageGraphView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+163,org.thoughtcrime.securesms.megaphone.PopupMegaphoneView,megaphone.PopupMegaphoneView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+164,org.thoughtcrime.securesms.contactshare.ContactModelMapper,contactshare.ContactModelMapper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+165,org.thoughtcrime.securesms.components.KeyboardAwareLinearLayout,components.KeyboardAwareLinearLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+166,org.thoughtcrime.securesms.contacts.ContactAccessor,contacts.ContactAccessor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+167,org.thoughtcrime.securesms.imageeditor.model.ElementStack,imageeditor.model.ElementStack,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+168,org.thoughtcrime.securesms.giph.util.RecyclerViewPositionHelper,giph.util.RecyclerViewPositionHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+169,org.thoughtcrime.securesms.jobs.PushGroupUpdateJob,jobs.PushGroupUpdateJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+170,org.thoughtcrime.securesms.mms.OutgoingLegacyMmsConnection,mms.OutgoingLegacyMmsConnection,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+171,org.thoughtcrime.securesms.mms.IncomingLegacyMmsConnection,mms.IncomingLegacyMmsConnection,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+172,org.thoughtcrime.securesms.backup.BackupPassphrase,backup.BackupPassphrase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+173,org.thoughtcrime.securesms.giph.util.InfiniteScrollListener,giph.util.InfiniteScrollListener,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+174,org.thoughtcrime.securesms.revealable.ViewOnceUtil,revealable.ViewOnceUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+175,org.thoughtcrime.securesms.mms.LegacyMmsConnection,mms.LegacyMmsConnection,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+176,org.thoughtcrime.securesms.database.helpers.RecipientIdCleanupHelper,database.helpers.RecipientIdCleanupHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+177,org.thoughtcrime.securesms.preferences.SmsMmsPreferenceFragment,preferences.SmsMmsPreferenceFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+178,org.thoughtcrime.securesms.preferences.widgets.LEDColorListPreference,preferences.widgets.LEDColorListPreference,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+179,org.thoughtcrime.securesms.notifications.DeleteNotificationReceiver,notifications.DeleteNotificationReceiver,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+180,org.thoughtcrime.securesms.scribbles.VideoEditorHud,scribbles.VideoEditorHud,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+181,org.thoughtcrime.securesms.database.StorageKeyDatabase,database.StorageKeyDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+182,org.thoughtcrime.securesms.scribbles.ImageEditorStickerSelectActivity,scribbles.ImageEditorStickerSelectActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+183,org.thoughtcrime.securesms.groups.v2.processing.GroupStateMapper,groups.v2.processing.GroupStateMapper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+184,org.thoughtcrime.securesms.storage.StorageSyncValidations,storage.StorageSyncValidations,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+185,org.thoughtcrime.securesms.reactions.ReactionEmojiCountAdapter,reactions.ReactionEmojiCountAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+186,org.thoughtcrime.securesms.contacts.RecipientsAdapter,contacts.RecipientsAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+187,org.thoughtcrime.securesms.components.emoji.RecentEmojiPageModel,components.emoji.RecentEmojiPageModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+188,org.thoughtcrime.securesms.recipients.RecipientIdCache,recipients.RecipientIdCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+189,org.thoughtcrime.securesms.preferences.widgets.ContactPreference,preferences.widgets.ContactPreference,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+190,org.thoughtcrime.securesms.jobmanager.JobMigrator,jobmanager.JobMigrator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+191,org.thoughtcrime.securesms.MuteDialog,MuteDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+192,org.thoughtcrime.securesms.video.videoconverter.TextureRender,video.videoconverter.TextureRender,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+193,org.thoughtcrime.securesms.jobs.MultiDeviceBlockedUpdateJob,jobs.MultiDeviceBlockedUpdateJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+194,org.thoughtcrime.securesms.conversation.ConversationPopupActivity,conversation.ConversationPopupActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+195,org.thoughtcrime.securesms.components.AlbumThumbnailView,components.AlbumThumbnailView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+196,org.thoughtcrime.securesms.giph.net.GiphyLoader,giph.net.GiphyLoader,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+197,org.thoughtcrime.securesms.jobmanager.migrations.SendReadReceiptsJobMigration,jobmanager.migrations.SendReadReceiptsJobMigration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+198,org.thoughtcrime.securesms.jobs.AttachmentUploadJob,jobs.AttachmentUploadJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+199,org.thoughtcrime.securesms.logsubmit.SubmitDebugLogRepository,logsubmit.SubmitDebugLogRepository,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+200,org.thoughtcrime.securesms.imageeditor.model.EditorElement,imageeditor.model.EditorElement,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+201,org.thoughtcrime.securesms.mms.OutgoingLollipopMmsConnection,mms.OutgoingLollipopMmsConnection,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+202,org.thoughtcrime.securesms.crypto.ClassicDecryptingPartInputStream,crypto.ClassicDecryptingPartInputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+203,org.thoughtcrime.securesms.messagerequests.MessageRequestsBottomView,messagerequests.MessageRequestsBottomView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+204,org.thoughtcrime.securesms.contactshare.SharedContactDetailsActivity,contactshare.SharedContactDetailsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+205,org.thoughtcrime.securesms.database.DraftDatabase,database.DraftDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+206,org.thoughtcrime.securesms.mediasend.camerax.TextureViewImplementation,mediasend.camerax.TextureViewImplementation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+207,org.thoughtcrime.securesms.crypto.UnidentifiedAccessUtil,crypto.UnidentifiedAccessUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+208,org.thoughtcrime.securesms.stickers.StickerPackPreviewActivity,stickers.StickerPackPreviewActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+209,org.thoughtcrime.securesms.jobs.MultiDeviceGroupUpdateJob,jobs.MultiDeviceGroupUpdateJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+210,org.thoughtcrime.securesms.components.TypingStatusSender,components.TypingStatusSender,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+211,org.thoughtcrime.securesms.mms.SignalGlideModule,mms.SignalGlideModule,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+212,org.thoughtcrime.securesms.mediasend.camerax.ScaleTypeTransform,mediasend.camerax.ScaleTypeTransform,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+213,org.thoughtcrime.securesms.backup.BackupDialog,backup.BackupDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+214,org.thoughtcrime.securesms.mediasend.Camera1Controller,mediasend.Camera1Controller,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+215,org.thoughtcrime.securesms.MessageDetailsActivity,MessageDetailsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+216,org.thoughtcrime.securesms.util.AttachmentUtil,util.AttachmentUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+217,org.thoughtcrime.securesms.mms.CompatMmsConnection,mms.CompatMmsConnection,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+218,org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository,linkpreview.LinkPreviewRepository,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+219,org.thoughtcrime.securesms.groups.v2.GroupCandidateHelper,groups.v2.GroupCandidateHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+220,org.thoughtcrime.securesms.MediaPreviewActivity,MediaPreviewActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+221,org.thoughtcrime.securesms.jobs.AvatarGroupsV2DownloadJob,jobs.AvatarGroupsV2DownloadJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+222,org.thoughtcrime.securesms.VerifyIdentityActivity,VerifyIdentityActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+223,org.thoughtcrime.securesms.sharing.ShareActivity,sharing.ShareActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+224,org.thoughtcrime.securesms.recipients.ui.bottomsheet.RecipientBottomSheetDialogFragment,recipients.ui.bottomsheet.RecipientBottomSheetDialogFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+225,org.thoughtcrime.securesms.components.MicrophoneRecorderView,components.MicrophoneRecorderView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+226,org.thoughtcrime.securesms.groups.ui.pendingmemberinvites.PendingMemberInvitesFragment,groups.ui.pendingmemberinvites.PendingMemberInvitesFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+227,org.thoughtcrime.securesms.groups.v2.ProfileKeySet,groups.v2.ProfileKeySet,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+228,org.thoughtcrime.securesms.jobs.ServiceOutageDetectionJob,jobs.ServiceOutageDetectionJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+229,org.thoughtcrime.securesms.DatabaseMigrationActivity,DatabaseMigrationActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+230,org.thoughtcrime.securesms.providers.BlobProvider,providers.BlobProvider,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+231,org.thoughtcrime.securesms.jobs.RotateProfileKeyJob,jobs.RotateProfileKeyJob,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+232,org.thoughtcrime.securesms.util.MemoryFileDescriptor,util.MemoryFileDescriptor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+233,org.thoughtcrime.securesms.reactions.ReactionsConversationView,reactions.ReactionsConversationView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+234,org.thoughtcrime.securesms.util.SelectedRecipientsAdapter,util.SelectedRecipientsAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+235,org.thoughtcrime.securesms.recipients.LiveRecipientCache,recipients.LiveRecipientCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+236,org.thoughtcrime.securesms.logsubmit.LogSectionPermissions,logsubmit.LogSectionPermissions,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+237,org.thoughtcrime.securesms.components.emoji.AsciiEmojiView,components.emoji.AsciiEmojiView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+238,org.thoughtcrime.securesms.service.SmsDeliveryListener,service.SmsDeliveryListener,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+239,org.thoughtcrime.securesms.service.KeyCachingService,service.KeyCachingService,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+240,org.thoughtcrime.securesms.glide.cache.EncryptedCacheEncoder,glide.cache.EncryptedCacheEncoder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+241,org.thoughtcrime.securesms.maps.LocationRetriever,maps.LocationRetriever,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+242,org.thoughtcrime.securesms.registration.fragments.RestoreBackupFragment,registration.fragments.RestoreBackupFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+243,org.thoughtcrime.securesms.help.HelpFragment,help.HelpFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+244,org.thoughtcrime.securesms.webrtc.locks.ProximityLock,webrtc.locks.ProximityLock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+245,org.thoughtcrime.securesms.jobs.TypingSendJob,jobs.TypingSendJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+246,org.thoughtcrime.securesms.util.UsernameUtil,util.UsernameUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+247,org.thoughtcrime.securesms.jobs.CleanPreKeysJob,jobs.CleanPreKeysJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+248,org.thoughtcrime.securesms.util.BucketInfo,util.BucketInfo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+249,org.thoughtcrime.securesms.video.videoconverter.OutputSurface,video.videoconverter.OutputSurface,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+250,org.thoughtcrime.securesms.preferences.NotificationsPreferenceFragment,preferences.NotificationsPreferenceFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+251,org.thoughtcrime.securesms.groups.GroupsV2CapabilityChecker,groups.GroupsV2CapabilityChecker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+252,org.thoughtcrime.securesms.util.Stopwatch,util.Stopwatch,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+253,org.thoughtcrime.securesms.components.registration.VerificationCodeView,components.registration.VerificationCodeView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+254,org.thoughtcrime.securesms.pin.PinRestoreEntryFragment,pin.PinRestoreEntryFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+255,org.thoughtcrime.securesms.components.webrtc.SurfaceTextureEglRenderer,components.webrtc.SurfaceTextureEglRenderer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+256,org.thoughtcrime.securesms.PassphrasePromptActivity,PassphrasePromptActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+257,org.thoughtcrime.securesms.ApplicationContext,ApplicationContext,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+258,org.thoughtcrime.securesms.components.BubbleDrawableBuilder,components.BubbleDrawableBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+259,org.thoughtcrime.securesms.util.DateUtils,util.DateUtils,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+260,org.thoughtcrime.securesms.database.MediaDatabase,database.MediaDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+261,org.thoughtcrime.securesms.scribbles.ImageEditorFragment,scribbles.ImageEditorFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+262,org.thoughtcrime.securesms.keyvalue.GroupsV2AuthorizationSignalStoreCache,keyvalue.GroupsV2AuthorizationSignalStoreCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+263,org.thoughtcrime.securesms.jobs.PushSendJob,jobs.PushSendJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+264,org.thoughtcrime.securesms.util.ExpirationUtil,util.ExpirationUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+265,org.thoughtcrime.securesms.jobs.MultiDeviceStickerPackSyncJob,jobs.MultiDeviceStickerPackSyncJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+266,org.thoughtcrime.securesms.components.RemovableEditableMediaView,components.RemovableEditableMediaView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+267,org.thoughtcrime.securesms.imageeditor.ElementScaleEditSession,imageeditor.ElementScaleEditSession,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+268,org.thoughtcrime.securesms.components.ZoomingImageView,components.ZoomingImageView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+269,org.thoughtcrime.securesms.contactshare.ContactShareEditActivity,contactshare.ContactShareEditActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+270,org.thoughtcrime.securesms.crypto.ModernDecryptingPartInputStream,crypto.ModernDecryptingPartInputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+271,org.thoughtcrime.securesms.components.LabeledEditText,components.LabeledEditText,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+272,org.thoughtcrime.securesms.conversation.ConversationAdapter,conversation.ConversationAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+273,org.thoughtcrime.securesms.video.InMemoryTranscoder,video.InMemoryTranscoder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+274,org.thoughtcrime.securesms.webrtc.locks.LockManager,webrtc.locks.LockManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+275,org.thoughtcrime.securesms.groups.ui.creategroup.details.AddGroupDetailsViewModel,groups.ui.creategroup.details.AddGroupDetailsViewModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+276,org.thoughtcrime.securesms.qr.ScanningThread,qr.ScanningThread,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+277,org.thoughtcrime.securesms.components.AlertView,components.AlertView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+278,org.thoughtcrime.securesms.contacts.ArrayListCursor,contacts.ArrayListCursor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+279,org.thoughtcrime.securesms.components.emoji.parsing.EmojiTree,components.emoji.parsing.EmojiTree,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+280,org.thoughtcrime.securesms.components.AudioView,components.AudioView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+281,org.thoughtcrime.securesms.contacts.sync.FuzzyPhoneNumberHelper,contacts.sync.FuzzyPhoneNumberHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+282,org.thoughtcrime.securesms.RecipientPreferenceActivity,RecipientPreferenceActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+283,org.thoughtcrime.securesms.components.MaskView,components.MaskView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+284,org.thoughtcrime.securesms.lock.RegistrationLockV1Dialog,lock.RegistrationLockV1Dialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+285,org.thoughtcrime.securesms.database.loaders.DeviceListLoader,database.loaders.DeviceListLoader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+286,org.thoughtcrime.securesms.reactions.any.ReactWithAnyEmojiBottomSheetDialogFragment,reactions.any.ReactWithAnyEmojiBottomSheetDialogFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+287,org.thoughtcrime.securesms.util.BackupUtil,util.BackupUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+288,org.thoughtcrime.securesms.util.SmsCharacterCalculator,util.SmsCharacterCalculator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+289,org.thoughtcrime.securesms.AppInitialization,AppInitialization,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+290,org.thoughtcrime.securesms.conversation.AttachmentKeyboard,conversation.AttachmentKeyboard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+291,org.thoughtcrime.securesms.animation.DepthPageTransformer,animation.DepthPageTransformer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+292,org.thoughtcrime.securesms.invites.InviteReminderModel,invites.InviteReminderModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+293,org.thoughtcrime.securesms.GroupCreateActivity,GroupCreateActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+294,org.thoughtcrime.securesms.mediapreview.VideoMediaPreviewFragment,mediapreview.VideoMediaPreviewFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+295,org.thoughtcrime.securesms.mediasend.MediaSendViewModel,mediasend.MediaSendViewModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+296,org.thoughtcrime.securesms.webrtc.audio.BluetoothStateManager,webrtc.audio.BluetoothStateManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+297,org.thoughtcrime.securesms.components.registration.CallMeCountDownView,components.registration.CallMeCountDownView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+298,org.thoughtcrime.securesms.service.QuickResponseService,service.QuickResponseService,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+299,org.thoughtcrime.securesms.scribbles.UriGlideRenderer,scribbles.UriGlideRenderer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+300,org.thoughtcrime.securesms.mediapreview.MediaPreviewViewModel,mediapreview.MediaPreviewViewModel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+301,org.thoughtcrime.securesms.mediasend.camerax.TextureViewMeteringPointFactory,mediasend.camerax.TextureViewMeteringPointFactory,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+302,org.thoughtcrime.securesms.conversation.ConversationTitleView,conversation.ConversationTitleView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+303,org.thoughtcrime.securesms.registration.fragments.WelcomeFragment,registration.fragments.WelcomeFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+304,org.thoughtcrime.securesms.webrtc.audio.IncomingRinger,webrtc.audio.IncomingRinger,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+305,org.thoughtcrime.securesms.sharing.ShareRepository,sharing.ShareRepository,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+306,org.thoughtcrime.securesms.conversationlist.ConversationListFragment,conversationlist.ConversationListFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+307,org.thoughtcrime.securesms.PassphraseChangeActivity,PassphraseChangeActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+308,org.thoughtcrime.securesms.jobmanager.workmanager.WorkManagerDatabase,jobmanager.workmanager.WorkManagerDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+309,org.thoughtcrime.securesms.giph.ui.GiphyActivity,giph.ui.GiphyActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+310,org.thoughtcrime.securesms.jobs.PushDecryptMessageJob,jobs.PushDecryptMessageJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+311,org.thoughtcrime.securesms.jobs.LocalBackupJob,jobs.LocalBackupJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+312,org.thoughtcrime.securesms.jobs.MultiDeviceProfileKeyUpdateJob,jobs.MultiDeviceProfileKeyUpdateJob,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+313,org.thoughtcrime.securesms.lock.v2.ConfirmKbsPinFragment,lock.v2.ConfirmKbsPinFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+314,org.thoughtcrime.securesms.components.registration.VerificationPinKeyboard,components.registration.VerificationPinKeyboard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+315,org.thoughtcrime.securesms.crypto.storage.TextSecureIdentityKeyStore,crypto.storage.TextSecureIdentityKeyStore,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+316,org.thoughtcrime.securesms.jobs.MmsReceiveJob,jobs.MmsReceiveJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+317,org.thoughtcrime.securesms.logsubmit.SubmitDebugLogActivity,logsubmit.SubmitDebugLogActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+318,org.thoughtcrime.securesms.jobs.RefreshOwnProfileJob,jobs.RefreshOwnProfileJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+319,org.thoughtcrime.securesms.contacts.ContactIdentityManagerICS,contacts.ContactIdentityManagerICS,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+320,org.thoughtcrime.securesms.mms.MmsRadio,mms.MmsRadio,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+321,org.thoughtcrime.securesms.jobmanager.migrations.PushProcessMessageQueueJobMigration,jobmanager.migrations.PushProcessMessageQueueJobMigration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+322,org.thoughtcrime.securesms.PassphraseRequiredActionBarActivity,PassphraseRequiredActionBarActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+323,org.thoughtcrime.securesms.migrations.AvatarMigrationJob,migrations.AvatarMigrationJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+324,org.thoughtcrime.securesms.crypto.MasterSecretUtil,crypto.MasterSecretUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+325,org.thoughtcrime.securesms.util.AlarmSleepTimer,util.AlarmSleepTimer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+326,org.thoughtcrime.securesms.TransportOptionsAdapter,TransportOptionsAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+327,org.thoughtcrime.securesms.glide.cache.EncryptedCoder,glide.cache.EncryptedCoder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+328,org.thoughtcrime.securesms.components.SharedContactView,components.SharedContactView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+329,org.thoughtcrime.securesms.mediasend.MediaRepository,mediasend.MediaRepository,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+330,org.thoughtcrime.securesms.jobs.RetrieveProfileJob,jobs.RetrieveProfileJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+331,org.thoughtcrime.securesms.notifications.AndroidAutoHeardReceiver,notifications.AndroidAutoHeardReceiver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+332,org.thoughtcrime.securesms.components.location.SignalMapView,components.location.SignalMapView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+333,org.thoughtcrime.securesms.crypto.PreKeyUtil,crypto.PreKeyUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+334,org.thoughtcrime.securesms.video.VideoPlayer,video.VideoPlayer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+335,org.thoughtcrime.securesms.webrtc.audio.OutgoingRinger,webrtc.audio.OutgoingRinger,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+336,org.thoughtcrime.securesms.ContactSelectionListFragment,ContactSelectionListFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+337,org.thoughtcrime.securesms.logging.CustomSignalProtocolLogger,logging.CustomSignalProtocolLogger,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+338,org.thoughtcrime.securesms.mediasend.MediaPickerItemFragment,mediasend.MediaPickerItemFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+339,org.thoughtcrime.securesms.components.AvatarImageView,components.AvatarImageView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+340,org.thoughtcrime.securesms.components.emoji.EmojiTextView,components.emoji.EmojiTextView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+341,org.thoughtcrime.securesms.usernames.username.UsernameEditRepository,usernames.username.UsernameEditRepository,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+342,org.thoughtcrime.securesms.components.RecyclerViewFastScroller,components.RecyclerViewFastScroller,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+343,org.thoughtcrime.securesms.scribbles.ImageEditorHud,scribbles.ImageEditorHud,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+344,org.thoughtcrime.securesms.components.ConversationItemThumbnail,components.ConversationItemThumbnail,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+345,org.thoughtcrime.securesms.components.FromTextView,components.FromTextView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+346,org.thoughtcrime.securesms.jobs.MultiDeviceStickerPackOperationJob,jobs.MultiDeviceStickerPackOperationJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+347,org.thoughtcrime.securesms.jobmanager.JobRunner,jobmanager.JobRunner,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+348,org.thoughtcrime.securesms.registration.fragments.EnterCodeFragment,registration.fragments.EnterCodeFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+349,org.thoughtcrime.securesms.mediaoverview.MediaOverviewPageFragment,mediaoverview.MediaOverviewPageFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+350,org.thoughtcrime.securesms.notifications.DoNotDisturbUtil,notifications.DoNotDisturbUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+351,org.thoughtcrime.securesms.contacts.ContactsCursorLoader,contacts.ContactsCursorLoader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+352,org.thoughtcrime.securesms.logsubmit.LogSectionSystemInfo,logsubmit.LogSectionSystemInfo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+353,org.thoughtcrime.securesms.contactshare.ContactNameEditActivity,contactshare.ContactNameEditActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+354,org.thoughtcrime.securesms.groups.ui.creategroup.details.AddGroupDetailsFragment,groups.ui.creategroup.details.AddGroupDetailsFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+355,org.thoughtcrime.securesms.megaphone.BasicMegaphoneView,megaphone.BasicMegaphoneView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+356,org.thoughtcrime.securesms.lock.PinHashing,lock.PinHashing,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+357,org.thoughtcrime.securesms.notifications.MarkReadReceiver,notifications.MarkReadReceiver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+358,org.thoughtcrime.securesms.jobs.StickerDownloadJob,jobs.StickerDownloadJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+359,org.thoughtcrime.securesms.MessageRecipientListItem,MessageRecipientListItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+360,org.thoughtcrime.securesms.database.SignedPreKeyDatabase,database.SignedPreKeyDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+361,org.thoughtcrime.securesms.util.TelephonyUtil,util.TelephonyUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+362,org.thoughtcrime.securesms.InviteActivity,InviteActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+363,org.thoughtcrime.securesms.mediaoverview.MediaOverviewActivity,mediaoverview.MediaOverviewActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+364,org.thoughtcrime.securesms.components.SearchToolbar,components.SearchToolbar,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+365,org.thoughtcrime.securesms.util.SearchUtil,util.SearchUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+366,org.thoughtcrime.securesms.util.PlayServicesUtil,util.PlayServicesUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+367,org.thoughtcrime.securesms.service.UpdateApkReadyListener,service.UpdateApkReadyListener,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+368,org.thoughtcrime.securesms.jobs.RefreshAttributesJob,jobs.RefreshAttributesJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+369,org.thoughtcrime.securesms.SmsSendtoActivity,SmsSendtoActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+370,org.thoughtcrime.securesms.components.ShapeScrim,components.ShapeScrim,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+371,org.thoughtcrime.securesms.conversation.MenuState,conversation.MenuState,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+372,org.thoughtcrime.securesms.mediasend.AvatarSelectionBottomSheetDialogFragment,mediasend.AvatarSelectionBottomSheetDialogFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+373,org.thoughtcrime.securesms.notifications.SingleRecipientNotificationBuilder,notifications.SingleRecipientNotificationBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+374,org.thoughtcrime.securesms.imageeditor.renderers.AutomaticControlPointBezierLine,imageeditor.renderers.AutomaticControlPointBezierLine,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+375,org.thoughtcrime.securesms.components.emoji.parsing.EmojiPageBitmap,components.emoji.parsing.EmojiPageBitmap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+376,org.thoughtcrime.securesms.mms.DecryptableStreamLocalUriFetcher,mms.DecryptableStreamLocalUriFetcher,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+377,org.thoughtcrime.securesms.notifications.AndroidAutoReplyReceiver,notifications.AndroidAutoReplyReceiver,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+378,org.thoughtcrime.securesms.groups.GroupId,groups.GroupId,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+379,org.thoughtcrime.securesms.video.exo.PartDataSource,video.exo.PartDataSource,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+380,org.thoughtcrime.securesms.util.SqlUtil,util.SqlUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+381,org.thoughtcrime.securesms.jobs.AvatarGroupsV1DownloadJob,jobs.AvatarGroupsV1DownloadJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+382,org.thoughtcrime.securesms.groups.ui.notifications.CustomNotificationsDialogFragment,groups.ui.notifications.CustomNotificationsDialogFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+383,org.thoughtcrime.securesms.database.StickerDatabase,database.StickerDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+384,org.thoughtcrime.securesms.components.LinkPreviewView,components.LinkPreviewView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+385,org.thoughtcrime.securesms.components.TransferControlView,components.TransferControlView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+386,org.thoughtcrime.securesms.components.reminder.ReminderView,components.reminder.ReminderView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+387,org.thoughtcrime.securesms.jobmanager.migrations.RecipientIdJobMigration,jobmanager.migrations.RecipientIdJobMigration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+388,org.thoughtcrime.securesms.mediasend.CameraContactSelectionFragment,mediasend.CameraContactSelectionFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+389,org.thoughtcrime.securesms.registration.PushChallengeRequest,registration.PushChallengeRequest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+390,org.thoughtcrime.securesms.jobs.FcmRefreshJob,jobs.FcmRefreshJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+391,org.thoughtcrime.securesms.groups.GroupsV2Authorization,groups.GroupsV2Authorization,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Service Provider
+392,org.thoughtcrime.securesms.logsubmit.LogSectionFeatureFlags,logsubmit.LogSectionFeatureFlags,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+393,org.thoughtcrime.securesms.recipients.RecipientUtil,recipients.RecipientUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+394,org.thoughtcrime.securesms.glide.OkHttpStreamFetcher,glide.OkHttpStreamFetcher,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+395,org.thoughtcrime.securesms.insights.InsightsDashboardDialogFragment,insights.InsightsDashboardDialogFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+396,org.thoughtcrime.securesms.mms.PartParser,mms.PartParser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+397,org.thoughtcrime.securesms.components.TypingIndicatorView,components.TypingIndicatorView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+398,org.thoughtcrime.securesms.jobs.ProfileKeySendJob,jobs.ProfileKeySendJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+399,org.thoughtcrime.securesms.util.MediaUtil,util.MediaUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+400,org.thoughtcrime.securesms.components.DocumentView,components.DocumentView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+401,org.thoughtcrime.securesms.components.ConversationItemFooter,components.ConversationItemFooter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+402,org.thoughtcrime.securesms.imageeditor.renderers.OvalGuideRenderer,imageeditor.renderers.OvalGuideRenderer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+403,org.thoughtcrime.securesms.util.SaveAttachmentTask,util.SaveAttachmentTask,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+404,org.thoughtcrime.securesms.phonenumbers.PhoneNumberFormatter,phonenumbers.PhoneNumberFormatter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+405,org.thoughtcrime.securesms.service.DirectShareService,service.DirectShareService,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+406,org.thoughtcrime.securesms.jobs.StorageAccountRestoreJob,jobs.StorageAccountRestoreJob,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+407,org.thoughtcrime.securesms.jobs.UpdateApkJob,jobs.UpdateApkJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+408,org.thoughtcrime.securesms.database.PushDatabase,database.PushDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+409,org.thoughtcrime.securesms.permissions.RationaleDialog,permissions.RationaleDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+410,org.thoughtcrime.securesms.profiles.SystemProfileUtil,profiles.SystemProfileUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+411,org.thoughtcrime.securesms.crypto.ModernEncryptingPartOutputStream,crypto.ModernEncryptingPartOutputStream,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+412,org.thoughtcrime.securesms.webrtc.audio.SignalAudioManager,webrtc.audio.SignalAudioManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+413,org.thoughtcrime.securesms.util.LongClickMovementMethod,util.LongClickMovementMethod,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+414,org.thoughtcrime.securesms.pin.PinState,pin.PinState,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+415,org.thoughtcrime.securesms.mediasend.camerax.CameraXUtil,mediasend.camerax.CameraXUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+416,org.thoughtcrime.securesms.gcm.RestStrategy,gcm.RestStrategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+417,org.thoughtcrime.securesms.maps.PlacePickerActivity,maps.PlacePickerActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+418,org.thoughtcrime.securesms.webrtc.CallNotificationBuilder,webrtc.CallNotificationBuilder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+419,org.thoughtcrime.securesms.database.model.GroupsV2UpdateMessageProducer,database.model.GroupsV2UpdateMessageProducer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+420,org.thoughtcrime.securesms.DeviceAddFragment,DeviceAddFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+421,org.thoughtcrime.securesms.ExpirationDialog,ExpirationDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+422,org.thoughtcrime.securesms.database.MegaphoneDatabase,database.MegaphoneDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+423,org.thoughtcrime.securesms.jobmanager.JobManager,jobmanager.JobManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+424,org.thoughtcrime.securesms.video.videoconverter.InputSurface,video.videoconverter.InputSurface,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+425,org.thoughtcrime.securesms.database.ApnDatabase,database.ApnDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+426,org.thoughtcrime.securesms.scribbles.widget.VerticalSlideColorPicker,scribbles.widget.VerticalSlideColorPicker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+427,org.thoughtcrime.securesms.components.camera.CameraUtils,components.camera.CameraUtils,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+428,org.thoughtcrime.securesms.components.emoji.parsing.EmojiParser,components.emoji.parsing.EmojiParser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+429,org.thoughtcrime.securesms.conversation.ConversationDataSource,conversation.ConversationDataSource,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+430,org.thoughtcrime.securesms.jobs.RetrieveProfileAvatarJob,jobs.RetrieveProfileAvatarJob,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+431,org.thoughtcrime.securesms.database.MessagingDatabase,database.MessagingDatabase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+432,org.thoughtcrime.securesms.components.subsampling.AttachmentBitmapDecoder,components.subsampling.AttachmentBitmapDecoder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+433,org.thoughtcrime.securesms.database.loaders.RecentPhotosLoader,database.loaders.RecentPhotosLoader,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+434,org.thoughtcrime.securesms.lock.v2.KbsPin,lock.v2.KbsPin,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+435,org.thoughtcrime.securesms.profiles.AvatarHelper,profiles.AvatarHelper,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+436,org.thoughtcrime.securesms.imageeditor.Bounds,imageeditor.Bounds,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+437,org.thoughtcrime.securesms.contacts.NameAndNumber,contacts.NameAndNumber,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+438,org.thoughtcrime.securesms.groups.GroupManagerV2,groups.GroupManagerV2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+439,org.thoughtcrime.securesms.imageeditor.model.AnimationMatrix,imageeditor.model.AnimationMatrix,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+440,org.thoughtcrime.securesms.video.videoconverter.VideoThumbnailsView,video.videoconverter.VideoThumbnailsView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+441,org.thoughtcrime.securesms.DeviceActivity,DeviceActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+442,org.thoughtcrime.securesms.registration.RegistrationNavigationActivity,registration.RegistrationNavigationActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+443,org.thoughtcrime.securesms.components.webrtc.WebRtcCallView,components.webrtc.WebRtcCallView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+444,org.thoughtcrime.securesms.database.RecipientDatabase,database.RecipientDatabase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+445,org.thoughtcrime.securesms.database.helpers.SQLCipherOpenHelper,database.helpers.SQLCipherOpenHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+446,org.thoughtcrime.securesms.migrations.LegacyMigrationJob,migrations.LegacyMigrationJob,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+447,org.thoughtcrime.securesms.stickers.StickerKeyboardProvider,stickers.StickerKeyboardProvider,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+448,org.thoughtcrime.securesms.jobs.MmsSendJob,jobs.MmsSendJob,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+449,org.thoughtcrime.securesms.groups.LiveGroup,groups.LiveGroup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+450,org.thoughtcrime.securesms.imageeditor.model.EditorModel,imageeditor.model.EditorModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+451,org.thoughtcrime.securesms.database.XmlBackup,database.XmlBackup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+452,org.thoughtcrime.securesms.database.loaders.MessageDetailsLoader,database.loaders.MessageDetailsLoader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+453,org.thoughtcrime.securesms.util.TextSecurePreferences,util.TextSecurePreferences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+454,org.thoughtcrime.securesms.preferences.AdvancedPreferenceFragment,preferences.AdvancedPreferenceFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+455,org.thoughtcrime.securesms.database.loaders.GroupedThreadMediaLoader,database.loaders.GroupedThreadMediaLoader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+456,org.thoughtcrime.securesms.groups.ui.managegroup.ManageGroupViewModel,groups.ui.managegroup.ManageGroupViewModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+457,org.thoughtcrime.securesms.util.adapter.SectionedRecyclerViewAdapter,util.adapter.SectionedRecyclerViewAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+458,org.thoughtcrime.securesms.video.videoconverter.MediaConverter,video.videoconverter.MediaConverter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+459,org.thoughtcrime.securesms.registration.fragments.EnterPhoneNumberFragment,registration.fragments.EnterPhoneNumberFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+460,org.thoughtcrime.securesms.util.CharacterCalculator,util.CharacterCalculator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+461,org.thoughtcrime.securesms.WebRtcCallActivity,WebRtcCallActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+462,org.thoughtcrime.securesms.notifications.MessageNotifier,notifications.MessageNotifier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+463,org.thoughtcrime.securesms.dependencies.ApplicationDependencies,dependencies.ApplicationDependencies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+464,org.thoughtcrime.securesms.jobmanager.Job,jobmanager.Job,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+465,org.thoughtcrime.securesms.imageeditor.HiddenEditText,imageeditor.HiddenEditText,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+466,org.thoughtcrime.securesms.mediasend.camerax.CameraXModule,mediasend.camerax.CameraXModule,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+467,org.thoughtcrime.securesms.database.helpers.ClassicOpenHelper,database.helpers.ClassicOpenHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+468,org.thoughtcrime.securesms.profiles.edit.EditProfileFragment,profiles.edit.EditProfileFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+469,org.thoughtcrime.securesms.database.CursorRecyclerViewAdapter,database.CursorRecyclerViewAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+470,org.thoughtcrime.securesms.TransportOptions,TransportOptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+471,org.thoughtcrime.securesms.imageeditor.model.EditorFlags,imageeditor.model.EditorFlags,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+472,org.thoughtcrime.securesms.mms.PartAuthority,mms.PartAuthority,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+473,org.thoughtcrime.securesms.imageeditor.ImageEditorView,imageeditor.ImageEditorView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+474,org.thoughtcrime.securesms.megaphone.MegaphoneViewBuilder,megaphone.MegaphoneViewBuilder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+475,org.thoughtcrime.securesms.database.loaders.ThreadMediaLoader,database.loaders.ThreadMediaLoader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+476,org.thoughtcrime.securesms.jobs.MultiDeviceMessageRequestResponseJob,jobs.MultiDeviceMessageRequestResponseJob,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+477,org.thoughtcrime.securesms.ApplicationPreferencesActivity,ApplicationPreferencesActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+478,org.thoughtcrime.securesms.providers.DeprecatedPersistentBlobProvider,providers.DeprecatedPersistentBlobProvider,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+479,org.thoughtcrime.securesms.mediasend.camerax.VideoCapture,mediasend.camerax.VideoCapture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+480,org.thoughtcrime.securesms.util.Util,util.Util,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+481,org.thoughtcrime.securesms.util.GroupUtil,util.GroupUtil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+482,org.thoughtcrime.securesms.groups.ui.GroupErrors,groups.ui.GroupErrors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+483,org.thoughtcrime.securesms.audio.AudioSlidePlayer,audio.AudioSlidePlayer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+484,org.thoughtcrime.securesms.storage.StorageSyncModels,storage.StorageSyncModels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+485,org.thoughtcrime.securesms.mediasend.camerax.FlashModeConverter,mediasend.camerax.FlashModeConverter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+486,org.thoughtcrime.securesms.conversationlist.ConversationListSearchAdapter,conversationlist.ConversationListSearchAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+487,org.thoughtcrime.securesms.database.AttachmentDatabase,database.AttachmentDatabase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+488,org.thoughtcrime.securesms.mediapreview.MediaRailAdapter,mediapreview.MediaRailAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+489,org.thoughtcrime.securesms.groups.GV2AccessLevelUtil,groups.GV2AccessLevelUtil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+490,org.thoughtcrime.securesms.logging.PersistentLogger,logging.PersistentLogger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+491,org.thoughtcrime.securesms.components.ImageDivet,components.ImageDivet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+492,org.thoughtcrime.securesms.database.MmsSmsDatabase,database.MmsSmsDatabase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+493,org.thoughtcrime.securesms.preferences.MmsPreferencesActivity,preferences.MmsPreferencesActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+494,org.thoughtcrime.securesms.components.webrtc.PictureInPictureGestureHelper,components.webrtc.PictureInPictureGestureHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+495,org.thoughtcrime.securesms.mediasend.MediaPickerFolderFragment,mediasend.MediaPickerFolderFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+496,org.thoughtcrime.securesms.jobmanager.migrations.RecipientIdFollowUpJobMigration,jobmanager.migrations.RecipientIdFollowUpJobMigration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+497,org.thoughtcrime.securesms.mediasend.camerax.PreviewView,mediasend.camerax.PreviewView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+498,org.thoughtcrime.securesms.groups.ui.GroupMemberListAdapter,groups.ui.GroupMemberListAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+499,org.thoughtcrime.securesms.jobmanager.workmanager.DataMigrator,jobmanager.workmanager.DataMigrator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+500,org.thoughtcrime.securesms.jobs.StorageSyncJob,jobs.StorageSyncJob,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+501,org.thoughtcrime.securesms.recipients.Recipient,recipients.Recipient,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+502,org.thoughtcrime.securesms.usernames.username.UsernameEditFragment,usernames.username.UsernameEditFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+503,org.thoughtcrime.securesms.components.RepeatableImageKey,components.RepeatableImageKey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+504,org.thoughtcrime.securesms.logsubmit.SubmitDebugLogAdapter,logsubmit.SubmitDebugLogAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+505,org.thoughtcrime.securesms.lock.v2.ConfirmKbsPinViewModel,lock.v2.ConfirmKbsPinViewModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+506,org.thoughtcrime.securesms.conversation.ConversationFragment,conversation.ConversationFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+507,org.thoughtcrime.securesms.mediasend.camerax.SurfaceRotation,mediasend.camerax.SurfaceRotation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+508,org.thoughtcrime.securesms.groups.ui.managegroup.ManageGroupFragment,groups.ui.managegroup.ManageGroupFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+509,org.thoughtcrime.securesms.jobs.MultiDeviceContactUpdateJob,jobs.MultiDeviceContactUpdateJob,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+510,org.thoughtcrime.securesms.ringrtc.Camera,ringrtc.Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+511,org.thoughtcrime.securesms.registration.viewmodel.RegistrationViewModel,registration.viewmodel.RegistrationViewModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+512,org.thoughtcrime.securesms.migrations.ApplicationMigrations,migrations.ApplicationMigrations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+513,org.thoughtcrime.securesms.mediasend.Camera1Fragment,mediasend.Camera1Fragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+514,org.thoughtcrime.securesms.database.KeyValueDatabase,database.KeyValueDatabase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+515,org.thoughtcrime.securesms.usernames.username.UsernameEditViewModel,usernames.username.UsernameEditViewModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+516,org.thoughtcrime.securesms.stickers.StickerRolloverTouchListener,stickers.StickerRolloverTouchListener,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+517,org.thoughtcrime.securesms.NewConversationActivity,NewConversationActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+518,org.thoughtcrime.securesms.megaphone.Megaphones,megaphone.Megaphones,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+519,org.thoughtcrime.securesms.components.webrtc.WebRtcAudioOutputToggleButton,components.webrtc.WebRtcAudioOutputToggleButton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+520,org.thoughtcrime.securesms.components.webrtc.WebRtcAnswerDeclineButton,components.webrtc.WebRtcAnswerDeclineButton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+521,org.thoughtcrime.securesms.contactshare.SharedContactRepository,contactshare.SharedContactRepository,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+522,org.thoughtcrime.securesms.database.DatabaseFactory,database.DatabaseFactory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+523,org.thoughtcrime.securesms.contactshare.ContactUtil,contactshare.ContactUtil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+524,org.thoughtcrime.securesms.longmessage.LongMessageActivity,longmessage.LongMessageActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+525,org.thoughtcrime.securesms.database.NotInDirectoryException,database.NotInDirectoryException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+526,org.thoughtcrime.securesms.components.emoji.AnimatingImageSpan,components.emoji.AnimatingImageSpan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+527,org.thoughtcrime.securesms.groups.MembershipNotSuitableForV2Exception,groups.MembershipNotSuitableForV2Exception,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+528,org.thoughtcrime.securesms.components.reminder.FirstInviteReminder,components.reminder.FirstInviteReminder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+529,org.thoughtcrime.securesms.jobmanager.migrations.RecipientIdFollowUpJobMigration2,jobmanager.migrations.RecipientIdFollowUpJobMigration2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+530,org.thoughtcrime.securesms.notifications.FailedNotificationBuilder,notifications.FailedNotificationBuilder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+531,org.thoughtcrime.securesms.video.VideoSizeException,video.VideoSizeException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+532,org.thoughtcrime.securesms.notifications.PendingMessageNotificationBuilder,notifications.PendingMessageNotificationBuilder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+533,org.thoughtcrime.securesms.events.ReminderUpdateEvent,events.ReminderUpdateEvent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+534,org.thoughtcrime.securesms.database.loaders.MediaLoader,database.loaders.MediaLoader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+535,org.thoughtcrime.securesms.groups.GroupInsufficientRightsException,groups.GroupInsufficientRightsException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+536,org.thoughtcrime.securesms.TextSecureExpiredException,TextSecureExpiredException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+537,org.thoughtcrime.securesms.logging.LogFile,logging.LogFile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+538,org.thoughtcrime.securesms.database.DatabaseContentProviders,database.DatabaseContentProviders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

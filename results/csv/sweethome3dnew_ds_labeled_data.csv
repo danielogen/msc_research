@@ -1,0 +1,90 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,src.com.eteks.sweethome3d.j3d.OBJWriter,sweethome3d.j3d.OBJWriter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+1,src.com.eteks.sweethome3d.model.Compass,sweethome3d.model.Compass,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+2,src.com.eteks.sweethome3d.tools.ExtensionsClassLoader,sweethome3d.tools.ExtensionsClassLoader,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+3,src.com.eteks.sweethome3d.viewcontroller.PlanController,sweethome3d.viewcontroller.PlanController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+4,src.com.eteks.sweethome3d.j3d.Wall3D,sweethome3d.j3d.Wall3D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+5,src.com.eteks.sweethome3d.viewcontroller.RoomController,sweethome3d.viewcontroller.RoomController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Coordinator
+6,src.com.eteks.sweethome3d.j3d.ModelManager,sweethome3d.j3d.ModelManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+7,src.com.eteks.sweethome3d.model.Camera,sweethome3d.model.Camera,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+8,src.com.eteks.sweethome3d.applet.HomeAppletController,sweethome3d.applet.HomeAppletController,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Controller
+9,src.com.eteks.sweethome3d.viewcontroller.LevelController,sweethome3d.viewcontroller.LevelController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+10,src.com.eteks.sweethome3d.viewcontroller.LabelController,sweethome3d.viewcontroller.LabelController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+11,src.com.eteks.sweethome3d.j3d.HomePieceOfFurniture3D,sweethome3d.j3d.HomePieceOfFurniture3D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+12,src.com.eteks.sweethome3d.applet.AppletUserPreferences,sweethome3d.applet.AppletUserPreferences,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+13,src.com.eteks.sweethome3d.model.Polyline,sweethome3d.model.Polyline,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Coordinator
+14,src.com.eteks.sweethome3d.model.CatalogPieceOfFurniture,sweethome3d.model.CatalogPieceOfFurniture,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+15,src.com.eteks.sweethome3d.model.BackgroundImage,sweethome3d.model.BackgroundImage,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+16,src.com.eteks.sweethome3d.swing.PlanComponent,sweethome3d.swing.PlanComponent,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+17,src.com.eteks.sweethome3d.viewcontroller.HomeFurnitureController,sweethome3d.viewcontroller.HomeFurnitureController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+18,src.com.eteks.sweethome3d.model.HomePrint,sweethome3d.model.HomePrint,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+19,src.com.eteks.sweethome3d.io.DefaultLibrary,sweethome3d.io.DefaultLibrary,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+20,src.com.eteks.sweethome3d.model.CatalogDoorOrWindow,sweethome3d.model.CatalogDoorOrWindow,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+21,src.com.eteks.sweethome3d.swing.HomeComponent3D,sweethome3d.swing.HomeComponent3D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+22,src.com.eteks.sweethome3d.j3d.PhotoRenderer,sweethome3d.j3d.PhotoRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+23,src.com.eteks.sweethome3d.viewcontroller.CompassController,sweethome3d.viewcontroller.CompassController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+24,src.com.eteks.sweethome3d.viewcontroller.ImportedFurnitureWizardController,sweethome3d.viewcontroller.ImportedFurnitureWizardController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+25,src.com.eteks.sweethome3d.applet.ViewerHelper,sweethome3d.applet.ViewerHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+26,src.com.eteks.sweethome3d.model.CatalogLight,sweethome3d.model.CatalogLight,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Structurer
+27,src.com.eteks.sweethome3d.j3d.Room3D,sweethome3d.j3d.Room3D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+28,src.com.eteks.sweethome3d.viewcontroller.PolylineController,sweethome3d.viewcontroller.PolylineController,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+29,src.com.eteks.sweethome3d.model.RecorderException,sweethome3d.model.RecorderException,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+30,src.com.eteks.sweethome3d.swing.ScaledImageComponent,sweethome3d.swing.ScaledImageComponent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+31,src.com.eteks.sweethome3d.tools.URLContent,sweethome3d.tools.URLContent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+32,src.com.eteks.sweethome3d.j3d.Object3DBranchFactory,sweethome3d.j3d.Object3DBranchFactory,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+33,src.com.eteks.sweethome3d.swing.VisualTransferHandler,sweethome3d.swing.VisualTransferHandler,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+34,src.com.eteks.sweethome3d.swing.ModelPreviewComponent,sweethome3d.swing.ModelPreviewComponent,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+35,src.com.eteks.sweethome3d.swing.ResourceAction,sweethome3d.swing.ResourceAction,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+36,src.com.eteks.sweethome3d.swing.AutoCommitSpinner,sweethome3d.swing.AutoCommitSpinner,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+37,src.com.eteks.sweethome3d.model.HomePieceOfFurniture,sweethome3d.model.HomePieceOfFurniture,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,Structurer
+38,src.com.eteks.sweethome3d.model.PieceOfFurniture,sweethome3d.model.PieceOfFurniture,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Information Holder
+39,src.com.eteks.sweethome3d.model.Selectable,sweethome3d.model.Selectable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Service Provider
+40,src.com.eteks.sweethome3d.model.Elevatable,sweethome3d.model.Elevatable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Information Holder
+41,src.com.eteks.sweethome3d.viewcontroller.PhotosController,sweethome3d.viewcontroller.PhotosController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+42,src.com.eteks.sweethome3d.viewcontroller.TextureChoiceController,sweethome3d.viewcontroller.TextureChoiceController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+43,src.com.eteks.sweethome3d.viewcontroller.BackgroundImageWizardController,sweethome3d.viewcontroller.BackgroundImageWizardController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+44,src.com.eteks.sweethome3d.io.ContentDigestManager,sweethome3d.io.ContentDigestManager,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+45,src.com.eteks.sweethome3d.io.HomeURLContent,sweethome3d.io.HomeURLContent,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Service Provider
+46,src.com.eteks.sweethome3d.model.Wall,sweethome3d.model.Wall,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+47,src.com.eteks.sweethome3d.model.Level,sweethome3d.model.Level,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+48,src.com.eteks.sweethome3d.model.HomeTexture,sweethome3d.model.HomeTexture,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+49,src.com.eteks.sweethome3d.viewcontroller.Home3DAttributesController,sweethome3d.viewcontroller.Home3DAttributesController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+50,src.com.eteks.sweethome3d.viewcontroller.WallController,sweethome3d.viewcontroller.WallController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+51,src.com.eteks.sweethome3d.viewcontroller.BaseboardChoiceController,sweethome3d.viewcontroller.BaseboardChoiceController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+52,src.com.eteks.sweethome3d.viewcontroller.HelpController,sweethome3d.viewcontroller.HelpController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+53,src.com.eteks.sweethome3d.model.HomeFurnitureGroup,sweethome3d.model.HomeFurnitureGroup,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+54,src.com.eteks.sweethome3d.model.HomeEnvironment,sweethome3d.model.HomeEnvironment,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+55,src.com.eteks.sweethome3d.model.Home,sweethome3d.model.Home,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+56,src.com.eteks.sweethome3d.viewcontroller.ImportedTextureWizardController,sweethome3d.viewcontroller.ImportedTextureWizardController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+57,src.com.eteks.sweethome3d.model.Room,sweethome3d.model.Room,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+58,src.com.eteks.sweethome3d.viewcontroller.PhotoController,sweethome3d.viewcontroller.PhotoController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+59,src.com.eteks.sweethome3d.viewcontroller.ObserverCameraController,sweethome3d.viewcontroller.ObserverCameraController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+60,src.com.eteks.sweethome3d.viewcontroller.PageSetupController,sweethome3d.viewcontroller.PageSetupController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Coordinator
+61,src.com.eteks.sweethome3d.viewcontroller.FurnitureController,sweethome3d.viewcontroller.FurnitureController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Controller
+62,src.com.eteks.sweethome3d.viewcontroller.WizardController,sweethome3d.viewcontroller.WizardController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+63,src.com.eteks.sweethome3d.viewcontroller.ModelMaterialsController,sweethome3d.viewcontroller.ModelMaterialsController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+64,src.com.eteks.sweethome3d.model.HomeMaterial,sweethome3d.model.HomeMaterial,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+65,src.com.eteks.sweethome3d.model.AspectRatio,sweethome3d.model.AspectRatio,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+66,src.com.eteks.sweethome3d.viewcontroller.UserPreferencesController,sweethome3d.viewcontroller.UserPreferencesController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Coordinator
+67,src.com.eteks.sweethome3d.model.PatternsCatalog,sweethome3d.model.PatternsCatalog,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Structurer
+68,src.com.eteks.sweethome3d.model.UserPreferences,sweethome3d.model.UserPreferences,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+69,src.com.eteks.sweethome3d.viewcontroller.VideoController,sweethome3d.viewcontroller.VideoController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+70,src.com.eteks.sweethome3d.io.FileUserPreferences,sweethome3d.io.FileUserPreferences,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+71,src.com.eteks.sweethome3d.viewcontroller.AbstractPhotoController,sweethome3d.viewcontroller.AbstractPhotoController,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Controller
+72,src.com.eteks.sweethome3d.swing.UserPreferencesPanel,sweethome3d.swing.UserPreferencesPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+73,src.com.eteks.sweethome3d.plugin.PluginManager,sweethome3d.plugin.PluginManager,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+74,src.com.eteks.sweethome3d.swing.PhotoPanel,sweethome3d.swing.PhotoPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+75,src.com.eteks.sweethome3d.swing.WallPanel,sweethome3d.swing.WallPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+76,src.com.eteks.sweethome3d.swing.VideoPanel,sweethome3d.swing.VideoPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+77,src.com.eteks.sweethome3d.swing.HomeFurniturePanel,sweethome3d.swing.HomeFurniturePanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+78,src.com.eteks.sweethome3d.swing.MultipleLevelsPlanPanel,sweethome3d.swing.MultipleLevelsPlanPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+79,src.com.eteks.sweethome3d.applet.AppletApplication,sweethome3d.applet.AppletApplication,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+80,src.com.eteks.sweethome3d.io.HomeXMLHandler,sweethome3d.io.HomeXMLHandler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+81,src.com.eteks.sweethome3d.viewcontroller.HomeController,sweethome3d.viewcontroller.HomeController,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+82,src.com.eteks.sweethome3d.swing.ImportedFurnitureWizardStepsPanel,sweethome3d.swing.ImportedFurnitureWizardStepsPanel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+83,src.com.eteks.sweethome3d.swing.FileContentManager,sweethome3d.swing.FileContentManager,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+84,src.com.eteks.sweethome3d.swing.NullableSpinner,sweethome3d.swing.NullableSpinner,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+85,src.com.eteks.sweethome3d.swing.InterruptedPrinterException,sweethome3d.swing.InterruptedPrinterException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+86,src.com.eteks.sweethome3d.swing.UnfocusableToolBar,sweethome3d.swing.UnfocusableToolBar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+87,src.com.eteks.sweethome3d.SweetHome3DBootstrap,sweethome3d.SweetHome3DBootstrap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Controller
+88,src.com.eteks.sweethome3d.swing.ModelMaterialsComponent,sweethome3d.swing.ModelMaterialsComponent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
