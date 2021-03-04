@@ -1,0 +1,362 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,org.telegram.ui.TextSelectionHint,ui.TextSelectionHint,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Structurer
+1,org.telegram.ui.Components.BackupImageView,ui.Components.BackupImageView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+2,org.telegram.ui.Components.Scroller,ui.Components.Scroller,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+3,org.telegram.ui.Components.Paint.Views.RotationGestureDetector,ui.Components.Paint.Views.RotationGestureDetector,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+4,org.telegram.messenger.voip.VoIPController,messenger.voip.VoIPController,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+5,org.telegram.ui.ChatActivity,ui.ChatActivity,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+6,org.telegram.messenger.ImageReceiver,messenger.ImageReceiver,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+7,org.telegram.tgnet.ConnectionsManager,tgnet.ConnectionsManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+8,org.telegram.ui.Charts.BaseChartView,ui.Charts.BaseChartView,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+9,org.telegram.ui.LaunchActivity,ui.LaunchActivity,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+10,org.telegram.messenger.MediaController,messenger.MediaController,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Controller
+11,org.telegram.ui.Adapters.SearchAdapter,ui.Adapters.SearchAdapter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+12,org.telegram.messenger.MessagesStorage,messenger.MessagesStorage,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+13,org.telegram.ui.Components.AlertsCreator,ui.Components.AlertsCreator,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+14,org.telegram.messenger.time.SunDate,messenger.time.SunDate,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+15,org.telegram.ui.ChatUsersActivity,ui.ChatUsersActivity,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+16,org.telegram.messenger.FileLoader,messenger.FileLoader,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+17,org.telegram.ui.PassportActivity,ui.PassportActivity,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+18,org.telegram.messenger.ImageLoader,messenger.ImageLoader,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+19,org.telegram.messenger.SendMessagesHelper,messenger.SendMessagesHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+20,org.telegram.ui.Adapters.SearchAdapterHelper,ui.Adapters.SearchAdapterHelper,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+21,org.telegram.messenger.MessageObject,messenger.MessageObject,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+22,org.telegram.ui.Components.SvgHelper,ui.Components.SvgHelper,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+23,org.telegram.ui.ChatRightsEditActivity,ui.ChatRightsEditActivity,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+24,org.telegram.ui.FilterCreateActivity,ui.FilterCreateActivity,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+25,org.telegram.ui.Components.StaticLayoutEx,ui.Components.StaticLayoutEx,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+26,org.telegram.ui.ActionBar.ThemeDescription,ui.ActionBar.ThemeDescription,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+27,org.telegram.ui.Components.LayoutHelper,ui.Components.LayoutHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+28,org.telegram.ui.Components.SharedMediaLayout,ui.Components.SharedMediaLayout,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+29,org.telegram.ui.Components.EmbedBottomSheet,ui.Components.EmbedBottomSheet,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+30,org.telegram.ui.ArticleViewer,ui.ArticleViewer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+31,org.telegram.messenger.MessagesController,messenger.MessagesController,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Controller
+32,org.telegram.ui.Components.TextPaintImageReceiverSpan,ui.Components.TextPaintImageReceiverSpan,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+33,org.telegram.messenger.AndroidUtilities,messenger.AndroidUtilities,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+34,org.telegram.messenger.video.MediaCodecVideoConvertor,messenger.video.MediaCodecVideoConvertor,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+35,org.telegram.messenger.Intro,messenger.Intro,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+36,org.telegram.messenger.NotificationsController,messenger.NotificationsController,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Controller
+37,org.telegram.ui.Components.BulletSpan,ui.Components.BulletSpan,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+38,org.telegram.ui.PaymentFormActivity,ui.PaymentFormActivity,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+39,org.telegram.messenger.ImageLocation,messenger.ImageLocation,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+40,org.telegram.ui.PhotoViewer,ui.PhotoViewer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+41,org.telegram.messenger.MediaDataController,messenger.MediaDataController,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Controller
+42,org.telegram.ui.Charts.ChartPickerDelegate,ui.Charts.ChartPickerDelegate,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+43,org.telegram.ui.SessionsActivity,ui.SessionsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+44,org.telegram.messenger.audioinfo.mp3.ID3v2Info,messenger.audioinfo.mp3.ID3v2Info,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+45,org.telegram.ui.Components.RecyclerListView,ui.Components.RecyclerListView,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+46,org.telegram.messenger.time.FastDatePrinter,messenger.time.FastDatePrinter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+47,org.telegram.messenger.MusicPlayerService,messenger.MusicPlayerService,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+48,org.telegram.ui.TooManyCommunitiesActivity,ui.TooManyCommunitiesActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+49,org.telegram.ui.Components.AvatarDrawable,ui.Components.AvatarDrawable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+50,org.telegram.messenger.voip.VoIPService,messenger.voip.VoIPService,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+51,org.telegram.ui.Components.PasscodeView,ui.Components.PasscodeView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+52,org.telegram.ui.ExternalActionActivity,ui.ExternalActionActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+53,org.telegram.ui.IdenticonActivity,ui.IdenticonActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+54,org.telegram.ui.InviteContactsActivity,ui.InviteContactsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+55,org.telegram.ui.Components.voip.VoIPHelper,ui.Components.voip.VoIPHelper,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Service Provider
+56,org.telegram.ui.Components.PhotoFilterBlurControl,ui.Components.PhotoFilterBlurControl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+57,org.telegram.ui.Components.SeekBarView,ui.Components.SeekBarView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+58,org.telegram.ui.NotificationsCustomSettingsActivity,ui.NotificationsCustomSettingsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+59,org.telegram.ui.SecretMediaViewer,ui.SecretMediaViewer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+60,org.telegram.ui.Adapters.DialogsAdapter,ui.Adapters.DialogsAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+61,org.telegram.ui.Cells.FeaturedStickerSetCell2,ui.Cells.FeaturedStickerSetCell2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+62,org.telegram.ui.Components.GestureDetector2,ui.Components.GestureDetector2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+63,org.telegram.ui.ActionBar.SimpleTextView,ui.ActionBar.SimpleTextView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+64,org.telegram.ui.Components.BlurBehindDrawable,ui.Components.BlurBehindDrawable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+65,org.telegram.ui.Components.AnimatedFileDrawable,ui.Components.AnimatedFileDrawable,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+66,org.telegram.messenger.FileRefController,messenger.FileRefController,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Controller
+67,org.telegram.ui.Components.GroupedPhotosListView,ui.Components.GroupedPhotosListView,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+68,org.telegram.ui.PrivacyControlActivity,ui.PrivacyControlActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+69,org.telegram.messenger.audioinfo.m4a.M4AInfo,messenger.audioinfo.m4a.M4AInfo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+70,org.telegram.ui.ChangeNameActivity,ui.ChangeNameActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+71,org.telegram.ui.Components.PullForegroundDrawable,ui.Components.PullForegroundDrawable,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+72,org.telegram.ui.PollCreateActivity,ui.PollCreateActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+73,org.telegram.ui.Components.VideoTimelinePlayView,ui.Components.VideoTimelinePlayView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+74,org.telegram.ui.Components.ProfileGalleryView,ui.Components.ProfileGalleryView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+75,org.telegram.ui.StatisticActivity,ui.StatisticActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+76,org.telegram.ui.Cells.ManageChatUserCell,ui.Cells.ManageChatUserCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+77,org.telegram.ui.Components.BiometricPromtHelper,ui.Components.BiometricPromtHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+78,org.telegram.ui.Components.EditTextBoldCursor,ui.Components.EditTextBoldCursor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+79,org.telegram.ui.Components.Crop.CropAreaView,ui.Components.Crop.CropAreaView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+80,org.telegram.ui.Components.Paint.Painting,ui.Components.Paint.Painting,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+81,org.telegram.ui.Cells.ProfileSearchCell,ui.Cells.ProfileSearchCell,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+82,org.telegram.messenger.ContactsController,messenger.ContactsController,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Controller
+83,org.telegram.ui.Components.ThemePreviewDrawable,ui.Components.ThemePreviewDrawable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+84,org.telegram.ui.Components.FragmentContextView,ui.Components.FragmentContextView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+85,org.telegram.PhoneFormat.PhoneFormat,PhoneFormat.PhoneFormat,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+86,org.telegram.ui.ActionBar.ActionBarLayout,ui.ActionBar.ActionBarLayout,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+87,org.telegram.messenger.DownloadController,messenger.DownloadController,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Controller
+88,org.telegram.ui.Charts.PieChartView,ui.Charts.PieChartView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+89,org.telegram.ui.GroupStickersActivity,ui.GroupStickersActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+90,org.telegram.ui.Components.VideoTimelineView,ui.Components.VideoTimelineView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+91,org.telegram.ui.IntroActivity,ui.IntroActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+92,org.telegram.ui.CameraScanActivity,ui.CameraScanActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+93,org.telegram.ui.Cells.ContextLinkCell,ui.Cells.ContextLinkCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+94,org.telegram.ui.Components.RadialProgress,ui.Components.RadialProgress,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+95,org.telegram.ui.Components.ZoomControlView,ui.Components.ZoomControlView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+96,org.telegram.messenger.SharedConfig,messenger.SharedConfig,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+97,org.telegram.ui.ContactsActivity,ui.ContactsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+98,org.telegram.ui.Components.Crop.CropView,ui.Components.Crop.CropView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+99,org.telegram.ui.Cells.AudioPlayerCell,ui.Cells.AudioPlayerCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+100,org.telegram.ui.StickersActivity,ui.StickersActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+101,org.telegram.ui.Components.HintView,ui.Components.HintView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+102,org.telegram.ui.Adapters.DialogsSearchAdapter,ui.Adapters.DialogsSearchAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+103,org.telegram.ui.Components.Crop.CropGestureDetector,ui.Components.Crop.CropGestureDetector,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+104,org.telegram.ui.TwoStepVerificationActivity,ui.TwoStepVerificationActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+105,org.telegram.ui.LoginActivity,ui.LoginActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+106,org.telegram.ui.Components.SideMenultItemAnimator,ui.Components.SideMenultItemAnimator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+107,org.telegram.ui.Components.ChatAttachAlertPhotoLayout,ui.Components.ChatAttachAlertPhotoLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+108,org.telegram.ui.CallLogActivity,ui.CallLogActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+109,org.telegram.ui.Cells.DialogMeUrlCell,ui.Cells.DialogMeUrlCell,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+110,org.telegram.messenger.WearDataLayerListenerService,messenger.WearDataLayerListenerService,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+111,org.telegram.messenger.MessageKeyData,messenger.MessageKeyData,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Service Provider
+112,org.telegram.ui.Adapters.StickersSearchAdapter,ui.Adapters.StickersSearchAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+113,org.telegram.ui.Components.RecyclerAnimationScrollHelper,ui.Components.RecyclerAnimationScrollHelper,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+114,org.telegram.ui.Components.ShareLocationDrawable,ui.Components.ShareLocationDrawable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+115,org.telegram.ui.Adapters.StickersAdapter,ui.Adapters.StickersAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+116,org.telegram.ui.WallpapersListActivity,ui.WallpapersListActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+117,org.telegram.ui.ChatEditTypeActivity,ui.ChatEditTypeActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+118,org.telegram.messenger.browser.Browser,messenger.browser.Browser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+119,org.telegram.messenger.camera.CameraSession,messenger.camera.CameraSession,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+120,org.telegram.ui.Cells.UserCell2,ui.Cells.UserCell2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+121,org.telegram.ui.Components.ChatAttachAlert,ui.Components.ChatAttachAlert,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+122,org.telegram.ui.Components.Switch,ui.Components.Switch,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+123,org.telegram.ui.Components.TableLayout,ui.Components.TableLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+124,org.telegram.ui.Components.EmojiView,ui.Components.EmojiView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+125,org.telegram.ui.ContactAddActivity,ui.ContactAddActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+126,org.telegram.ui.Components.ChatAvatarContainer,ui.Components.ChatAvatarContainer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+127,org.telegram.messenger.Emoji,messenger.Emoji,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+128,org.telegram.ui.ChangeBioActivity,ui.ChangeBioActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+129,org.telegram.ui.ChangePhoneActivity,ui.ChangePhoneActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+130,org.telegram.ui.Components.CheckBoxBase,ui.Components.CheckBoxBase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+131,org.telegram.ui.Charts.StackBarChartView,ui.Charts.StackBarChartView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+132,org.telegram.ui.Components.WebPlayerView,ui.Components.WebPlayerView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+133,org.telegram.ui.Components.SizeNotifierFrameLayout,ui.Components.SizeNotifierFrameLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+134,org.telegram.ui.Components.PipRoundVideoView,ui.Components.PipRoundVideoView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+135,org.telegram.ui.Components.DialogsItemAnimator,ui.Components.DialogsItemAnimator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+136,org.telegram.ui.Charts.BarChartView,ui.Charts.BarChartView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+137,org.telegram.ui.ChangeUsernameActivity,ui.ChangeUsernameActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+138,org.telegram.messenger.voip.VoIPBaseService,messenger.voip.VoIPBaseService,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Interfacer
+139,org.telegram.ui.Components.PipVideoView,ui.Components.PipVideoView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+140,org.telegram.ui.Components.AudioPlayerAlert,ui.Components.AudioPlayerAlert,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+141,org.telegram.ui.Components.ChatAttachAlertDocumentLayout,ui.Components.ChatAttachAlertDocumentLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+142,org.telegram.ui.ContentPreviewViewer,ui.ContentPreviewViewer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+143,org.telegram.ui.Cells.SharedLinkCell,ui.Cells.SharedLinkCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+144,org.telegram.ui.Cells.ThemeCell,ui.Cells.ThemeCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+145,org.telegram.ui.Cells.FeaturedStickerSetCell,ui.Cells.FeaturedStickerSetCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+146,org.telegram.ui.Components.ColorPicker,ui.Components.ColorPicker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+147,org.telegram.ui.ThemeSetUrlActivity,ui.ThemeSetUrlActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+148,org.telegram.ui.Cells.ChatActionCell,ui.Cells.ChatActionCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+149,org.telegram.ui.ActionBar.BottomSheet,ui.ActionBar.BottomSheet,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+150,org.telegram.ui.Cells.DrawerProfileCell,ui.Cells.DrawerProfileCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+151,org.telegram.ui.PrivacySettingsActivity,ui.PrivacySettingsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+152,org.telegram.ui.Components.FilterTabsView,ui.Components.FilterTabsView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+153,org.telegram.ui.CancelAccountDeletionActivity,ui.CancelAccountDeletionActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+154,org.telegram.ui.Cells.UserCell,ui.Cells.UserCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+155,org.telegram.ui.ThemeActivity,ui.ThemeActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+156,org.telegram.ui.PasscodeActivity,ui.PasscodeActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+157,org.telegram.messenger.LocationController,messenger.LocationController,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Controller
+158,org.telegram.ui.StorageDiagramView,ui.StorageDiagramView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+159,org.telegram.ui.ActionBar.ActionBarMenuItem,ui.ActionBar.ActionBarMenuItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+160,org.telegram.ui.Cells.GroupCreateUserCell,ui.Cells.GroupCreateUserCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+161,org.telegram.ui.Charts.StackLinearChartView,ui.Charts.StackLinearChartView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+162,org.telegram.ui.Components.Paint.Render,ui.Components.Paint.Render,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+163,org.telegram.messenger.video.AudioRecoder,messenger.video.AudioRecoder,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+164,org.telegram.ui.Components.ThemeEditorView,ui.Components.ThemeEditorView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+165,org.telegram.ui.Components.RadialProgress2,ui.Components.RadialProgress2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+166,org.telegram.ui.Components.ChatAttachAlertLocationLayout,ui.Components.ChatAttachAlertLocationLayout,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+167,org.telegram.ui.ProfileNotificationsActivity,ui.ProfileNotificationsActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+168,org.telegram.ui.WebviewActivity,ui.WebviewActivity,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+169,org.telegram.messenger.UserConfig,messenger.UserConfig,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Information Holder
+170,org.telegram.ui.Cells.SessionCell,ui.Cells.SessionCell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+171,org.telegram.ui.Components.AnimationProperties,ui.Components.AnimationProperties,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+172,org.telegram.tgnet.TLObject,tgnet.TLObject,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+173,org.telegram.ui.Components.PickerBottomLayout,ui.Components.PickerBottomLayout,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+174,org.telegram.PhoneFormat.CallingCodeInfo,PhoneFormat.CallingCodeInfo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+175,org.telegram.ui.Components.Size,ui.Components.Size,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Information Holder
+176,org.telegram.PhoneFormat.RuleSet,PhoneFormat.RuleSet,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+177,org.telegram.ui.Components.URLSpanBotCommand,ui.Components.URLSpanBotCommand,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+178,org.telegram.ui.Charts.view_data.ChartHeaderView,ui.Charts.view_data.ChartHeaderView,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+179,org.telegram.messenger.DownloadObject,messenger.DownloadObject,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+180,org.telegram.messenger.SecureDocumentKey,messenger.SecureDocumentKey,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Information Holder
+181,org.telegram.messenger.WebFile,messenger.WebFile,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+182,org.telegram.ui.Components.InstantCameraView,ui.Components.InstantCameraView,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+183,org.telegram.ui.DialogsActivity,ui.DialogsActivity,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Interfacer
+184,org.telegram.ui.Charts.view_data.LineViewData,ui.Charts.view_data.LineViewData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+185,org.telegram.ui.Components.Paint.Swatch,ui.Components.Paint.Swatch,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Information Holder
+186,org.telegram.ui.Components.PickerBottomLayoutViewer,ui.Components.PickerBottomLayoutViewer,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+187,org.telegram.ui.Components.Paint.Path,ui.Components.Paint.Path,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+188,org.telegram.ui.Components.Point,ui.Components.Point,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Information Holder
+189,org.telegram.ui.Charts.view_data.BarViewData,ui.Charts.view_data.BarViewData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Information Holder
+190,org.telegram.PhoneFormat.PhoneRule,PhoneFormat.PhoneRule,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Service Provider
+191,org.telegram.messenger.ApplicationLoader,messenger.ApplicationLoader,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+192,org.telegram.messenger.LocaleController,messenger.LocaleController,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Controller
+193,org.telegram.ui.Charts.data.StackBarChartData,ui.Charts.data.StackBarChartData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+194,org.telegram.ui.Components.Paint.RenderState,ui.Components.Paint.RenderState,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+195,org.telegram.ui.Charts.data.DoubleLinearChartData,ui.Charts.data.DoubleLinearChartData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Service Provider
+196,org.telegram.ui.Charts.view_data.ChartHorizontalLinesData,ui.Charts.view_data.ChartHorizontalLinesData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+197,org.telegram.ui.Charts.data.ChartData,ui.Charts.data.ChartData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+198,org.telegram.ui.Charts.data.StackLinearChartData,ui.Charts.data.StackLinearChartData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+199,org.telegram.ui.Charts.view_data.LegendSignatureView,ui.Charts.view_data.LegendSignatureView,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+200,org.telegram.messenger.LinkifyPort,messenger.LinkifyPort,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+201,org.telegram.ui.Components.Paint.Point,ui.Components.Paint.Point,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+202,org.telegram.ui.Cells.DialogCell,ui.Cells.DialogCell,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+203,org.telegram.messenger.SecureDocument,messenger.SecureDocument,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+204,org.telegram.messenger.SecretChatHelper,messenger.SecretChatHelper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+205,org.telegram.ui.Charts.view_data.ChartBottomSignatureData,ui.Charts.view_data.ChartBottomSignatureData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+206,org.telegram.ui.ActionBar.Theme,ui.ActionBar.Theme,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Structurer
+207,org.telegram.messenger.BuildVars,messenger.BuildVars,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+208,org.telegram.ui.ActionBar.ActionBar,ui.ActionBar.ActionBar,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+209,org.telegram.ui.Cells.ChatMessageCell,ui.Cells.ChatMessageCell,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+210,org.telegram.ui.Charts.view_data.StackBarViewData,ui.Charts.view_data.StackBarViewData,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Information Holder
+211,org.telegram.messenger.Utilities,messenger.Utilities,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+212,org.telegram.tgnet.NativeByteBuffer,tgnet.NativeByteBuffer,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+213,org.telegram.ui.Charts.view_data.TransitionParams,ui.Charts.view_data.TransitionParams,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+214,org.telegram.ui.Components.CircleBezierDrawable,ui.Components.CircleBezierDrawable,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+215,org.telegram.ui.Cells.PhotoPickerPhotoCell,ui.Cells.PhotoPickerPhotoCell,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+216,org.telegram.ui.Components.IntSize,ui.Components.IntSize,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+217,org.telegram.ui.Components.ProgressView,ui.Components.ProgressView,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+218,org.telegram.ui.Components.LetterDrawable,ui.Components.LetterDrawable,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Interfacer
+219,org.telegram.messenger.VideoEditedInfo,messenger.VideoEditedInfo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+220,org.telegram.ui.Components.PagerSlidingTabStrip,ui.Components.PagerSlidingTabStrip,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+221,org.telegram.ui.Components.Rect,ui.Components.Rect,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+222,org.telegram.ui.Components.ImageUpdater,ui.Components.ImageUpdater,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+223,org.telegram.ui.Components.FlatCheckBox,ui.Components.FlatCheckBox,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Interfacer
+224,org.telegram.messenger.Bitmaps,messenger.Bitmaps,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+225,org.telegram.tgnet.TLClassStore,tgnet.TLClassStore,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+226,org.telegram.ui.Components.ChatBigEmptyView,ui.Components.ChatBigEmptyView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+227,org.telegram.ui.PhotoPickerActivity,ui.PhotoPickerActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+228,org.telegram.ui.Components.StickerMasksView,ui.Components.StickerMasksView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+229,org.telegram.messenger.FileLoadOperation,messenger.FileLoadOperation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+230,org.telegram.ui.CacheControlActivity,ui.CacheControlActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+231,org.telegram.ui.Components.PhotoFilterView,ui.Components.PhotoFilterView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+232,org.telegram.ui.Components.AdminLogFilterAlert,ui.Components.AdminLogFilterAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+233,org.telegram.ui.Components.ShutterButton,ui.Components.ShutterButton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+234,org.telegram.ui.ChatLinkActivity,ui.ChatLinkActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+235,org.telegram.ui.Adapters.ContactsAdapter,ui.Adapters.ContactsAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+236,org.telegram.ui.ProfileActivity,ui.ProfileActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+237,org.telegram.ui.Components.PollVotesAlert,ui.Components.PollVotesAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+238,org.telegram.messenger.time.FastDateParser,messenger.time.FastDateParser,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+239,org.telegram.ui.Components.RecyclerViewItemRangeSelector,ui.Components.RecyclerViewItemRangeSelector,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+240,org.telegram.ui.ActionBar.AlertDialog,ui.ActionBar.AlertDialog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+241,org.telegram.ui.ChannelAdminLogActivity,ui.ChannelAdminLogActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+242,org.telegram.tgnet.TLRPC,tgnet.TLRPC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+243,org.telegram.ui.DataSettingsActivity,ui.DataSettingsActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+244,org.telegram.ui.Components.ShareAlert,ui.Components.ShareAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+245,org.telegram.ui.Components.StickerSetBulletinLayout,ui.Components.StickerSetBulletinLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+246,org.telegram.ui.Components.TrendingStickersLayout,ui.Components.TrendingStickersLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+247,org.telegram.ui.Components.NumberPicker,ui.Components.NumberPicker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+248,org.telegram.ui.Components.SnowflakesEffect,ui.Components.SnowflakesEffect,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+249,org.telegram.ui.Components.ChatActivityEnterView,ui.Components.ChatActivityEnterView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+250,org.telegram.messenger.MrzRecognizer,messenger.MrzRecognizer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+251,org.telegram.ui.FiltersSetupActivity,ui.FiltersSetupActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+252,org.telegram.ui.FilterUsersActivity,ui.FilterUsersActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+253,org.telegram.ui.Adapters.DrawerLayoutAdapter,ui.Adapters.DrawerLayoutAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+254,org.telegram.ui.Components.FireworksEffect,ui.Components.FireworksEffect,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+255,org.telegram.ui.Components.VideoPlayer,ui.Components.VideoPlayer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+256,org.telegram.ui.PeopleNearbyActivity,ui.PeopleNearbyActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+257,org.telegram.ui.Cells.ArchiveHintInnerCell,ui.Cells.ArchiveHintInnerCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+258,org.telegram.messenger.MusicPlayerReceiver,messenger.MusicPlayerReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+259,org.telegram.messenger.NotificationCenter,messenger.NotificationCenter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+260,org.telegram.ui.ActionIntroActivity,ui.ActionIntroActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+261,org.telegram.ui.Adapters.MentionsAdapter,ui.Adapters.MentionsAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+262,org.telegram.ui.Components.SharingLocationsAlert,ui.Components.SharingLocationsAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+263,org.telegram.ui.VoIPActivity,ui.VoIPActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+264,org.telegram.ui.GroupCreateFinalActivity,ui.GroupCreateFinalActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+265,org.telegram.ui.Components.BackgroundGradientDrawable,ui.Components.BackgroundGradientDrawable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+266,org.telegram.ui.Components.MediaActionDrawable,ui.Components.MediaActionDrawable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+267,org.telegram.ui.LanguageSelectActivity,ui.LanguageSelectActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+268,org.telegram.ui.Components.PhotoPaintView,ui.Components.PhotoPaintView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+269,org.telegram.ui.Components.PhotoFilterCurvesControl,ui.Components.PhotoFilterCurvesControl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+270,org.telegram.ui.PrivacyUsersActivity,ui.PrivacyUsersActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+271,org.telegram.ui.Components.ChatAttachAlertAudioLayout,ui.Components.ChatAttachAlertAudioLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+272,org.telegram.messenger.ChatObject,messenger.ChatObject,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+273,org.telegram.ui.LocationActivity,ui.LocationActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+274,org.telegram.ui.SettingsActivity,ui.SettingsActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+275,org.telegram.ui.Components.ScrollSlidingTabStrip,ui.Components.ScrollSlidingTabStrip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+276,org.telegram.ui.GroupInviteActivity,ui.GroupInviteActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+277,org.telegram.ui.ThemePreviewActivity,ui.ThemePreviewActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+278,org.telegram.ui.CountrySelectActivity,ui.CountrySelectActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+279,org.telegram.ui.MediaActivity,ui.MediaActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+280,org.telegram.ui.Cells.ThemesHorizontalListCell,ui.Cells.ThemesHorizontalListCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+281,org.telegram.ui.ProxySettingsActivity,ui.ProxySettingsActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+282,org.telegram.ui.ProxyListActivity,ui.ProxyListActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+283,org.telegram.ui.ArchivedStickersActivity,ui.ArchivedStickersActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+284,org.telegram.ui.Components.RLottieDrawable,ui.Components.RLottieDrawable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+285,org.telegram.ui.FeaturedStickersActivity,ui.FeaturedStickersActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+286,org.telegram.ui.DataAutoDownloadActivity,ui.DataAutoDownloadActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+287,org.telegram.ui.Components.Paint.Input,ui.Components.Paint.Input,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+288,org.telegram.ui.Components.GroupCreateSpan,ui.Components.GroupCreateSpan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+289,org.telegram.ui.Cells.TextSelectionHelper,ui.Cells.TextSelectionHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+290,org.telegram.ui.QuickRepliesSettingsActivity,ui.QuickRepliesSettingsActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+291,org.telegram.ui.Components.ChatAttachAlertPollLayout,ui.Components.ChatAttachAlertPollLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+292,org.telegram.ui.NotificationsSettingsActivity,ui.NotificationsSettingsActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+293,org.telegram.ui.Components.StickersAlert,ui.Components.StickersAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+294,org.telegram.ui.TestActivity,ui.TestActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+295,org.telegram.ui.Components.Paint.Views.EntityView,ui.Components.Paint.Views.EntityView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+296,org.telegram.ui.Components.Paint.PhotoFace,ui.Components.Paint.PhotoFace,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+297,org.telegram.ui.LogoutActivity,ui.LogoutActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+298,org.telegram.ui.Components.ChatAttachAlertContactsLayout,ui.Components.ChatAttachAlertContactsLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+299,org.telegram.ui.ActionBar.BaseFragment,ui.ActionBar.BaseFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+300,org.telegram.ui.Components.voip.DarkTheme,ui.Components.voip.DarkTheme,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Service Provider
+301,org.telegram.ui.DataUsageActivity,ui.DataUsageActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+302,org.telegram.ui.GroupCreateActivity,ui.GroupCreateActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+303,org.telegram.ui.Adapters.LocationActivityAdapter,ui.Adapters.LocationActivityAdapter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+304,org.telegram.ui.ActionBar.AdjustPanLinearLayout,ui.ActionBar.AdjustPanLinearLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+305,org.telegram.messenger.OpenChatReceiver,messenger.OpenChatReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+306,org.telegram.messenger.AutoMessageReplyReceiver,messenger.AutoMessageReplyReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+307,org.telegram.ui.Cells.LetterSectionCell,ui.Cells.LetterSectionCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+308,org.telegram.ui.ShareActivity,ui.ShareActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+309,org.telegram.messenger.PopupReplyReceiver,messenger.PopupReplyReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+310,org.telegram.messenger.ScreenReceiver,messenger.ScreenReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+311,org.telegram.ui.Components.PermissionAlert,ui.Components.PermissionAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+312,org.telegram.ui.Components.TextPaintSpan,ui.Components.TextPaintSpan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+313,org.telegram.messenger.NotificationCallbackReceiver,messenger.NotificationCallbackReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+314,org.telegram.messenger.NotificationRepeat,messenger.NotificationRepeat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+315,org.telegram.ui.Charts.PieChartViewData,ui.Charts.PieChartViewData,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+316,org.telegram.ui.Components.TextPaintWebpageUrlSpan,ui.Components.TextPaintWebpageUrlSpan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+317,org.telegram.messenger.AuthenticatorService,messenger.AuthenticatorService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+318,org.telegram.ui.Components.URLSpanUserMentionPhotoViewer,ui.Components.URLSpanUserMentionPhotoViewer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+319,org.telegram.messenger.support.customtabsclient.shared.ServiceConnection,messenger.support.customtabsclient.shared.ServiceConnection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+320,org.telegram.messenger.GoogleVoiceClientActivity,messenger.GoogleVoiceClientActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+321,org.telegram.messenger.support.customtabs.CustomTabsServiceConnection,messenger.support.customtabs.CustomTabsServiceConnection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+322,org.telegram.messenger.support.customtabsclient.shared.KeepAliveService,messenger.support.customtabsclient.shared.KeepAliveService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+323,org.telegram.ui.Cells.TextInfoCell,ui.Cells.TextInfoCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+324,org.telegram.ui.Cells.SharedMediaSectionCell,ui.Cells.SharedMediaSectionCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+325,org.telegram.ui.Components.StatusDrawable,ui.Components.StatusDrawable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+326,org.telegram.messenger.audioinfo.m4a.MP4Input,messenger.audioinfo.m4a.MP4Input,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+327,org.telegram.messenger.CustomTabsCopyReceiver,messenger.CustomTabsCopyReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+328,org.telegram.ui.Components.CorrectlyMeasuringTextView,ui.Components.CorrectlyMeasuringTextView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+329,org.telegram.ui.Components.ColorSpanUnderline,ui.Components.ColorSpanUnderline,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+330,org.telegram.messenger.AutoMessageHeardReceiver,messenger.AutoMessageHeardReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+331,org.telegram.messenger.support.customtabs.PostMessageService,messenger.support.customtabs.PostMessageService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+332,org.telegram.messenger.AppStartReceiver,messenger.AppStartReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+333,org.telegram.messenger.StopLiveLocationReceiver,messenger.StopLiveLocationReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+334,org.telegram.messenger.RefererReceiver,messenger.RefererReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+335,org.telegram.messenger.DocumentObject,messenger.DocumentObject,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+336,org.telegram.ui.Components.RecyclableDrawable,ui.Components.RecyclableDrawable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+337,org.telegram.messenger.NotificationDismissReceiver,messenger.NotificationDismissReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+338,org.telegram.messenger.voip.VoIPMediaButtonReceiver,messenger.voip.VoIPMediaButtonReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+339,org.telegram.messenger.SmsReceiver,messenger.SmsReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+340,org.telegram.ui.Charts.view_data.StackLinearViewData,ui.Charts.view_data.StackLinearViewData,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+341,org.telegram.ui.Components.JoinGroupAlert,ui.Components.JoinGroupAlert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Interfacer
+342,org.telegram.ui.VoIPFeedbackActivity,ui.VoIPFeedbackActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+343,org.telegram.messenger.ShareBroadcastReceiver,messenger.ShareBroadcastReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+344,org.telegram.ui.Cells.DrawerAddCell,ui.Cells.DrawerAddCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+345,org.telegram.messenger.audioinfo.mp3.ID3v2Exception,messenger.audioinfo.mp3.ID3v2Exception,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+346,org.telegram.messenger.WearReplyReceiver,messenger.WearReplyReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+347,org.telegram.ui.Components.Paint.GLMatrix,ui.Components.Paint.GLMatrix,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+348,org.telegram.ui.ActionBar.DarkAlertDialog,ui.ActionBar.DarkAlertDialog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+349,org.telegram.ui.Cells.DividerCell,ui.Cells.DividerCell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+350,org.telegram.messenger.BringAppForegroundService,messenger.BringAppForegroundService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+351,org.telegram.messenger.voip.Resampler,messenger.voip.Resampler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+352,org.telegram.ui.Components.Paint.Utils,ui.Components.Paint.Utils,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+353,org.telegram.messenger.voip.VoIPActionsReceiver,messenger.voip.VoIPActionsReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+354,org.telegram.ui.Components.ReorderingBulletinLayout,ui.Components.ReorderingBulletinLayout,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+355,org.telegram.messenger.audioinfo.mp3.MP3Exception,messenger.audioinfo.mp3.MP3Exception,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+356,org.telegram.messenger.CallReceiver,messenger.CallReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+357,org.telegram.ui.VoIPPermissionActivity,ui.VoIPPermissionActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+358,org.telegram.messenger.GoogleVoiceClientService,messenger.GoogleVoiceClientService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+359,org.telegram.messenger.voip.TgVoipDex,messenger.voip.TgVoipDex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+360,org.telegram.ui.Components.URLSpanNoUnderlineBold,ui.Components.URLSpanNoUnderlineBold,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

@@ -1,0 +1,19 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,edu.usf.cutr.opentripplanner.android.model.Server,model.Server,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+1,edu.usf.cutr.opentripplanner.android.util.RangeSeekBar,util.RangeSeekBar,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Information Holder
+2,edu.usf.cutr.opentripplanner.android.tasks.ServerChecker,tasks.ServerChecker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+3,edu.usf.cutr.opentripplanner.android.MyActivity,MyActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+4,edu.usf.cutr.opentripplanner.android.fragments.DirectionListFragment,fragments.DirectionListFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+5,edu.usf.cutr.opentripplanner.android.util.DirectionsGenerator,util.DirectionsGenerator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+6,edu.usf.cutr.opentripplanner.android.util.DirectionExpandableListAdapter,util.DirectionExpandableListAdapter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+7,edu.usf.cutr.opentripplanner.android.tasks.TripRequest,tasks.TripRequest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+8,edu.usf.cutr.opentripplanner.android.pois.Nominatim,pois.Nominatim,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+9,edu.usf.cutr.opentripplanner.android.util.LocationUtil,util.LocationUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+10,edu.usf.cutr.opentripplanner.android.pois.GooglePlaces,pois.GooglePlaces,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+11,edu.usf.cutr.opentripplanner.android.tasks.ServerSelector,tasks.ServerSelector,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+12,edu.usf.cutr.opentripplanner.android.util.JacksonConfig,util.JacksonConfig,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+13,edu.usf.cutr.opentripplanner.android.fragments.MainFragment,fragments.MainFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+14,edu.usf.cutr.opentripplanner.android.OTPApp,OTPApp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Information Holder
+15,edu.usf.cutr.opentripplanner.android.AboutPlayServicesActivity,AboutPlayServicesActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+16,edu.usf.cutr.opentripplanner.android.exceptions.ServerListParsingException,exceptions.ServerListParsingException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+17,edu.usf.cutr.opentripplanner.android.AboutActivity,AboutActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

@@ -1,0 +1,125 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,k9mail.src.main.java.com.fsck.k9.controller.SimpleMessagingListener,k9.controller.SimpleMessagingListener,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+1,k9mail.src.main.java.com.fsck.k9.mailstore.BinaryAttachmentBody,k9.mailstore.BinaryAttachmentBody,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+2,k9mail.src.main.java.com.fsck.k9.activity.K9PreferenceActivity,k9.activity.K9PreferenceActivity,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coordinator
+3,k9mail-library.src.main.java.com.fsck.k9.mail.store.webdav.WebDavStoreSettings,k9.mail.store.webdav.WebDavStoreSettings,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+4,k9mail.src.main.java.com.fsck.k9.ui.messageview.MessageContainerView,k9.ui.messageview.MessageContainerView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+5,k9mail-library.src.main.java.com.fsck.k9.mail.ServerSettings,k9.mail.ServerSettings,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+6,k9mail.src.main.java.com.fsck.k9.activity.MessageList,k9.activity.MessageList,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+7,k9mail.src.main.java.com.fsck.k9.activity.ConfirmationDialog,k9.activity.ConfirmationDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+8,k9mail.src.main.java.com.fsck.k9.preferences.SettingsImporter,k9.preferences.SettingsImporter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+9,k9mail.src.main.java.com.fsck.k9.mailstore.CryptoResultAnnotation,k9.mailstore.CryptoResultAnnotation,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+10,k9mail.src.main.java.com.fsck.k9.fragment.MessageListFragment,k9.fragment.MessageListFragment,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+11,k9mail.src.main.java.com.fsck.k9.provider.AttachmentProvider,k9.provider.AttachmentProvider,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+12,k9mail.src.main.java.com.fsck.k9.provider.MessageProvider,k9.provider.MessageProvider,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coordinator
+13,k9mail.src.main.java.com.fsck.k9.activity.compose.RecipientPresenter,k9.activity.compose.RecipientPresenter,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Coordinator
+14,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapStoreSettings,k9.mail.store.imap.ImapStoreSettings,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+15,k9mail.src.main.java.com.fsck.k9.notification.NotificationController,k9.notification.NotificationController,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+16,k9mail.src.main.java.com.fsck.k9.message.PgpMessageBuilder,k9.message.PgpMessageBuilder,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+17,k9mail.src.main.java.com.fsck.k9.mailstore.AttachmentViewInfo,k9.mailstore.AttachmentViewInfo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+18,k9mail.src.main.java.com.fsck.k9.provider.EmailProvider,k9.provider.EmailProvider,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+19,k9mail-library.src.main.java.com.fsck.k9.mail.transport.smtp.EnhancedNegativeSmtpReplyException,k9.mail.transport.smtp.EnhancedNegativeSmtpReplyException,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+20,k9mail.src.main.java.com.fsck.k9.activity.compose.SaveMessageTask,k9.activity.compose.SaveMessageTask,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+21,k9mail.src.main.java.com.fsck.k9.fragment.ConfirmationDialogFragment,k9.fragment.ConfirmationDialogFragment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coordinator
+22,k9mail.src.main.java.com.fsck.k9.helper.MessageHelper,k9.helper.MessageHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+23,k9mail.src.main.java.com.fsck.k9.activity.misc.Attachment,k9.activity.misc.Attachment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+24,k9mail.src.main.java.com.fsck.k9.ui.messageview.CryptoInfoDialog,k9.ui.messageview.CryptoInfoDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+25,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapConnection,k9.mail.store.imap.ImapConnection,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+26,k9mail.src.main.java.com.fsck.k9.mailstore.ThreadInfo,k9.mailstore.ThreadInfo,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+27,k9mail.src.main.java.com.fsck.k9.notification.NotificationContent,k9.notification.NotificationContent,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+28,k9mail.src.main.java.com.fsck.k9.mailstore.migrations.MigrationTo51,k9.mailstore.migrations.MigrationTo51,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+29,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapFolder,k9.mail.store.imap.ImapFolder,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+30,k9mail.src.main.java.com.fsck.k9.mailstore.MessageViewInfo,k9.mailstore.MessageViewInfo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+31,k9mail.src.main.java.com.fsck.k9.helper.MailTo,k9.helper.MailTo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+32,k9mail.src.main.java.com.fsck.k9.message.quote.TextQuoteCreator,k9.message.quote.TextQuoteCreator,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+33,k9mail.src.main.java.com.fsck.k9.notification.NotificationActionCreator,k9.notification.NotificationActionCreator,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+34,k9mail-library.src.main.java.com.fsck.k9.mail.store.webdav.WebDavStore,k9.mail.store.webdav.WebDavStore,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+35,k9mail-library.src.main.java.com.fsck.k9.mail.store.webdav.WebDavSocketFactory,k9.mail.store.webdav.WebDavSocketFactory,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+36,k9mail.src.main.java.com.fsck.k9.controller.MessagingController,k9.controller.MessagingController,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+37,k9mail.src.main.java.com.fsck.k9.Throttle,k9.Throttle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Controller
+38,k9mail.src.main.java.com.fsck.k9.service.CoreReceiver,k9.service.CoreReceiver,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+39,k9mail-library.src.main.java.com.fsck.k9.mail.MessagingException,k9.mail.MessagingException,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+40,k9mail.src.main.java.com.fsck.k9.helper.MergeCursor,k9.helper.MergeCursor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+41,k9mail-library.src.main.java.com.fsck.k9.mail.transport.smtp.NegativeSmtpReplyException,k9.mail.transport.smtp.NegativeSmtpReplyException,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+42,k9mail.src.main.java.com.fsck.k9.view.RigidWebView,k9.view.RigidWebView,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+43,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapList,k9.mail.store.imap.ImapList,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Structurer
+44,k9mail.src.main.java.com.fsck.k9.search.ConditionsTreeNode,k9.search.ConditionsTreeNode,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Structurer
+45,k9mail.src.main.java.com.fsck.k9.activity.FolderInfoHolder,k9.activity.FolderInfoHolder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+46,k9mail.src.main.java.com.fsck.k9.activity.MessageInfoHolder,k9.activity.MessageInfoHolder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+47,k9mail.src.main.java.com.fsck.k9.fragment.MessageViewHolder,k9.fragment.MessageViewHolder,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Interfacer
+48,k9mail-library.src.main.java.com.fsck.k9.mail.store.webdav.HttpGeneric,k9.mail.store.webdav.HttpGeneric,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+49,k9mail-library.src.main.java.com.fsck.k9.mail.power.TracingPowerManager,k9.mail.power.TracingPowerManager,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+50,k9mail.src.main.java.com.fsck.k9.activity.setup.SpinnerOption,k9.activity.setup.SpinnerOption,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+51,k9mail.src.main.java.com.fsck.k9.activity.MessageCompose,k9.activity.MessageCompose,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Controller
+52,k9mail.src.main.java.com.fsck.k9.K9,k9.K9,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,Controller
+53,k9mail.src.main.java.com.fsck.k9.AccountStats,k9.AccountStats,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Information Holder
+54,k9mail-library.src.main.java.com.fsck.k9.mail.K9MailLib,k9.mail.K9MailLib,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Information Holder
+55,k9mail-library.src.main.java.com.fsck.k9.mail.store.webdav.ConnectionInfo,k9.mail.store.webdav.ConnectionInfo,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Information Holder
+56,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapResponseParser,k9.mail.store.imap.ImapResponseParser,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+57,k9mail.src.main.java.com.fsck.k9.mailstore.LocalFolder,k9.mailstore.LocalFolder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+58,k9mail-library.src.main.java.com.fsck.k9.mail.FetchProfile,k9.mail.FetchProfile,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Structurer
+59,k9mail-library.src.main.java.com.fsck.k9.mail.Folder,k9.mail.Folder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+60,k9mail-library.src.main.java.com.fsck.k9.mail.Flag,k9.mail.Flag,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+61,k9mail.src.main.java.com.fsck.k9.search.LocalSearch,k9.search.LocalSearch,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+62,k9mail-library.src.main.java.com.fsck.k9.mail.transport.smtp.SmtpTransport,k9.mail.transport.smtp.SmtpTransport,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+63,k9mail.src.main.java.com.fsck.k9.view.MessageCryptoDisplayStatus,k9.view.MessageCryptoDisplayStatus,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+64,k9mail.src.main.java.com.fsck.k9.view.MessageHeader,k9.view.MessageHeader,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+65,k9mail.src.main.java.com.fsck.k9.activity.compose.RecipientMvpView,k9.activity.compose.RecipientMvpView,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+66,k9mail.src.main.java.com.fsck.k9.view.RecipientSelectView,k9.view.RecipientSelectView,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+67,k9mail.src.main.java.com.fsck.k9.notification.NotificationData,k9.notification.NotificationData,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+68,k9mail.src.main.java.com.fsck.k9.notification.NotificationHolder,k9.notification.NotificationHolder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+69,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapCommandSplitter,k9.mail.store.imap.ImapCommandSplitter,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Structurer
+70,k9mail.src.main.java.com.fsck.k9.Identity,k9.Identity,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+71,k9mail.src.main.java.com.fsck.k9.Account,k9.Account,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+72,k9mail.src.main.java.com.fsck.k9.NotificationSetting,k9.NotificationSetting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+73,k9mail.src.main.java.com.fsck.k9.FontSizes,k9.FontSizes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Information Holder
+74,k9mail.src.main.java.com.fsck.k9.activity.setup.AccountSetupBasics,k9.activity.setup.AccountSetupBasics,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Interfacer
+75,k9mail-library.src.main.java.com.fsck.k9.mail.Message,k9.mail.Message,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Structurer
+76,k9mail.src.main.java.com.fsck.k9.message.MessageBuilder,k9.message.MessageBuilder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+77,k9mail.src.main.java.com.fsck.k9.message.SimpleMessageFormat,k9.message.SimpleMessageFormat,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+78,k9mail.src.main.java.com.fsck.k9.message.QuotedTextMode,k9.message.QuotedTextMode,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Information Holder
+79,k9mail.src.main.java.com.fsck.k9.message.IdentityHeaderBuilder,k9.message.IdentityHeaderBuilder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Service Provider
+80,k9mail.src.main.java.com.fsck.k9.mailstore.LocalStore,k9.mailstore.LocalStore,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+81,k9mail.src.main.java.com.fsck.k9.activity.Search,k9.activity.Search,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Interfacer
+82,k9mail.src.main.java.com.fsck.k9.activity.ActivityListener,k9.activity.ActivityListener,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+83,k9mail.src.main.java.com.fsck.k9.notification.NewMailNotifications,k9.notification.NewMailNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+84,k9mail.src.main.java.com.fsck.k9.activity.setup.AccountSettings,k9.activity.setup.AccountSettings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+85,k9mail-library.src.main.java.com.fsck.k9.mail.store.webdav.WebDavFolder,k9.mail.store.webdav.WebDavFolder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+86,k9mail.src.main.java.com.fsck.k9.ui.crypto.MessageCryptoHelper,k9.ui.crypto.MessageCryptoHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+87,k9mail.src.main.java.com.fsck.k9.activity.setup.AccountSetupIncoming,k9.activity.setup.AccountSetupIncoming,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+88,k9mail.src.main.java.com.fsck.k9.preferences.SettingsExporter,k9.preferences.SettingsExporter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+89,k9mail.src.main.java.com.fsck.k9.notification.LockScreenNotification,k9.notification.LockScreenNotification,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+90,k9mail.src.main.java.com.fsck.k9.ui.messageview.MessageTopView,k9.ui.messageview.MessageTopView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+91,k9mail.src.main.java.com.fsck.k9.notification.DeviceNotifications,k9.notification.DeviceNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+92,k9mail.src.main.java.com.fsck.k9.message.html.HtmlConverter,k9.message.html.HtmlConverter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+93,k9mail.src.main.java.com.fsck.k9.activity.Accounts,k9.activity.Accounts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+94,k9mail.src.main.java.com.fsck.k9.notification.BaseNotifications,k9.notification.BaseNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+95,k9mail.src.main.java.com.fsck.k9.notification.WearNotifications,k9.notification.WearNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+96,k9mail.src.main.java.com.fsck.k9.remotecontrol.K9RemoteControl,k9.remotecontrol.K9RemoteControl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+97,k9mail.src.main.java.com.fsck.k9.activity.compose.RecipientLoader,k9.activity.compose.RecipientLoader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+98,k9mail.src.main.java.com.fsck.k9.notification.AuthenticationErrorNotifications,k9.notification.AuthenticationErrorNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+99,k9mail-library.src.main.java.com.fsck.k9.mail.transport.smtp.StatusCodeDetail,k9.mail.transport.smtp.StatusCodeDetail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+100,k9mail.src.main.java.com.fsck.k9.ui.compose.QuotedMessagePresenter,k9.ui.compose.QuotedMessagePresenter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+101,k9mail.src.main.java.com.fsck.k9.activity.NotificationDeleteConfirmation,k9.activity.NotificationDeleteConfirmation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+102,k9mail.src.main.java.com.fsck.k9.activity.setup.AccountSetupCheckSettings,k9.activity.setup.AccountSetupCheckSettings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+103,k9mail-library.src.main.java.com.fsck.k9.mail.filter.Base64,k9.mail.filter.Base64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+104,k9mail-library.src.main.java.com.fsck.k9.mail.store.pop3.Pop3Store,k9.mail.store.pop3.Pop3Store,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+105,k9mail.src.main.java.com.fsck.k9.activity.FolderList,k9.activity.FolderList,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+106,k9mail.src.main.java.com.fsck.k9.ui.messageview.MessageViewFragment,k9.ui.messageview.MessageViewFragment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+107,k9mail.src.main.java.com.fsck.k9.activity.setup.SliderPreference,k9.activity.setup.SliderPreference,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+108,k9mail.src.main.java.com.fsck.k9.notification.SendFailedNotifications,k9.notification.SendFailedNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+109,k9mail.src.main.java.com.fsck.k9.notification.SyncNotifications,k9.notification.SyncNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+110,k9mail.src.main.java.com.fsck.k9.service.MailService,k9.service.MailService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+111,k9mail.src.main.java.com.fsck.k9.activity.setup.AccountSetupOutgoing,k9.activity.setup.AccountSetupOutgoing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+112,k9mail.src.main.java.com.fsck.k9.notification.CertificateErrorNotifications,k9.notification.CertificateErrorNotifications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+113,k9mail.src.main.java.com.fsck.k9.activity.setup.Prefs,k9.activity.setup.Prefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+114,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapStore,k9.mail.store.imap.ImapStore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+115,k9mail.src.main.java.com.fsck.k9.activity.MessageLoaderHelper,k9.activity.MessageLoaderHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+116,k9mail.src.main.java.com.fsck.k9.activity.compose.AttachmentPresenter,k9.activity.compose.AttachmentPresenter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+117,k9mail.src.main.java.com.fsck.k9.activity.setup.FontSizeSettings,k9.activity.setup.FontSizeSettings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+118,k9mail-library.src.main.java.com.fsck.k9.mail.internet.MimeMessage,k9.mail.internet.MimeMessage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Coordinator
+119,k9mail.src.main.java.com.fsck.k9.notification.NotificationActionService,k9.notification.NotificationActionService,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+120,k9mail.src.main.java.com.fsck.k9.mailstore.LocalMessage,k9.mailstore.LocalMessage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+121,k9mail.src.main.java.com.fsck.k9.message.extractors.PreviewExtractionException,k9.message.extractors.PreviewExtractionException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+122,k9mail.src.main.java.com.fsck.k9.fragment.MessageListFragmentComparators,k9.fragment.MessageListFragmentComparators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+123,k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapResponseParserException,k9.mail.store.imap.ImapResponseParserException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder

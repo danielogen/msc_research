@@ -1,0 +1,506 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,org.argouml.kernel.AbstractCommand,argouml.kernel.AbstractCommand,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+1,org.argouml.application.api.AbstractArgoJPanel,argouml.application.api.AbstractArgoJPanel,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+2,org.argouml.uml.diagram.ui.ActionNavigability,argouml.uml.diagram.ui.ActionNavigability,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+3,org.argouml.uml.diagram.ui.ActionSetAddAssociationMode,argouml.uml.diagram.ui.ActionSetAddAssociationMode,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+4,org.argouml.uml.diagram.ui.FigEdgeAssociationClass,argouml.uml.diagram.ui.FigEdgeAssociationClass,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+5,org.argouml.persistence.XmiInputStream,argouml.persistence.XmiInputStream,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+6,org.argouml.uml.diagram.state.ui.FigSimpleState,argouml.uml.diagram.state.ui.FigSimpleState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+7,org.argouml.cognitive.checklist.CheckItem,argouml.cognitive.checklist.CheckItem,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+8,org.argouml.uml.diagram.ui.FigSingleLineTextWithNotation,argouml.uml.diagram.ui.FigSingleLineTextWithNotation,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+9,org.argouml.uml.diagram.ui.FigNodeModelElement,argouml.uml.diagram.ui.FigNodeModelElement,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+10,org.argouml.uml.diagram.collaboration.ui.SelectionClassifierRole,argouml.uml.diagram.collaboration.ui.SelectionClassifierRole,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+11,org.argouml.ui.CheckboxTableModel,argouml.ui.CheckboxTableModel,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+12,org.argouml.uml.diagram.ui.SelectionNodeClarifiers2,argouml.uml.diagram.ui.SelectionNodeClarifiers2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+13,org.argouml.notation.providers.uml.AssociationEndNameNotationUml,argouml.notation.providers.uml.AssociationEndNameNotationUml,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+14,org.argouml.ui.TreeModelSupport,argouml.ui.TreeModelSupport,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+15,org.argouml.configuration.Configuration,argouml.configuration.Configuration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+16,org.argouml.ui.ActionCreateEdgeModelElement,argouml.ui.ActionCreateEdgeModelElement,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+17,org.argouml.uml.diagram.ui.FigNodeAssociation,argouml.uml.diagram.ui.FigNodeAssociation,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+18,org.argouml.gefext.ArgoFigRect,argouml.gefext.ArgoFigRect,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+19,org.argouml.gefext.ArgoModeCreateFigRRect,argouml.gefext.ArgoModeCreateFigRRect,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+20,org.argouml.uml.diagram.activity.ui.FigPartition,argouml.uml.diagram.activity.ui.FigPartition,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+21,org.argouml.uml.diagram.ui.FigClassAssociationClass,argouml.uml.diagram.ui.FigClassAssociationClass,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+22,org.argouml.uml.diagram.ui.UMLDiagram,argouml.uml.diagram.ui.UMLDiagram,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+23,org.argouml.gefext.ArgoFigCircle,argouml.gefext.ArgoFigCircle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+24,org.argouml.uml.diagram.deployment.ui.FigComponent,argouml.uml.diagram.deployment.ui.FigComponent,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+25,org.argouml.util.MyTokenizer,argouml.util.MyTokenizer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+26,org.argouml.uml.generator.SourceUnit,argouml.uml.generator.SourceUnit,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+27,org.argouml.persistence.PgmlUtility,argouml.persistence.PgmlUtility,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+28,org.argouml.uml.cognitive.UMLToDoItem,argouml.uml.cognitive.UMLToDoItem,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+29,org.argouml.uml.diagram.deployment.ui.CubePortFigRect,argouml.uml.diagram.deployment.ui.CubePortFigRect,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+30,org.argouml.ui.StylePanelFig,argouml.ui.StylePanelFig,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+31,org.argouml.uml.diagram.ui.FigEmptyRect,argouml.uml.diagram.ui.FigEmptyRect,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+32,org.argouml.uml.diagram.deployment.ui.FigObject,argouml.uml.diagram.deployment.ui.FigObject,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+33,org.argouml.uml.generator.AbstractSection,argouml.uml.generator.AbstractSection,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+34,org.argouml.uml.diagram.ui.ActionStereotypeView,argouml.uml.diagram.ui.ActionStereotypeView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+35,org.argouml.ui.StatusBar,argouml.ui.StatusBar,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+36,org.argouml.gefext.ArgoModeCreateFigPoly,argouml.gefext.ArgoModeCreateFigPoly,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+37,org.argouml.uml.generator.Language,argouml.uml.generator.Language,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+38,org.argouml.uml.generator.GeneratorHelper,argouml.uml.generator.GeneratorHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+39,org.argouml.uml.diagram.state.ui.FigSubmachineState,argouml.uml.diagram.state.ui.FigSubmachineState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+40,org.argouml.uml.cognitive.critics.ClClassName,argouml.uml.cognitive.critics.ClClassName,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+41,org.argouml.notation.NotationProviderFactory2,argouml.notation.NotationProviderFactory2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+42,org.argouml.uml.diagram.state.ui.FigConcurrentRegion,argouml.uml.diagram.state.ui.FigConcurrentRegion,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+43,org.argouml.uml.diagram.state.ui.FigFinalState,argouml.uml.diagram.state.ui.FigFinalState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+44,org.argouml.uml.diagram.collaboration.ui.UMLCollaborationDiagram,argouml.uml.diagram.collaboration.ui.UMLCollaborationDiagram,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+45,org.argouml.ui.DisplayTextTree,argouml.ui.DisplayTextTree,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+46,org.argouml.uml.ui.UMLCheckBox2,argouml.uml.ui.UMLCheckBox2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+47,org.argouml.uml.StereotypeUtility,argouml.uml.StereotypeUtility,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+48,org.argouml.ui.ProjectBrowser,argouml.ui.ProjectBrowser,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Controller
+49,org.argouml.uml.diagram.ui.ActionCompartmentDisplay,argouml.uml.diagram.ui.ActionCompartmentDisplay,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+50,org.argouml.uml.diagram.activity.ui.FigActionState,argouml.uml.diagram.activity.ui.FigActionState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+51,org.argouml.notation.NotationNameImpl,argouml.notation.NotationNameImpl,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+52,org.argouml.cognitive.ui.WizStepManyTextFields,argouml.cognitive.ui.WizStepManyTextFields,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+53,org.argouml.uml.diagram.ui.FigEnumLiteralsCompartment,argouml.uml.diagram.ui.FigEnumLiteralsCompartment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+54,org.argouml.kernel.ProjectManager,argouml.kernel.ProjectManager,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+55,org.argouml.uml.diagram.state.ui.FigSynchState,argouml.uml.diagram.state.ui.FigSynchState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+56,org.argouml.uml.ui.UMLStereotypeListModel,argouml.uml.ui.UMLStereotypeListModel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+57,org.argouml.uml.diagram.ui.FigEdgePort,argouml.uml.diagram.ui.FigEdgePort,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+58,org.argouml.notation.providers.uml.OperationNotationUml,argouml.notation.providers.uml.OperationNotationUml,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+59,org.argouml.uml.diagram.deployment.ui.AbstractFigComponent,argouml.uml.diagram.deployment.ui.AbstractFigComponent,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+60,org.argouml.uml.reveng.ui.ImportStatusScreen,argouml.uml.reveng.ui.ImportStatusScreen,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+61,org.argouml.ui.cmd.ActionWrapper,argouml.ui.cmd.ActionWrapper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+62,org.argouml.gefext.ArgoFigPoly,argouml.gefext.ArgoFigPoly,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+63,org.argouml.ui.SplashScreen,argouml.ui.SplashScreen,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+64,org.argouml.uml.diagram.ui.FigStereotype,argouml.uml.diagram.ui.FigStereotype,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+65,org.argouml.uml.diagram.activity.ui.FigPool,argouml.uml.diagram.activity.ui.FigPool,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+66,org.argouml.ui.SettingsTabLayout,argouml.ui.SettingsTabLayout,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coordinator
+67,org.argouml.profile.internal.FormatingStrategyUML,argouml.profile.internal.FormatingStrategyUML,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+68,org.argouml.uml.diagram.ui.ActionSetMode,argouml.uml.diagram.ui.ActionSetMode,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+69,org.argouml.uml.diagram.ui.ActionAddNote,argouml.uml.diagram.ui.ActionAddNote,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+70,org.argouml.uml.diagram.ui.FigNameWithAbstract,argouml.uml.diagram.ui.FigNameWithAbstract,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+71,org.argouml.uml.diagram.ui.ModeCreateGraphEdge,argouml.uml.diagram.ui.ModeCreateGraphEdge,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+72,org.argouml.uml.diagram.ui.FigMultiLineText,argouml.uml.diagram.ui.FigMultiLineText,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+73,org.argouml.gefext.ArgoFigLine,argouml.gefext.ArgoFigLine,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+74,org.argouml.notation.providers.uml.AttributeNotationUml,argouml.notation.providers.uml.AttributeNotationUml,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+75,org.argouml.uml.cognitive.checklist.UMLCheckItem,argouml.uml.cognitive.checklist.UMLCheckItem,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+76,org.argouml.ui.ProgressMonitorWindow,argouml.ui.ProgressMonitorWindow,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+77,org.argouml.uml.diagram.state.ui.FigBranchState,argouml.uml.diagram.state.ui.FigBranchState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+78,org.argouml.uml.reveng.Import,argouml.uml.reveng.Import,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+79,org.argouml.uml.ui.UMLEditableComboBox,argouml.uml.ui.UMLEditableComboBox,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+80,org.argouml.uml.cognitive.critics.ClOperationCompartment,argouml.uml.cognitive.critics.ClOperationCompartment,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+81,org.argouml.uml.diagram.ui.ModeCreateAssociationClass,argouml.uml.diagram.ui.ModeCreateAssociationClass,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+82,org.argouml.profile.internal.ocl.CrOCL,argouml.profile.internal.ocl.CrOCL,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+83,org.argouml.application.helpers.ResourceLoader,argouml.application.helpers.ResourceLoader,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+84,org.argouml.cognitive.ui.WizStepTextField,argouml.cognitive.ui.WizStepTextField,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+85,org.argouml.persistence.ProfileConfigurationFilePersister,argouml.persistence.ProfileConfigurationFilePersister,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+86,org.argouml.ui.SaveSwingWorker,argouml.ui.SaveSwingWorker,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+87,org.argouml.uml.diagram.ui.ModeCreateAssociation,argouml.uml.diagram.ui.ModeCreateAssociation,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+88,org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer,argouml.uml.diagram.activity.ui.ActivityDiagramRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+89,org.argouml.cognitive.ui.ToDoTreeRenderer,argouml.cognitive.ui.ToDoTreeRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+90,org.argouml.uml.diagram.deployment.ui.AbstractFigNode,argouml.uml.diagram.deployment.ui.AbstractFigNode,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+91,org.argouml.profile.internal.ocl.DefaultOclEvaluator,argouml.profile.internal.ocl.DefaultOclEvaluator,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+92,org.argouml.uml.diagram.ui.AddExistingNodeCommand,argouml.uml.diagram.ui.AddExistingNodeCommand,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+93,org.argouml.uml.diagram.ui.FigOperationsCompartment,argouml.uml.diagram.ui.FigOperationsCompartment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+94,org.argouml.persistence.AbstractFilePersister,argouml.persistence.AbstractFilePersister,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+95,org.argouml.profile.UserDefinedProfile,argouml.profile.UserDefinedProfile,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Structurer
+96,org.argouml.uml.diagram.ArgoDiagramImpl,argouml.uml.diagram.ArgoDiagramImpl,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+97,org.argouml.uml.diagram.state.ui.FigStubState,argouml.uml.diagram.state.ui.FigStubState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+98,org.argouml.gefext.ArgoModeCreateFigSpline,argouml.gefext.ArgoModeCreateFigSpline,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+99,org.argouml.cognitive.Critic,argouml.cognitive.Critic,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+100,org.argouml.uml.diagram.ui.ActionAggregation,argouml.uml.diagram.ui.ActionAggregation,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+101,org.argouml.ui.explorer.ExplorerTree,argouml.ui.explorer.ExplorerTree,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+102,org.argouml.uml.diagram.UMLMutableGraphSupport,argouml.uml.diagram.UMLMutableGraphSupport,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+103,org.argouml.gefext.ArgoModeCreateFigInk,argouml.gefext.ArgoModeCreateFigInk,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+104,org.argouml.cognitive.critics.ui.TableModelCritics,argouml.cognitive.critics.ui.TableModelCritics,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+105,org.argouml.uml.diagram.ui.FigCompartmentBox,argouml.uml.diagram.ui.FigCompartmentBox,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+106,org.argouml.uml.diagram.activity.ui.UMLActivityDiagram,argouml.uml.diagram.activity.ui.UMLActivityDiagram,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+107,org.argouml.persistence.SAXParserBase,argouml.persistence.SAXParserBase,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+108,org.argouml.profile.internal.ocl.CompositeModelInterpreter,argouml.profile.internal.ocl.CompositeModelInterpreter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+109,org.argouml.ui.ExceptionDialog,argouml.ui.ExceptionDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+110,org.argouml.ui.ArgoToolbarManager,argouml.ui.ArgoToolbarManager,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+111,org.argouml.ui.cmd.ActionAdjustGrid,argouml.ui.cmd.ActionAdjustGrid,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+112,org.argouml.uml.diagram.state.StateDiagramGraphModel,argouml.uml.diagram.state.StateDiagramGraphModel,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+113,org.argouml.uml.diagram.ui.FigAssociation,argouml.uml.diagram.ui.FigAssociation,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+114,org.argouml.uml.ui.UMLModelElementListModel2,argouml.uml.ui.UMLModelElementListModel2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+115,org.argouml.uml.DocumentationManager,argouml.uml.DocumentationManager,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+116,org.argouml.uml.diagram.state.ui.FigShallowHistoryState,argouml.uml.diagram.state.ui.FigShallowHistoryState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+117,org.argouml.cognitive.ResolvedCritic,argouml.cognitive.ResolvedCritic,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+118,org.argouml.persistence.XMLElement,argouml.persistence.XMLElement,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+119,org.argouml.uml.ui.UMLModelElementTaggedValueProxy,argouml.uml.ui.UMLModelElementTaggedValueProxy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+120,org.argouml.uml.diagram.ui.PathConvPercent2,argouml.uml.diagram.ui.PathConvPercent2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+121,org.argouml.uml.diagram.activity.ui.FigSubactivityState,argouml.uml.diagram.activity.ui.FigSubactivityState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+122,org.argouml.uml.ui.TabTaggedValuesModel,argouml.uml.ui.TabTaggedValuesModel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+123,org.argouml.gefext.ArgoModeCreateFigRect,argouml.gefext.ArgoModeCreateFigRect,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+124,org.argouml.cognitive.CompoundCritic,argouml.cognitive.CompoundCritic,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+125,org.argouml.configuration.ConfigurationKeyImpl,argouml.configuration.ConfigurationKeyImpl,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+126,org.argouml.ui.ActionCreateContainedModelElement,argouml.ui.ActionCreateContainedModelElement,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+127,org.argouml.uml.ui.ActionSaveGraphics,argouml.uml.ui.ActionSaveGraphics,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+128,org.argouml.ui.explorer.ExplorerTreeModel,argouml.ui.explorer.ExplorerTreeModel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+129,org.argouml.uml.diagram.ui.FigProfileIcon,argouml.uml.diagram.ui.FigProfileIcon,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+130,org.argouml.uml.diagram.state.ui.FigJoinState,argouml.uml.diagram.state.ui.FigJoinState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+131,org.argouml.ui.targetmanager.TargetEvent,argouml.ui.targetmanager.TargetEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+132,org.argouml.uml.diagram.ui.PathItemPlacement,argouml.uml.diagram.ui.PathItemPlacement,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+133,org.argouml.uml.diagram.ui.FigNameWithAbstractAndBold,argouml.uml.diagram.ui.FigNameWithAbstractAndBold,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+134,org.argouml.uml.diagram.state.ui.FigCompositeState,argouml.uml.diagram.state.ui.FigCompositeState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+135,org.argouml.ui.ArgoJFontChooser,argouml.ui.ArgoJFontChooser,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+136,org.argouml.util.osdep.OSXAdapter,argouml.util.osdep.OSXAdapter,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Service Provider
+137,org.argouml.kernel.ProjectSettings,argouml.kernel.ProjectSettings,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+138,org.argouml.uml.diagram.ui.ArgoModeCreateFigText,argouml.uml.diagram.ui.ArgoModeCreateFigText,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+139,org.argouml.uml.diagram.UmlDiagramRenderer,argouml.uml.diagram.UmlDiagramRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+140,org.argouml.ui.cmd.RelationshipActionFactory,argouml.ui.cmd.RelationshipActionFactory,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+141,org.argouml.cognitive.ToDoItem,argouml.cognitive.ToDoItem,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+142,org.argouml.uml.diagram.activity.layout.ActivityDiagramLayouter,argouml.uml.diagram.activity.layout.ActivityDiagramLayouter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+143,org.argouml.application.Main,argouml.application.Main,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+144,org.argouml.uml.diagram.DiagramFactory,argouml.uml.diagram.DiagramFactory,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+145,org.argouml.cognitive.Designer,argouml.cognitive.Designer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+146,org.argouml.uml.diagram.state.ui.FigJunctionState,argouml.uml.diagram.state.ui.FigJunctionState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+147,org.argouml.gefext.DeferredBufferedImage,argouml.gefext.DeferredBufferedImage,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+148,org.argouml.profile.internal.ocl.uml14.ModelAccessModelInterpreter,argouml.profile.internal.ocl.uml14.ModelAccessModelInterpreter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+149,org.argouml.uml.cognitive.critics.ClAttributeCompartment,argouml.uml.cognitive.critics.ClAttributeCompartment,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+150,org.argouml.persistence.ZargoFilePersister,argouml.persistence.ZargoFilePersister,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+151,org.argouml.uml.ui.UMLTreeCellRenderer,argouml.uml.ui.UMLTreeCellRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+152,org.argouml.uml.diagram.ui.FigExtensionPointsCompartment,argouml.uml.diagram.ui.FigExtensionPointsCompartment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+153,org.argouml.uml.cognitive.checklist.Init,argouml.uml.cognitive.checklist.Init,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+154,org.argouml.uml.reveng.FileImportUtils,argouml.uml.reveng.FileImportUtils,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+155,org.argouml.persistence.XmiFilePersister,argouml.persistence.XmiFilePersister,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+156,org.argouml.uml.diagram.ui.CompartmentFigText,argouml.uml.diagram.ui.CompartmentFigText,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+157,org.argouml.uml.ui.UMLSearchableComboBox,argouml.uml.ui.UMLSearchableComboBox,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+158,org.argouml.application.events.ArgoStatusEvent,argouml.application.events.ArgoStatusEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+159,org.argouml.uml.diagram.state.ui.FigDeepHistoryState,argouml.uml.diagram.state.ui.FigDeepHistoryState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+160,org.argouml.swingext.LeftArrowIcon,argouml.swingext.LeftArrowIcon,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+161,org.argouml.uml.diagram.state.ui.FigStateVertex,argouml.uml.diagram.state.ui.FigStateVertex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+162,org.argouml.notation.providers.uml.NotationUtilityUml,argouml.notation.providers.uml.NotationUtilityUml,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Service Provider
+163,org.argouml.uml.diagram.ui.FigAttributesCompartment,argouml.uml.diagram.ui.FigAttributesCompartment,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+164,org.argouml.uml.diagram.ui.ActionAddAssociationRole,argouml.uml.diagram.ui.ActionAddAssociationRole,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+165,org.argouml.uml.PredicateSearch,argouml.uml.PredicateSearch,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+166,org.argouml.profile.internal.ocl.uml14.CollectionsModelInterpreter,argouml.profile.internal.ocl.uml14.CollectionsModelInterpreter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+167,org.argouml.cognitive.ListSet,argouml.cognitive.ListSet,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+168,org.argouml.uml.diagram.ui.FigKeyword,argouml.uml.diagram.ui.FigKeyword,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+169,org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer,argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+170,org.argouml.uml.diagram.ui.FigStereotypesGroup,argouml.uml.diagram.ui.FigStereotypesGroup,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+171,org.argouml.uml.diagram.layout.LayoutHelper,argouml.uml.diagram.layout.LayoutHelper,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+172,org.argouml.uml.diagram.state.ui.FigInitialState,argouml.uml.diagram.state.ui.FigInitialState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+173,org.argouml.uml.diagram.ui.ModeCreateAssociationEnd,argouml.uml.diagram.ui.ModeCreateAssociationEnd,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+174,org.argouml.profile.internal.ocl.uml14.OclAPIModelInterpreter,argouml.profile.internal.ocl.uml14.OclAPIModelInterpreter,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+175,org.argouml.ui.cmd.ShortcutMgr,argouml.ui.cmd.ShortcutMgr,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+176,org.argouml.notation.providers.uml.AssociationNameNotationUml,argouml.notation.providers.uml.AssociationNameNotationUml,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+177,org.argouml.util.ArgoDialog,argouml.util.ArgoDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+178,org.argouml.persistence.PersistenceManager,argouml.persistence.PersistenceManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+179,org.argouml.gefext.ArgoModeCreateFigLine,argouml.gefext.ArgoModeCreateFigLine,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+180,org.argouml.gefext.ArgoModeCreateFigCircle,argouml.gefext.ArgoModeCreateFigCircle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+181,org.argouml.cognitive.ui.WizStepChoice,argouml.cognitive.ui.WizStepChoice,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+182,org.argouml.uml.ui.PropPanel,argouml.uml.ui.PropPanel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+183,org.argouml.uml.ui.UMLPlainTextDocument,argouml.uml.ui.UMLPlainTextDocument,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+184,org.argouml.uml.diagram.ui.ArgoFigUtil,argouml.uml.diagram.ui.ArgoFigUtil,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+185,org.argouml.ocl.OCLEvaluator,argouml.ocl.OCLEvaluator,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+186,org.argouml.application.events.ArgoHelpEvent,argouml.application.events.ArgoHelpEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+187,org.argouml.notation.NotationProvider,argouml.notation.NotationProvider,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+188,org.argouml.uml.diagram.activity.ui.ModePlacePartition,argouml.uml.diagram.activity.ui.ModePlacePartition,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+189,org.argouml.taskmgmt.ProgressEvent,argouml.taskmgmt.ProgressEvent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+190,org.argouml.uml.ui.UMLComboBox2,argouml.uml.ui.UMLComboBox2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+191,org.argouml.uml.diagram.activity.ui.FigCallState,argouml.uml.diagram.activity.ui.FigCallState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+192,org.argouml.gefext.ArgoFigSpline,argouml.gefext.ArgoFigSpline,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+193,org.argouml.uml.ui.UMLLinkedListCellRenderer,argouml.uml.ui.UMLLinkedListCellRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+194,org.argouml.persistence.PrivateHandler,argouml.persistence.PrivateHandler,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+195,org.argouml.notation.providers.uml.ModelElementNameNotationUml,argouml.notation.providers.uml.ModelElementNameNotationUml,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+196,org.argouml.cognitive.Agency,argouml.cognitive.Agency,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+197,org.argouml.uml.ui.LabelledLayout,argouml.uml.ui.LabelledLayout,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+198,org.argouml.uml.diagram.state.ui.FigHistoryState,argouml.uml.diagram.state.ui.FigHistoryState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+199,org.argouml.persistence.XmlInputStream,argouml.persistence.XmlInputStream,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+200,org.argouml.uml.diagram.deployment.ui.FigNodeInstance,argouml.uml.diagram.deployment.ui.FigNodeInstance,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+201,org.argouml.util.PredicateType,argouml.util.PredicateType,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+202,org.argouml.persistence.UmlFilePersister,argouml.persistence.UmlFilePersister,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+203,org.argouml.uml.diagram.state.ui.FigState,argouml.uml.diagram.state.ui.FigState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+204,org.argouml.profile.init.ProfileLoader,argouml.profile.init.ProfileLoader,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+205,org.argouml.notation.providers.uml.AbstractMessageNotationUml,argouml.notation.providers.uml.AbstractMessageNotationUml,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+206,org.argouml.cognitive.critics.ui.TableCritics,argouml.cognitive.critics.ui.TableCritics,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+207,org.argouml.uml.diagram.deployment.ui.UMLDeploymentDiagram,argouml.uml.diagram.deployment.ui.UMLDeploymentDiagram,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+208,org.argouml.uml.ui.UMLAddDialog,argouml.uml.ui.UMLAddDialog,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+209,org.argouml.uml.diagram.state.ui.FigForkState,argouml.uml.diagram.state.ui.FigForkState,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+210,org.argouml.notation.providers.uml.EnumerationLiteralNotationUml,argouml.notation.providers.uml.EnumerationLiteralNotationUml,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+211,org.argouml.gefext.ArgoFigInk,argouml.gefext.ArgoFigInk,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+212,org.argouml.uml.diagram.deployment.ui.FigMNode,argouml.uml.diagram.deployment.ui.FigMNode,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+213,org.argouml.uml.reveng.ConfigPanelExtension,argouml.uml.reveng.ConfigPanelExtension,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+214,org.argouml.uml.diagram.ui.FigMessage,argouml.uml.diagram.ui.FigMessage,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+215,org.argouml.swingext.UpArrowIcon,argouml.swingext.UpArrowIcon,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+216,org.argouml.uml.diagram.deployment.ui.FigComponentInstance,argouml.uml.diagram.deployment.ui.FigComponentInstance,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+217,org.argouml.persistence.ModelMemberFilePersister,argouml.persistence.ModelMemberFilePersister,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+218,org.argouml.uml.ui.UMLStereotypeList,argouml.uml.ui.UMLStereotypeList,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+219,org.argouml.profile.internal.ocl.EvaluateExpression,argouml.profile.internal.ocl.EvaluateExpression,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+220,org.argouml.uml.ui.UMLComboBoxModel2,argouml.uml.ui.UMLComboBoxModel2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+221,org.argouml.uml.reveng.ImportCommon,argouml.uml.reveng.ImportCommon,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+222,org.argouml.uml.diagram.state.ui.FigVertex,argouml.uml.diagram.state.ui.FigVertex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+223,org.argouml.uml.diagram.ui.FigMultiLineTextWithBold,argouml.uml.diagram.ui.FigMultiLineTextWithBold,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+224,org.argouml.uml.diagram.ui.ArgoFigText,argouml.uml.diagram.ui.ArgoFigText,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+225,org.argouml.uml.diagram.state.ui.StateDiagramRenderer,argouml.uml.diagram.state.ui.StateDiagramRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+226,org.argouml.uml.TMResults,argouml.uml.TMResults,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+227,org.argouml.uml.diagram.activity.ui.FigObjectFlowState,argouml.uml.diagram.activity.ui.FigObjectFlowState,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+228,org.argouml.swingext.JLinkButton,argouml.swingext.JLinkButton,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+229,org.argouml.persistence.PGMLStackParser,argouml.persistence.PGMLStackParser,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+230,org.argouml.gefext.ArgoFigRRect,argouml.gefext.ArgoFigRRect,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+231,org.argouml.ocl.CriticOclEvaluator,argouml.ocl.CriticOclEvaluator,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+232,org.argouml.notation.Notation,argouml.notation.Notation,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+233,org.argouml.uml.diagram.ui.FigSingleLineText,argouml.uml.diagram.ui.FigSingleLineText,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+234,org.argouml.uml.ui.UMLRadioButtonPanel,argouml.uml.ui.UMLRadioButtonPanel,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+235,org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer,argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+236,org.argouml.uml.diagram.ui.FigCompartment,argouml.uml.diagram.ui.FigCompartment,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+237,org.argouml.uml.diagram.collaboration.ui.FigClassifierRole,argouml.uml.diagram.collaboration.ui.FigClassifierRole,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+238,org.argouml.ui.explorer.ExplorerPopup,argouml.ui.explorer.ExplorerPopup,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+239,org.argouml.uml.ui.UMLListCellRenderer2,argouml.uml.ui.UMLListCellRenderer2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+240,org.argouml.uml.diagram.state.ui.UMLStateDiagram,argouml.uml.diagram.state.ui.UMLStateDiagram,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+241,org.argouml.uml.diagram.DiagramEdgeSettings,argouml.uml.diagram.DiagramEdgeSettings,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+242,org.argouml.uml.diagram.deployment.DeploymentDiagramGraphModel,argouml.uml.diagram.deployment.DeploymentDiagramGraphModel,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+243,org.argouml.uml.reveng.Setting,argouml.uml.reveng.Setting,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+244,org.argouml.ui.TabResults,argouml.ui.TabResults,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+245,org.argouml.uml.cognitive.critics.CrCompInstanceWithoutNode,argouml.uml.cognitive.critics.CrCompInstanceWithoutNode,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+246,org.argouml.uml.cognitive.critics.CrMultipleDeepHistoryStates,argouml.uml.cognitive.critics.CrMultipleDeepHistoryStates,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+247,org.argouml.uml.ui.ActionBooleanTaggedValue,argouml.uml.ui.ActionBooleanTaggedValue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+248,org.argouml.ui.explorer.DnDExplorerTree,argouml.ui.explorer.DnDExplorerTree,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+249,org.argouml.swingext.GlassPane,argouml.swingext.GlassPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+250,org.argouml.util.ItemUID,argouml.util.ItemUID,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+251,org.argouml.uml.cognitive.critics.CrWrongLinkEnds,argouml.uml.cognitive.critics.CrWrongLinkEnds,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+252,org.argouml.util.ChildGenerator,argouml.util.ChildGenerator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+253,org.argouml.util.Predicate,argouml.util.Predicate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+254,org.argouml.uml.cognitive.critics.CrNoTriggerOrGuard,argouml.uml.cognitive.critics.CrNoTriggerOrGuard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+255,org.argouml.ui.targetmanager.TargetManager,argouml.ui.targetmanager.TargetManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Controller
+256,org.argouml.util.PredicateStringMatch,argouml.util.PredicateStringMatch,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Service Provider
+257,org.argouml.ui.explorer.rules.GoSummaryToInheritance,argouml.ui.explorer.rules.GoSummaryToInheritance,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+258,org.argouml.uml.cognitive.critics.CrInterfaceAllPublic,argouml.uml.cognitive.critics.CrInterfaceAllPublic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+259,org.argouml.uml.cognitive.critics.CrDisambigStateName,argouml.uml.cognitive.critics.CrDisambigStateName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+260,org.argouml.ui.ActionExportXMI,argouml.ui.ActionExportXMI,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+261,org.argouml.uml.ui.UMLModelElementCommentDocument,argouml.uml.ui.UMLModelElementCommentDocument,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+262,org.argouml.kernel.ProjectImpl,argouml.kernel.ProjectImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+263,org.argouml.profile.URLModelLoader,argouml.profile.URLModelLoader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+264,org.argouml.uml.GenCompositeClasses2,argouml.uml.GenCompositeClasses2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+265,org.argouml.uml.cognitive.critics.CrDupRoleNames,argouml.uml.cognitive.critics.CrDupRoleNames,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+266,org.argouml.util.osdep.StartBrowser,argouml.util.osdep.StartBrowser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+267,org.argouml.uml.cognitive.critics.CrNoAssociations,argouml.uml.cognitive.critics.CrNoAssociations,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+268,org.argouml.notation.providers.uml.ComponentInstanceNotationUml,argouml.notation.providers.uml.ComponentInstanceNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+269,org.argouml.uml.diagram.ui.SelectionRerouteEdge,argouml.uml.diagram.ui.SelectionRerouteEdge,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+270,org.argouml.ui.cmd.ActionShowXMLDump,argouml.ui.cmd.ActionShowXMLDump,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+271,org.argouml.uml.cognitive.critics.CrUnconventionalOperName,argouml.uml.cognitive.critics.CrUnconventionalOperName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+272,org.argouml.uml.cognitive.critics.CrInvalidFork,argouml.uml.cognitive.critics.CrInvalidFork,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+273,org.argouml.uml.ui.foundation.core.ActionSetParameterDirectionKind,argouml.uml.ui.foundation.core.ActionSetParameterDirectionKind,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+274,org.argouml.profile.internal.ProfileManagerImpl,argouml.profile.internal.ProfileManagerImpl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+275,org.argouml.profile.ZipModelLoader,argouml.profile.ZipModelLoader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+276,org.argouml.uml.cognitive.critics.CrNoInstanceVariables,argouml.uml.cognitive.critics.CrNoInstanceVariables,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+277,org.argouml.uml.cognitive.critics.CrInvalidJoinTriggerOrGuard,argouml.uml.cognitive.critics.CrInvalidJoinTriggerOrGuard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+278,org.argouml.cognitive.ui.AddToDoItemDialog,argouml.cognitive.ui.AddToDoItemDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+279,org.argouml.ui.explorer.rules.GoClassToNavigableClass,argouml.ui.explorer.rules.GoClassToNavigableClass,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+280,org.argouml.uml.cognitive.critics.CrWrongDepEnds,argouml.uml.cognitive.critics.CrWrongDepEnds,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+281,org.argouml.uml.cognitive.critics.CrInvalidSynch,argouml.uml.cognitive.critics.CrInvalidSynch,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+282,org.argouml.uml.ui.ActionStateDiagram,argouml.uml.ui.ActionStateDiagram,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+283,org.argouml.uml.diagram.ui.ActionMultiplicity,argouml.uml.diagram.ui.ActionMultiplicity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+284,org.argouml.ui.HeapMonitor,argouml.ui.HeapMonitor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+285,org.argouml.uml.cognitive.critics.WizNavigable,argouml.uml.cognitive.critics.WizNavigable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+286,org.argouml.uml.cognitive.critics.CrInvalidBranch,argouml.uml.cognitive.critics.CrInvalidBranch,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+287,org.argouml.uml.cognitive.critics.CrUML,argouml.uml.cognitive.critics.CrUML,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+288,org.argouml.uml.diagram.ui.FigAssociationClass,argouml.uml.diagram.ui.FigAssociationClass,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+289,org.argouml.uml.diagram.ui.FigTextGroup,argouml.uml.diagram.ui.FigTextGroup,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+290,org.argouml.ui.cmd.CmdSetPreferredSize,argouml.ui.cmd.CmdSetPreferredSize,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+291,org.argouml.ui.explorer.rules.GoStatemachineToDiagram,argouml.ui.explorer.rules.GoStatemachineToDiagram,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+292,org.argouml.uml.ui.ActionAddDiagram,argouml.uml.ui.ActionAddDiagram,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+293,org.argouml.uml.cognitive.critics.CrUnconventionalAttrName,argouml.uml.cognitive.critics.CrUnconventionalAttrName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+294,org.argouml.uml.generator.TempFileUtils,argouml.uml.generator.TempFileUtils,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+295,org.argouml.uml.ui.ActionOpenProject,argouml.uml.ui.ActionOpenProject,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+296,org.argouml.ui.ProjectActions,argouml.ui.ProjectActions,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+297,org.argouml.i18n.Translator,argouml.i18n.Translator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+298,org.argouml.notation.providers.uml.ObjectNotationUml,argouml.notation.providers.uml.ObjectNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+299,org.argouml.notation.providers.uml.ExtensionPointNotationUml,argouml.notation.providers.uml.ExtensionPointNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+300,org.argouml.ui.MenuBar14,argouml.ui.MenuBar14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+301,org.argouml.uml.cognitive.critics.CrNodesOverlap,argouml.uml.cognitive.critics.CrNodesOverlap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+302,org.argouml.uml.cognitive.critics.CrOperNameConflict,argouml.uml.cognitive.critics.CrOperNameConflict,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+303,org.argouml.uml.ui.foundation.core.ActionSetModelElementVisibility,argouml.uml.ui.foundation.core.ActionSetModelElementVisibility,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+304,org.argouml.util.Tools,argouml.util.Tools,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+305,org.argouml.ui.explorer.ActionExportProfileXMI,argouml.ui.explorer.ActionExportProfileXMI,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+306,org.argouml.ui.explorer.TypeThenNameOrder,argouml.ui.explorer.TypeThenNameOrder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+307,org.argouml.uml.cognitive.critics.CrSubclassReference,argouml.uml.cognitive.critics.CrSubclassReference,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+308,org.argouml.uml.cognitive.critics.WizAssocComposite,argouml.uml.cognitive.critics.WizAssocComposite,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+309,org.argouml.uml.diagram.ui.AbstractActionCheckBoxMenuItem,argouml.uml.diagram.ui.AbstractActionCheckBoxMenuItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+310,org.argouml.uml.cognitive.critics.CrComponentWithoutNode,argouml.uml.cognitive.critics.CrComponentWithoutNode,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+311,org.argouml.uml.cognitive.critics.WizBreakCircularComp,argouml.uml.cognitive.critics.WizBreakCircularComp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+312,org.argouml.ocl.OCLUtil,argouml.ocl.OCLUtil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+313,org.argouml.application.events.ArgoEventPump,argouml.application.events.ArgoEventPump,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+314,org.argouml.util.ToolBarUtility,argouml.util.ToolBarUtility,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+315,org.argouml.ui.cmd.ActionNew,argouml.ui.cmd.ActionNew,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+316,org.argouml.uml.cognitive.critics.CrObjectWithoutClassifier,argouml.uml.cognitive.critics.CrObjectWithoutClassifier,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+317,org.argouml.uml.ui.foundation.core.ActionSetOperationConcurrencyKind,argouml.uml.ui.foundation.core.ActionSetOperationConcurrencyKind,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+318,org.argouml.uml.cognitive.critics.CrOppEndConflict,argouml.uml.cognitive.critics.CrOppEndConflict,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+319,org.argouml.ui.TabText,argouml.ui.TabText,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+320,org.argouml.ui.explorer.rules.GoCriticsToCritic,argouml.ui.explorer.rules.GoCriticsToCritic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+321,org.argouml.cognitive.ui.WizStep,argouml.cognitive.ui.WizStep,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+322,org.argouml.notation.providers.uml.NodeInstanceNotationUml,argouml.notation.providers.uml.NodeInstanceNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+323,org.argouml.uml.diagram.ui.StylePanelFigAssociationClass,argouml.uml.diagram.ui.StylePanelFigAssociationClass,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+324,org.argouml.uml.cognitive.critics.CrNoIncomingTransitions,argouml.uml.cognitive.critics.CrNoIncomingTransitions,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+325,org.argouml.uml.ui.ActionGenerateProjectCode,argouml.uml.ui.ActionGenerateProjectCode,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+326,org.argouml.pattern.cognitive.critics.CrConsiderSingleton,argouml.pattern.cognitive.critics.CrConsiderSingleton,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+327,org.argouml.uml.cognitive.critics.CrNoTransitions,argouml.uml.cognitive.critics.CrNoTransitions,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+328,org.argouml.persistence.TodoListMemberFilePersister,argouml.persistence.TodoListMemberFilePersister,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+329,org.argouml.uml.cognitive.critics.CrMultipleAgg,argouml.uml.cognitive.critics.CrMultipleAgg,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+330,org.argouml.uml.cognitive.critics.CrOppEndVsAttr,argouml.uml.cognitive.critics.CrOppEndVsAttr,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+331,org.argouml.uml.ui.foundation.core.UMLModelElementVisibilityRadioButtonPanel,argouml.uml.ui.foundation.core.UMLModelElementVisibilityRadioButtonPanel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+332,org.argouml.uml.diagram.ui.ActionEdgesDisplay,argouml.uml.diagram.ui.ActionEdgesDisplay,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+333,org.argouml.uml.cognitive.critics.CrClassWithoutComponent,argouml.uml.cognitive.critics.CrClassWithoutComponent,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+334,org.argouml.uml.cognitive.critics.CrInvalidPseudoStateTrigger,argouml.uml.cognitive.critics.CrInvalidPseudoStateTrigger,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+335,org.argouml.uml.cognitive.critics.CrInvalidJoin,argouml.uml.cognitive.critics.CrInvalidJoin,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+336,org.argouml.uml.cognitive.critics.CrComponentInstanceWithoutClassifier,argouml.uml.cognitive.critics.CrComponentInstanceWithoutClassifier,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+337,org.argouml.uml.diagram.ui.ActionSaveDiagramToClipboard,argouml.uml.diagram.ui.ActionSaveDiagramToClipboard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+338,org.argouml.uml.cognitive.critics.ProfileGoodPractices,argouml.uml.cognitive.critics.ProfileGoodPractices,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+339,org.argouml.uml.ui.ActionNewDiagram,argouml.uml.ui.ActionNewDiagram,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+340,org.argouml.uml.cognitive.critics.WizAddConstructor,argouml.uml.cognitive.critics.WizAddConstructor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+341,org.argouml.configuration.ConfigurationProperties,argouml.configuration.ConfigurationProperties,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+342,org.argouml.cognitive.ui.ToDoByGoal,argouml.cognitive.ui.ToDoByGoal,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+343,org.argouml.ui.explorer.NameOrder,argouml.ui.explorer.NameOrder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+344,org.argouml.kernel.DefaultUndoManager,argouml.kernel.DefaultUndoManager,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+345,org.argouml.cognitive.ui.ToDoByOffender,argouml.cognitive.ui.ToDoByOffender,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+346,org.argouml.uml.cognitive.critics.CrNodeInstanceWithoutClassifier,argouml.uml.cognitive.critics.CrNodeInstanceWithoutClassifier,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+347,org.argouml.cognitive.ui.KnowledgeTypeNode,argouml.cognitive.ui.KnowledgeTypeNode,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+348,org.argouml.profile.UserDefinedProfileHelper,argouml.profile.UserDefinedProfileHelper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+349,org.argouml.ui.explorer.ActionDeployProfile,argouml.ui.explorer.ActionDeployProfile,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+350,org.argouml.uml.ui.ActionSetSourcePath,argouml.uml.ui.ActionSetSourcePath,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+351,org.argouml.uml.cognitive.critics.CrMissingStateName,argouml.uml.cognitive.critics.CrMissingStateName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+352,org.argouml.persistence.ZipFilePersister,argouml.persistence.ZipFilePersister,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+353,org.argouml.uml.cognitive.critics.CrNavFromInterface,argouml.uml.cognitive.critics.CrNavFromInterface,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+354,org.argouml.uml.diagram.ui.DiagramNameDocument,argouml.uml.diagram.ui.DiagramNameDocument,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+355,org.argouml.uml.cognitive.critics.CrMultipleShallowHistoryStates,argouml.uml.cognitive.critics.CrMultipleShallowHistoryStates,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+356,org.argouml.uml.diagram.ui.DnDJGraph,argouml.uml.diagram.ui.DnDJGraph,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+357,org.argouml.uml.cognitive.critics.CrUnconventionalPackName,argouml.uml.cognitive.critics.CrUnconventionalPackName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+358,org.argouml.uml.ui.SourcePathDialog,argouml.uml.ui.SourcePathDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+359,org.argouml.uml.cognitive.critics.CrNoInitialState,argouml.uml.cognitive.critics.CrNoInitialState,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+360,org.argouml.cognitive.critics.ui.CriticBrowserDialog,argouml.cognitive.critics.ui.CriticBrowserDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+361,org.argouml.uml.util.PathComparator,argouml.uml.util.PathComparator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+362,org.argouml.ui.explorer.ExplorerEventAdaptor,argouml.ui.explorer.ExplorerEventAdaptor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+363,org.argouml.cognitive.ui.WizDescription,argouml.cognitive.ui.WizDescription,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+364,org.argouml.uml.reveng.DiagramInterface,argouml.uml.reveng.DiagramInterface,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+365,org.argouml.uml.cognitive.critics.CrNoOutgoingTransitions,argouml.uml.cognitive.critics.CrNoOutgoingTransitions,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+366,org.argouml.uml.cognitive.critics.CrDisambigClassName,argouml.uml.cognitive.critics.CrDisambigClassName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+367,org.argouml.uml.cognitive.critics.CrReservedName,argouml.uml.cognitive.critics.CrReservedName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+368,org.argouml.uml.ui.foundation.core.ActionAddDataType,argouml.uml.ui.foundation.core.ActionAddDataType,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+369,org.argouml.uml.cognitive.critics.CrAssocNameConflict,argouml.uml.cognitive.critics.CrAssocNameConflict,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+370,org.argouml.uml.cognitive.critics.CrMergeClasses,argouml.uml.cognitive.critics.CrMergeClasses,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+371,org.argouml.ui.SettingsTabPreferences,argouml.ui.SettingsTabPreferences,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+372,org.argouml.uml.cognitive.critics.ProfileCodeGeneration,argouml.uml.cognitive.critics.ProfileCodeGeneration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+373,org.argouml.uml.cognitive.critics.CrNameConfusion,argouml.uml.cognitive.critics.CrNameConfusion,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+374,org.argouml.uml.diagram.ui.FigEdgeModelElement,argouml.uml.diagram.ui.FigEdgeModelElement,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+375,org.argouml.kernel.MemberList,argouml.kernel.MemberList,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+376,org.argouml.kernel.AbstractProjectMember,argouml.kernel.AbstractProjectMember,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+377,org.argouml.notation.providers.uml.StateBodyNotationUml,argouml.notation.providers.uml.StateBodyNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+378,org.argouml.cognitive.ui.ToDoByType,argouml.cognitive.ui.ToDoByType,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+379,org.argouml.uml.cognitive.critics.CrConflictingComposites,argouml.uml.cognitive.critics.CrConflictingComposites,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+380,org.argouml.cognitive.ui.GoListToDecisionsToItems,argouml.cognitive.ui.GoListToDecisionsToItems,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+381,org.argouml.persistence.FigEdgeHandler,argouml.persistence.FigEdgeHandler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+382,org.argouml.application.helpers.ResourceLoaderWrapper,argouml.application.helpers.ResourceLoaderWrapper,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+383,org.argouml.uml.ui.ActionSaveAllGraphics,argouml.uml.ui.ActionSaveAllGraphics,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+384,org.argouml.uml.ui.ActionDeleteModelElements,argouml.uml.ui.ActionDeleteModelElements,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+385,org.argouml.uml.diagram.ui.RadioAction,argouml.uml.diagram.ui.RadioAction,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+386,org.argouml.persistence.ArgoTokenTable,argouml.persistence.ArgoTokenTable,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+387,org.argouml.uml.cognitive.critics.CrConstructorNeeded,argouml.uml.cognitive.critics.CrConstructorNeeded,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+388,org.argouml.uml.ui.foundation.core.ActionAddEnumeration,argouml.uml.ui.foundation.core.ActionAddEnumeration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+389,org.argouml.ui.cmd.ActionAdjustSnap,argouml.ui.cmd.ActionAdjustSnap,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+390,org.argouml.uml.cognitive.critics.CrUtilityViolated,argouml.uml.cognitive.critics.CrUtilityViolated,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+391,org.argouml.ui.ZoomSliderButton,argouml.ui.ZoomSliderButton,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+392,org.argouml.uml.cognitive.critics.CrInstanceWithoutClassifier,argouml.uml.cognitive.critics.CrInstanceWithoutClassifier,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+393,org.argouml.uml.diagram.ui.AbstractActionRadioMenuItem,argouml.uml.diagram.ui.AbstractActionRadioMenuItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+394,org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml,argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+395,org.argouml.notation.providers.uml.InitNotationUml,argouml.notation.providers.uml.InitNotationUml,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+396,org.argouml.notation.NotationSettings,argouml.notation.NotationSettings,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+397,org.argouml.moduleloader.SettingsTabModules,argouml.moduleloader.SettingsTabModules,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+398,org.argouml.uml.cognitive.critics.CrSeqInstanceWithoutClassifier,argouml.uml.cognitive.critics.CrSeqInstanceWithoutClassifier,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+399,org.argouml.cognitive.ui.GoListToOffenderToItem,argouml.cognitive.ui.GoListToOffenderToItem,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+400,org.argouml.profile.internal.ui.PropPanelCritic,argouml.profile.internal.ui.PropPanelCritic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+401,org.argouml.uml.cognitive.critics.CrInvalidForkTriggerOrGuard,argouml.uml.cognitive.critics.CrInvalidForkTriggerOrGuard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+402,org.argouml.application.StartCritics,argouml.application.StartCritics,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+403,org.argouml.uml.diagram.ui.ActionSetPath,argouml.uml.diagram.ui.ActionSetPath,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+404,org.argouml.ui.MenuBar2,argouml.ui.MenuBar2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+405,org.argouml.uml.cognitive.critics.CrMultipleInitialStates,argouml.uml.cognitive.critics.CrMultipleInitialStates,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+406,org.argouml.ui.cmd.LastRecentlyUsedMenuList,argouml.ui.cmd.LastRecentlyUsedMenuList,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+407,org.argouml.uml.diagram.ui.TabDiagram,argouml.uml.diagram.ui.TabDiagram,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+408,org.argouml.ui.StylePanelFigText,argouml.ui.StylePanelFigText,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+409,org.argouml.cognitive.ui.ToDoPane,argouml.cognitive.ui.ToDoPane,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+410,org.argouml.ui.SystemInfoDialog,argouml.ui.SystemInfoDialog,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+411,org.argouml.persistence.DiagramMemberFilePersister,argouml.persistence.DiagramMemberFilePersister,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+412,org.argouml.util.ArgoFrame,argouml.util.ArgoFrame,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+413,org.argouml.ui.explorer.rules.GoClassToSummary,argouml.ui.explorer.rules.GoClassToSummary,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+414,org.argouml.cognitive.ui.ToDoByDecision,argouml.cognitive.ui.ToDoByDecision,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+415,org.argouml.uml.cognitive.critics.CrNoOperations,argouml.uml.cognitive.critics.CrNoOperations,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+416,org.argouml.ui.cmd.ActionNewProfile,argouml.ui.cmd.ActionNewProfile,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+417,org.argouml.notation.providers.MessageNotation,argouml.notation.providers.MessageNotation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+418,org.argouml.uml.cognitive.critics.CrNWayAgg,argouml.uml.cognitive.critics.CrNWayAgg,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+419,org.argouml.uml.ui.ActionGenerateAll,argouml.uml.ui.ActionGenerateAll,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+420,org.argouml.ui.explorer.rules.GoNamespaceToOwnedElements,argouml.ui.explorer.rules.GoNamespaceToOwnedElements,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+421,org.argouml.cognitive.ui.ToDoByPriority,argouml.cognitive.ui.ToDoByPriority,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+422,org.argouml.persistence.TodoParser,argouml.persistence.TodoParser,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+423,org.argouml.uml.cognitive.critics.CrInterfaceWithoutComponent,argouml.uml.cognitive.critics.CrInterfaceWithoutComponent,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+424,org.argouml.uml.ui.ActionImportFromSources,argouml.uml.ui.ActionImportFromSources,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+425,org.argouml.cognitive.ui.ToDoByPoster,argouml.cognitive.ui.ToDoByPoster,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+426,org.argouml.uml.cognitive.critics.CrNameConflict,argouml.uml.cognitive.critics.CrNameConflict,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+427,org.argouml.uml.ui.TabProps,argouml.uml.ui.TabProps,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+428,org.argouml.uml.reveng.ImportClassLoader,argouml.uml.reveng.ImportClassLoader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+429,org.argouml.ui.ActionImportXMI,argouml.ui.ActionImportXMI,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+430,org.argouml.kernel.ProfileConfiguration,argouml.kernel.ProfileConfiguration,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Structurer
+431,org.argouml.uml.cognitive.critics.CrDupParamName,argouml.uml.cognitive.critics.CrDupParamName,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+432,org.argouml.cognitive.ToDoList,argouml.cognitive.ToDoList,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+433,org.argouml.cognitive.StandardCM,argouml.cognitive.StandardCM,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Service Provider
+434,org.argouml.profile.CoreProfileReference,argouml.profile.CoreProfileReference,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Information Holder
+435,org.argouml.application.api.Argo,argouml.application.api.Argo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+436,org.argouml.uml.diagram.DiagramSettings,argouml.uml.diagram.DiagramSettings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+437,org.argouml.ui.SettingsTabProfile,argouml.ui.SettingsTabProfile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+438,org.argouml.ui.FindDialog,argouml.ui.FindDialog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+439,org.argouml.persistence.ArgoParser,argouml.persistence.ArgoParser,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+440,org.argouml.uml.cognitive.critics.WizAddOperation,argouml.uml.cognitive.critics.WizAddOperation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+441,org.argouml.ui.cmd.SettingsTabShortcuts,argouml.ui.cmd.SettingsTabShortcuts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+442,org.argouml.ui.JasonsHugeTheme,argouml.ui.JasonsHugeTheme,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+443,org.argouml.uml.diagram.collaboration.CollabDiagramGraphModel,argouml.uml.diagram.collaboration.CollabDiagramGraphModel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+444,org.argouml.uml.ui.TabSrc,argouml.uml.ui.TabSrc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+445,org.argouml.uml.diagram.ui.SettingsTabDiagramAppearance,argouml.uml.diagram.ui.SettingsTabDiagramAppearance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+446,org.argouml.uml.diagram.ui.ActionList,argouml.uml.diagram.ui.ActionList,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+447,org.argouml.ui.explorer.PerspectiveConfigurator,argouml.ui.explorer.PerspectiveConfigurator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+448,org.argouml.ui.ProjectSettingsTabProfile,argouml.ui.ProjectSettingsTabProfile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+449,org.argouml.uml.ui.TabStyle,argouml.uml.ui.TabStyle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+450,org.argouml.persistence.ToDoItemXMLHelper,argouml.persistence.ToDoItemXMLHelper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+451,org.argouml.uml.util.namespace.StringNamespace,argouml.uml.util.namespace.StringNamespace,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+452,org.argouml.ui.cmd.GenericArgoMenuBar,argouml.ui.cmd.GenericArgoMenuBar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+453,org.argouml.moduleloader.ModuleLoader2,argouml.moduleloader.ModuleLoader2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+454,org.argouml.ui.JasonsTheme,argouml.ui.JasonsTheme,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+455,org.argouml.uml.ui.UMLChangeDispatch,argouml.uml.ui.UMLChangeDispatch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+456,org.argouml.uml.cognitive.critics.WizOperName,argouml.uml.cognitive.critics.WizOperName,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+457,org.argouml.uml.cognitive.critics.WizAddInstanceVariable,argouml.uml.cognitive.critics.WizAddInstanceVariable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+458,org.argouml.configuration.ConfigurationHandler,argouml.configuration.ConfigurationHandler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+459,org.argouml.persistence.TodoTokenTable,argouml.persistence.TodoTokenTable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+460,org.argouml.ui.JasonsBigTheme,argouml.ui.JasonsBigTheme,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+461,org.argouml.notation.ui.SettingsTabNotation,argouml.notation.ui.SettingsTabNotation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+462,org.argouml.ui.DetailsPane,argouml.ui.DetailsPane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+463,org.argouml.notation.providers.uml.TransitionNotationUml,argouml.notation.providers.uml.TransitionNotationUml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+464,org.argouml.uml.cognitive.critics.WizManyNames,argouml.uml.cognitive.critics.WizManyNames,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+465,org.argouml.ui.MultiEditorPane,argouml.ui.MultiEditorPane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+466,org.argouml.uml.ui.UMLExpressionModel2,argouml.uml.ui.UMLExpressionModel2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+467,org.argouml.notation.providers.uml.AssociationRoleNotationUml,argouml.notation.providers.uml.AssociationRoleNotationUml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+468,org.argouml.uml.ui.TabStereotype,argouml.uml.ui.TabStereotype,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+469,org.argouml.uml.generator.ui.ClassGenerationDialog,argouml.uml.generator.ui.ClassGenerationDialog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+470,org.argouml.uml.cognitive.critics.WizMEName,argouml.uml.cognitive.critics.WizMEName,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+471,org.argouml.notation.providers.uml.CallStateNotationUml,argouml.notation.providers.uml.CallStateNotationUml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+472,org.argouml.uml.ui.TabTaggedValues,argouml.uml.ui.TabTaggedValues,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+473,org.argouml.util.KeyEventUtils,argouml.util.KeyEventUtils,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+474,org.argouml.ui.LookAndFeelMgr,argouml.ui.LookAndFeelMgr,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+475,org.argouml.notation.providers.uml.ClassifierRoleNotationUml,argouml.notation.providers.uml.ClassifierRoleNotationUml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+476,org.argouml.ui.explorer.PerspectiveManager,argouml.ui.explorer.PerspectiveManager,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+477,org.argouml.cognitive.critics.Wizard,argouml.cognitive.critics.Wizard,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+478,org.argouml.uml.cognitive.critics.WizTooMany,argouml.uml.cognitive.critics.WizTooMany,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+479,org.argouml.cognitive.ui.TabToDo,argouml.cognitive.ui.TabToDo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+480,org.argouml.uml.ui.TabConstraints,argouml.uml.ui.TabConstraints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+481,org.argouml.uml.cognitive.critics.ChildGenUML,argouml.uml.cognitive.critics.ChildGenUML,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+482,org.argouml.cognitive.ui.DesignIssuesDialog,argouml.cognitive.ui.DesignIssuesDialog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+483,org.argouml.uml.diagram.collaboration.ui.PropPanelUMLCollaborationDiagram,argouml.uml.diagram.collaboration.ui.PropPanelUMLCollaborationDiagram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+484,org.argouml.notation.providers.ComponentInstanceNotation,argouml.notation.providers.ComponentInstanceNotation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+485,org.argouml.profile.internal.ocl.InvalidOclException,argouml.profile.internal.ocl.InvalidOclException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+486,org.argouml.uml.diagram.ui.FigUsage,argouml.uml.diagram.ui.FigUsage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+487,org.argouml.persistence.OldModelMemberFilePersister,argouml.persistence.OldModelMemberFilePersister,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+488,org.argouml.uml.diagram.ui.ActionStereotypeViewBigIcon,argouml.uml.diagram.ui.ActionStereotypeViewBigIcon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+489,org.argouml.persistence.UmlVersionException,argouml.persistence.UmlVersionException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+490,org.argouml.notation.providers.MultiplicityNotation,argouml.notation.providers.MultiplicityNotation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+491,org.argouml.notation.providers.ExtensionPointNotation,argouml.notation.providers.ExtensionPointNotation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+492,org.argouml.uml.diagram.ui.ActionStereotypeViewTextual,argouml.uml.diagram.ui.ActionStereotypeViewTextual,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+493,org.argouml.cognitive.UnresolvableException,argouml.cognitive.UnresolvableException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+494,org.argouml.uml.diagram.ui.SPFigEdgeModelElement,argouml.uml.diagram.ui.SPFigEdgeModelElement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+495,org.argouml.uml.diagram.ui.ActionStereotypeViewSmallIcon,argouml.uml.diagram.ui.ActionStereotypeViewSmallIcon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+496,org.argouml.uml.ui.UMLDerivedCheckBox,argouml.uml.ui.UMLDerivedCheckBox,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+497,org.argouml.uml.diagram.ui.FigPermission,argouml.uml.diagram.ui.FigPermission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+498,org.argouml.kernel.ProjectEvent,argouml.kernel.ProjectEvent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+499,org.argouml.uml.diagram.activity.ui.PropPanelUMLActivityDiagram,argouml.uml.diagram.activity.ui.PropPanelUMLActivityDiagram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+500,org.argouml.uml.diagram.state.ui.PropPanelUMLStateDiagram,argouml.uml.diagram.state.ui.PropPanelUMLStateDiagram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+501,org.argouml.persistence.VersionException,argouml.persistence.VersionException,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+502,org.argouml.uml.ui.UMLDeprecatedCheckBox,argouml.uml.ui.UMLDeprecatedCheckBox,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+503,org.argouml.uml.diagram.ui.ActionSetAddCommentLinkMode,argouml.uml.diagram.ui.ActionSetAddCommentLinkMode,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+504,org.argouml.uml.diagram.deployment.ui.PropPanelUMLDeploymentDiagram,argouml.uml.diagram.deployment.ui.PropPanelUMLDeploymentDiagram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider

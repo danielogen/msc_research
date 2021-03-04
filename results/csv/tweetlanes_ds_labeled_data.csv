@@ -1,0 +1,61 @@
+,FullClassPath,SubClassPath,SpeculativeGenerality,BaseClassKnowsDerivedClass,MessageChains,LongParameterList,SpaghettiCode,BaseClassShouldBeAbstract,LongMethod,ClassDataShouldBePrivate,TraditionBreaker,ManyFieldAttributesButNotComplex,RefusedParentBequest,SwissArmyKnife,Blob,AntiSingleton,ComplexClass,LargeClass,FunctionalDecomposition,LazyClass,label
+0,com.tweetlanes.android.core.Notifier,android.core.Notifier,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+1,com.tweetlanes.android.core.widget.urlimageviewhelper.UrlImageViewHelper,android.core.widget.urlimageviewhelper.UrlImageViewHelper,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+2,com.tweetlanes.android.core.util.LazyImageLoader,android.core.util.LazyImageLoader,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+3,com.tweetlanes.android.core.view.DirectMessageItemView,android.core.view.DirectMessageItemView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+4,com.tweetlanes.android.core.model.AccountDescriptor,android.core.model.AccountDescriptor,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+5,com.tweetlanes.android.core.view.DirectMessageFeedFragment,android.core.view.DirectMessageFeedFragment,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+6,org.tweetalib.android.TwitterManager,android.TwitterManager,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+7,org.tweetalib.android.fetch.TwitterFetchDirectMessages,android.fetch.TwitterFetchDirectMessages,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+8,com.tweetlanes.android.core.view.TweetFeedItemView,android.core.view.TweetFeedItemView,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+9,org.tweetalib.android.model.TwitterStatuses,android.model.TwitterStatuses,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+10,com.tweetlanes.android.core.widget.gestureimageview.GestureImageView,android.core.widget.gestureimageview.GestureImageView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+11,com.tweetlanes.android.core.view.ImageViewActivity,android.core.view.ImageViewActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+12,com.tweetlanes.android.core.widget.AutoResizeTextView,android.core.widget.AutoResizeTextView,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+13,com.tweetlanes.android.core.model.ComposeTweetDefault,android.core.model.ComposeTweetDefault,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+14,com.tweetlanes.android.core.view.TweetSpotlightActivity,android.core.view.TweetSpotlightActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+15,com.tweetlanes.android.core.App,android.core.App,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+16,com.tweetlanes.android.core.view.ProfileFragment,android.core.view.ProfileFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+17,com.tweetlanes.android.core.view.TweetSpotlightFragment,android.core.view.TweetSpotlightFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+18,com.tweetlanes.android.core.view.ComposeBaseFragment,android.core.view.ComposeBaseFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+19,com.tweetlanes.android.core.widget.gestureimageview.GestureImageViewTouchListener,android.core.widget.gestureimageview.GestureImageViewTouchListener,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+20,com.tweetlanes.android.core.dashclock.TweetLanesExtension,android.core.dashclock.TweetLanesExtension,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+21,com.tweetlanes.android.core.view.BaseLaneActivity,android.core.view.BaseLaneActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+22,com.tweetlanes.android.core.view.AppDotNetAuthActivity,android.core.view.AppDotNetAuthActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+23,com.tweetlanes.android.core.AppSettings,android.core.AppSettings,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+24,com.tweetlanes.android.core.view.TweetFeedFragment,android.core.view.TweetFeedFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+25,com.tweetlanes.android.core.view.ComposeTweetFragment,android.core.view.ComposeTweetFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+26,org.tweetalib.android.model.TwitterStatus,android.model.TwitterStatus,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Interfacer
+27,org.tweetalib.android.model.TwitterStatus[],android.model.TwitterStatus,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+28,com.tweetlanes.android.core.util.Util,android.core.util.Util,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+29,com.tweetlanes.android.core.view.UserFeedFragment,android.core.view.UserFeedFragment,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Interfacer
+30,com.tweetlanes.android.core.widget.viewpagerindicator.UnderlinePageIndicator,android.core.widget.viewpagerindicator.UnderlinePageIndicator,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+31,com.tweetlanes.android.core.widget.gestureimageview.ZoomAnimation,android.core.widget.gestureimageview.ZoomAnimation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Information Holder
+32,org.tweetalib.android.model.TwitterDirectMessage,android.model.TwitterDirectMessage,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Service Provider
+33,com.tweetlanes.android.core.widget.urlimageviewhelper.LruCache,android.core.widget.urlimageviewhelper.LruCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+34,com.tweetlanes.android.core.view.HomeActivity,android.core.view.HomeActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+35,com.tweetlanes.android.core.view.ProfileActivity,android.core.view.ProfileActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+36,com.tweetlanes.android.core.widget.urlimageviewhelper.DiskLruCache,android.core.widget.urlimageviewhelper.DiskLruCache,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+37,com.tweetlanes.android.core.view.BootActivity,android.core.view.BootActivity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+38,com.tweetlanes.android.core.widget.pulltorefresh.PullToRefreshBase,android.core.widget.pulltorefresh.PullToRefreshBase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+39,com.tweetlanes.android.core.widget.urlimageviewhelper.HttpUrlDownloader,android.core.widget.urlimageviewhelper.HttpUrlDownloader,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Service Provider
+40,org.tweetalib.android.model.TwitterMediaEntity,android.model.TwitterMediaEntity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+41,com.tweetlanes.android.core.widget.gestureimageview.VectorF,android.core.widget.gestureimageview.VectorF,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Information Holder
+42,org.tweetalib.android.TwitterFetchStatus,android.TwitterFetchStatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+43,org.tweetalib.android.TwitterFetchUsers,android.TwitterFetchUsers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+44,com.tweetlanes.android.core.view.SettingsActivity,android.core.view.SettingsActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+45,org.tweetalib.android.TwitterFetchBooleans,android.TwitterFetchBooleans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+46,com.tweetlanes.android.core.view.QuickContactDivot,android.core.view.QuickContactDivot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Information Holder
+47,org.socialnetlib.android.SocialNetApi,android.SocialNetApi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+48,com.tweetlanes.android.core.widget.pulltorefresh.PullToRefreshListView,android.core.widget.pulltorefresh.PullToRefreshListView,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+49,org.tweetalib.android.TwitterModifyStatuses,android.TwitterModifyStatuses,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+50,org.tweetalib.android.TwitterModifyDirectMessages,android.TwitterModifyDirectMessages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+51,com.tweetlanes.android.core.view.SearchActivity,android.core.view.SearchActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+52,com.tweetlanes.android.core.view.TutorialActivity,android.core.view.TutorialActivity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Service Provider
+53,org.tweetalib.android.fetch.TwitterFetchStatuses,android.fetch.TwitterFetchStatuses,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Interfacer
+54,com.tweetlanes.android.core.view.DeleteNotificationsReceiver,android.core.view.DeleteNotificationsReceiver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+55,org.tweetalib.android.TwitterConstant,android.TwitterConstant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+56,com.tweetlanes.android.core.widget.urlimageviewhelper.UrlLruCache,android.core.widget.urlimageviewhelper.UrlLruCache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+57,com.tweetlanes.android.core.view.DeviceBootReciever,android.core.view.DeviceBootReciever,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Service Provider
+58,org.socialnetlib.android.SocialNetConstant,android.SocialNetConstant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
+59,com.tweetlanes.android.core.ConsumerKeyConstants,android.core.ConsumerKeyConstants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Information Holder
